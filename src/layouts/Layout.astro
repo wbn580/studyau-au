@@ -3,11 +3,6 @@ import { ClientRouter } from "astro:transitions";
 import {
   PUBLIC_GOOGLE_SITE_VERIFICATION,
   PUBLIC_BING_VERIFICATION,
-  PUBLIC_BAIDU_VERIFICATION,
-  PUBLIC_SOGOU_VERIFICATION,
-  PUBLIC_360_VERIFICATION,
-  PUBLIC_SHENMA_VERIFICATION,
-  PUBLIC_TOUTIAO_VERIFICATION,
 } from "astro:env/client";
 import { SITE } from "@/config";
 import FloatingActions from "@/components/FloatingActions.astro";
@@ -274,43 +269,6 @@ const organizationSchema = !isPost
     {
       PUBLIC_BING_VERIFICATION && (
         <meta name="msvalidate.01" content={PUBLIC_BING_VERIFICATION} />
-      )
-    }
-    {
-      PUBLIC_BAIDU_VERIFICATION && (
-        <meta
-          name="baidu-site-verification"
-          content={PUBLIC_BAIDU_VERIFICATION}
-        />
-      )
-    }
-    {
-      PUBLIC_SOGOU_VERIFICATION && (
-        <meta
-          name="sogou_site_verification"
-          content={PUBLIC_SOGOU_VERIFICATION}
-        />
-      )
-    }
-    {
-      PUBLIC_360_VERIFICATION && (
-        <meta name="360-site-verification" content={PUBLIC_360_VERIFICATION} />
-      )
-    }
-    {
-      PUBLIC_SHENMA_VERIFICATION && (
-        <meta
-          name="shenma-site-verification"
-          content={PUBLIC_SHENMA_VERIFICATION}
-        />
-      )
-    }
-    {
-      PUBLIC_TOUTIAO_VERIFICATION && (
-        <meta
-          name="bytedance-verification-code"
-          content={PUBLIC_TOUTIAO_VERIFICATION}
-        />
       )
     }
 

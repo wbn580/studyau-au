@@ -73,37 +73,6 @@ export default defineConfig({
         context: "client",
         optional: true,
       }),
-      // 百度站长平台 <meta name="baidu-site-verification" content="codeva-XXX" />
-      PUBLIC_BAIDU_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
-      // 搜狗站长平台
-      PUBLIC_SOGOU_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
-      // 360 搜索站长平台
-      PUBLIC_360_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
-      // 神马搜索（UC / 夸克）站长平台
-      PUBLIC_SHENMA_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
-      // 头条搜索（字节跳动 / 抖音搜索生态）站长平台
-      // <meta name="bytedance-verification-code" content="XXX" />
-      PUBLIC_TOUTIAO_VERIFICATION: envField.string({
-        access: "public",
-        context: "client",
-        optional: true,
-      }),
     },
   },
   experimental: {

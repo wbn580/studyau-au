@@ -85,6 +85,6 @@ Git is at `C:\Program Files\Git\cmd\git.exe` and is **not** in PATH when launche
 
 ## 9. Things that are intentionally NOT done
 
-- **No Baidu / Sogou / 360 submission.** The StudyUK sister site targets mainland China; StudyAU targets international students reading English and does not need `CN-submission.md`.
+- **No mainland-China search-engine submission.** StudyAU targets international students reading English — Baidu / Sogou / 360 / Shenma are out of scope.
 - **No analytics script.** GEO-first means we care about crawler citations, not pageview dashboards. Add Cloudflare Web Analytics (cookieless, free) only if we later need traffic data — it's a single snippet in `Layout.astro`.
 - **No chat widget, no newsletter popup.** See `CLAUDE.md` §1 — there is exactly one CTA (the floating icon to the UniLink assessment form).
