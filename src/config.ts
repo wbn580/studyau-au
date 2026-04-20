@@ -1,0 +1,23 @@
+export const SITE = {
+  website: "https://studyau.au/",
+  author: "StudyAU",
+  profile: "https://studyau.au/about/",
+  desc: "A comprehensive guide to studying in Australia for international students worldwide. University selection, courses, Student Visa (subclass 500), accommodation, cost of living, and post-study work — grounded in data from the Department of Home Affairs, Department of Education, and universities.",
+  title: "StudyAU — Study in Australia",
+  ogImage: "og-image.png",
+  lightAndDarkMode: true,
+  postPerIndex: 8,
+  postPerPage: 12,
+  scheduledPostMargin: 15 * 60 * 1000,
+  showArchives: true,
+  showBackButton: true,
+  editPost: {
+    enabled: false,
+    text: "",
+    url: "",
+  },
+  dynamicOgImage: true,
+  dir: "ltr",
+  lang: "en-AU",
+  timezone: "Australia/Sydney",
+} as const;

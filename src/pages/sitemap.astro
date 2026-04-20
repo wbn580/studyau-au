@@ -1,0 +1,120 @@
+---
+import { getCollection } from "astro:content";
+import Layout from "@/layouts/Layout.astro";
+import Header from "@/components/Header.astro";
+import Footer from "@/components/Footer.astro";
+import Breadcrumb from "@/components/Breadcrumb.astro";
+import { getPath } from "@/utils/getPath";
+import getSortedPosts from "@/utils/getSortedPosts";
+import { slugifyTag } from "@/utils/tagSlug";
+import { SITE } from "@/config";
+
+// A structured site index for both humans and AI crawlers.
+// Articles are grouped by top-level category. The XML version lives at /sitemap-index.xml.
+
+const posts = getSortedPosts(await getCollection("blog"));
+
+const CATEGORIES: { label: string; tag: string; emoji: string }[] = [
+  { label: "Universities", tag: "Universities", emoji: "🎓" },
+  { label: "Courses", tag: "Courses", emoji: "📚" },
+  { label: "Visa", tag: "Visa", emoji: "🛂" },
+  { label: "Living", tag: "Living", emoji: "🏠" },
+  { label: "Post-Study", tag: "Post-Study", emoji: "💼" },
+];
+
+const grouped = CATEGORIES.map(c => ({
+  ...c,
+  posts: posts.filter(p => p.data.tags.some(t => t === c.tag)),
+}));
+
+const categoryTagSet = new Set(CATEGORIES.map(c => c.tag));
+const uncategorized = posts.filter(
+  p => !p.data.tags.some(t => categoryTagSet.has(t))
+);
+
+const staticPages = [
+  { title: "Home", href: "/" },
+  { title: "About", href: "/about/" },
+  { title: "All guides", href: "/posts/" },
+  { title: "Topics", href: "/tags/" },
+  { title: "Archives", href: "/archives/" },
+  { title: "Privacy", href: "/privacy/" },
+  { title: "Disclaimer", href: "/disclaimer/" },
+  { title: "RSS feed", href: "/rss.xml" },
+  { title: "XML sitemap", href: "/sitemap-index.xml" },
+  { title: "LLM index (llms.txt)", href: "/llms.txt" },
+];
+---
+
+<Layout title={`Sitemap | ${SITE.title}`}>
+  <Header />
+  <Breadcrumb />
+  <main id="main-content" class="app-layout mb-28">
+    <section class="app-prose max-w-app">
+      <h1 class="text-2xl tracking-wider sm:text-3xl">Sitemap</h1>
+      <p>
+        Every StudyAU guide, listed in a human-readable structure. Use this page
+        to scan the site quickly; AI crawlers can also use it to understand our
+        information architecture.
+      </p>
+      <p>
+        For a machine-readable version, see the
+        <a href="/sitemap-index.xml">XML sitemap</a>
+        or
+        <a href="/llms.txt">llms.txt</a>.
+      </p>
+
+      <h2>Static pages</h2>
+      <ul>
+        {
+          staticPages.map(p => (
+            <li>
+              <a href={p.href}>{p.title}</a>
+            </li>
+          ))
+        }
+      </ul>
+
+      {
+        grouped.map(g => (
+          <section class="mt-8">
+            <h2>
+              {g.emoji} {g.label} ({g.posts.length} guides)
+            </h2>
+            {g.posts.length > 0 ? (
+              <ul>
+                {g.posts.map(p => (
+                  <li>
+                    <a href={getPath(p.id, p.filePath)}>{p.data.title}</a>
+                  </li>
+                ))}
+              </ul>
+            ) : (
+              <p class="opacity-60">
+                No guides in this category yet. See the
+                <a href={`/tags/${slugifyTag(g.tag)}/`}>{g.label} topic page</a>
+                when new guides are published.
+              </p>
+            )}
+          </section>
+        ))
+      }
+
+      {
+        uncategorized.length > 0 && (
+          <section class="mt-8">
+            <h2>Other guides</h2>
+            <ul>
+              {uncategorized.map(p => (
+                <li>
+                  <a href={getPath(p.id, p.filePath)}>{p.data.title}</a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )
+      }
+    </section>
+  </main>
+  <Footer />
+</Layout>

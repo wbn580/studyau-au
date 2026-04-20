@@ -1,0 +1,79 @@
+---
+import { SHARE_LINKS } from "@/constants";
+import LinkButton from "./LinkButton.astro";
+
+// Full absolute URL of the current page
+const URL = Astro.url.toString();
+---
+
+<div class="flex flex-none flex-col items-center justify-center gap-1 md:items-start">
+  <span class="italic">Share this article:</span>
+  <div class="text-center" data-share-root data-share-url={URL}>
+    {
+      SHARE_LINKS.map(social => {
+        // "Copy" is a local JS action, not a navigable link
+        const isSpecial = social.name === "Copy";
+        const href = isSpecial
+          ? "javascript:void(0)"
+          : `${social.href}${encodeURIComponent(URL)}`;
+        const target = isSpecial ? undefined : "_blank";
+        const rel = isSpecial ? undefined : "nofollow noopener noreferrer";
+        return (
+          <LinkButton
+            href={href}
+            class="scale-90 p-2 hover:rotate-6 sm:p-1"
+            title={social.linkTitle}
+            data-share-action={social.name}
+            target={target}
+            rel={rel}
+          >
+            <social.icon class="inline-block size-6 scale-125 fill-transparent stroke-current stroke-2 opacity-90 group-hover:fill-transparent sm:scale-110" />
+            <span class="sr-only">{social.linkTitle}</span>
+          </LinkButton>
+        );
+      })
+    }
+  </div>
+
+  <!-- Copy-link toast -->
+  <span
+    id="copy-toast"
+    class="pointer-events-none fixed bottom-8 left-1/2 z-50 -translate-x-1/2 rounded-full bg-accent px-4 py-2 text-sm text-background opacity-0 shadow-lg transition-opacity duration-200"
+    role="status"
+  >
+    Link copied
+  </span>
+</div>
+
+<script>
+  function setupShare() {
+    const root = document.querySelector<HTMLElement>("[data-share-root]");
+    if (!root) return;
+    const url = root.dataset.shareUrl ?? location.href;
+
+    root
+      .querySelectorAll<HTMLAnchorElement>('[data-share-action="Copy"]')
+      .forEach(btn => {
+        btn.addEventListener("click", async e => {
+          e.preventDefault();
+          try {
+            await navigator.clipboard.writeText(url);
+          } catch {
+            const ta = document.createElement("textarea");
+            ta.value = url;
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand("copy");
+            document.body.removeChild(ta);
+          }
+          const toast = document.getElementById("copy-toast");
+          if (!toast) return;
+          toast.style.opacity = "1";
+          setTimeout(() => (toast.style.opacity = "0"), 1500);
+        });
+      });
+  }
+
+  setupShare();
+  document.addEventListener("astro:page-load", setupShare);
+</script>

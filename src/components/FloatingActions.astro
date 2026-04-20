@@ -1,0 +1,37 @@
+---
+// Single floating entry point: University shortlist assessment form.
+// Sticks to the bottom-right on every page (injected by Layout.astro).
+---
+
+<aside
+  class="fixed right-4 bottom-6 z-50 flex flex-col items-end gap-3 print:hidden"
+  aria-label="Quick actions"
+>
+  <!-- University assessment — external form -->
+  <a
+    href="https://unilinkau.mikecrm.com/srw6z8S"
+    target="_blank"
+    rel="nofollow noopener noreferrer"
+    class="flex items-center gap-2 rounded-full bg-accent px-4 py-3 text-sm font-medium text-background shadow-lg transition hover:-translate-y-0.5 hover:shadow-xl sm:px-5"
+    aria-label="Free university shortlist assessment (opens in a new tab)"
+    title="Free University Assessment"
+  >
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      width="20"
+      height="20"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      stroke-width="2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      aria-hidden="true"
+    >
+      <path d="M9 5H7a2 2 0 0 0-2 2v12a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2h-2"></path>
+      <rect x="9" y="3" width="6" height="4" rx="1"></rect>
+      <path d="m9 14 2 2 4-4"></path>
+    </svg>
+    <span>Free Assessment</span>
+  </a>
+</aside>

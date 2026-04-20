@@ -1,0 +1,22 @@
+{
+  "name": "StudyAU — Study in Australia",
+  "short_name": "StudyAU",
+  "description": "Study in Australia knowledge base — universities, courses, Student Visa (500), living, and post-study.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#c85a2f",
+  "background_color": "#faf4ec",
+  "display": "browser",
+  "start_url": "/",
+  "lang": "en-AU"
+}
