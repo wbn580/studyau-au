@@ -21,13 +21,11 @@ html[data-theme="dark"] {
 }
 
 @theme inline {
-  /* 中文优先的系统字体栈：无需下载任何 Web 字体，
-     中国大陆用户在 iOS（PingFang SC）/ Windows（Microsoft YaHei）/
-     Linux（WenQuanYi / Noto Sans SC）上都能看到一致的中文渲染。 */
+  /* English-first system font stack. No web fonts downloaded — we rely on the
+     operating system's native UI font so pages paint instantly on any device. */
   --font-app:
-    -apple-system, BlinkMacSystemFont, "PingFang SC", "Hiragino Sans GB",
-    "Microsoft YaHei", "WenQuanYi Micro Hei", "Noto Sans SC", "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+    -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+    Arial, "Noto Sans", sans-serif;
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-accent: var(--accent);

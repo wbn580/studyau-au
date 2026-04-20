@@ -33,7 +33,7 @@ This page collects the **primary and authoritative sources** we cite across Stud
 ## English-language tests
 
 - [IELTS](https://www.ielts.org) — the most widely accepted test for Australian admissions and visas.
-- [IELTS for UKVI / Australian visa test centres](https://www.ielts.org/book-a-test) — find a test centre.
+- [IELTS test centre finder](https://www.ielts.org/book-a-test) — locate an IELTS test centre near you.
 - [PTE Academic](https://pearsonpte.com) — accepted by almost all Australian universities and for visas.
 - [TOEFL iBT](https://www.ets.org/toefl) — accepted by most universities.
 - [Cambridge English](https://www.cambridgeenglish.org) — C1 Advanced / C2 Proficiency widely accepted.

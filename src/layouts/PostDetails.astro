@@ -84,17 +84,17 @@ const nextPost =
   currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
 
 /* ========== Related Posts ==========
- * 评分规则：按本文 tags 和候选文 tags 的重合数（tag 顺序越靠前权重越高）。
- * 同一国家（tags[0] 通常是国家）重合权重 +3，其他标签 +1。
- * 取得分最高的 3 篇；若不足，则用发布时间补足。
+ * Scoring: count overlap between this post's tags and each candidate's tags.
+ * Country tags (when a post is tagged by country) get +3 weight; other tags +1.
+ * Top 3 by score; ties break by publish date. If fewer than 3, fill by recency.
  */
 const currentTags = new Set(post.data.tags);
 const countryTags = new Set([
-  "英国",
-  "澳大利亚",
-  "新西兰",
-  "新加坡",
-  "马来西亚",
+  "Australia",
+  "New Zealand",
+  "UK",
+  "USA",
+  "Canada",
 ]);
 const currentCountries = new Set(
   post.data.tags.filter(t => countryTags.has(t))

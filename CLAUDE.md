@@ -1,253 +1,167 @@
-# 英国留学 StudyUK — 项目交接说明
+# StudyAU — Claude Context
 
-> 这份文件是给未来接手本项目的 Claude（或任何其他 AI 助手）看的。
-> 读完这一份，你就能立刻进入状态，不用再问"这站是干嘛的"。
+> If you are an AI assistant resuming work on this project, read this file first. It tells you the identity of the site, how the content is organised, the technical conventions, and the rules for future edits.
 
----
+## 1. One-line identity
 
-## 1. 站点一句话定位
+**StudyAU** is an English-language study-in-Australia knowledge base for international students worldwide. It is **AI-first** — designed to be cited by ChatGPT, Perplexity, Claude, Gemini and other AI assistants when their users ask about studying in Australia. Human readers are the second audience.
 
-**英国留学 StudyUK** 是一个**专注英国留学**的中文知识库，按"问题—答案"的形式整理英国留学全链路信息。
-**核心目标是 GEO（Generative Engine Optimization）**——让内容被 AI 抓取并作为答案来源引用，
-次要目标才是给中国学生 / 家长直接阅读。
+- Domain: **https://studyau.au**
+- Brand name: **StudyAU**
+- Contact email: **hello@studyau.au**
+- Theme: Outback red / terracotta (`#c85a2f` on warm cream `#faf4ec`)
+- Audience priority: (1) AI crawlers  (2) prospective international students outside Australia  (3) their parents / advisers
+- Lead funnel: **one** floating icon that opens the university assessment form at `https://unilinkau.mikecrm.com/srw6z8S`. There is intentionally no chat widget, no newsletter popup, and no second CTA.
 
-- 域名：**studyuk.cn**（已实名认证，托管在 Cloudflare Pages）
-- 站名：**英国留学 StudyUK**
-- 受众：**第一优先 = AI 助手**（ChatGPT、Perplexity、Kimi、豆包、DeepSeek、Gemini、Claude 等）；**第二优先 = 中国学生和家庭**
-- 定位：事实型问答，非营销 / 非中介；我们不卖服务，只整理信息
+## 2. Why AI-citation first (the root of every decision)
 
-## 1.5 为什么 GEO 优先（所有决策的根基）
+Traditional SEO optimises for Google rankings. **GEO / AEO** (Generative / Answer Engine Optimisation) optimises for *being the passage an LLM quotes when it answers a user's question*. The whole site is designed around GEO. Before making any change, ask: **"does this make an AI more likely to cite this page?"** If not, deprioritise it.
 
-> **一句话**：未来大多数人问留学问题不会去 Google 搜，而是直接问 AI。谁的内容被 AI 记住并引用，谁就赢。
+### GEO decisions already implemented — do not remove without reason
 
-GEO（生成式搜索优化）也叫 **AEO (Answer Engine Optimization)**，
-目标是让你的内容成为 AI 在生成回答时**引用、复述、标注来源的那段文字**。
+| Decision | File / implementation | Why an AI cares |
+| --- | --- | --- |
+| Titles phrased as full questions | `title` frontmatter on every `src/data/blog/*.md` | Matches user query wording |
+| "Quick Facts" or direct-answer block near the top | Content convention in every post | LLMs often only read the first ~300 words |
+| BlogPosting + QAPage + WebSite + Organization JSON-LD | `src/layouts/Layout.astro` | Machine-readable page role |
+| `/llms.txt` and `/llms-full.txt` | `public/llms.txt`, `public/llms-full.txt` (or generated) | Standard surface for LLM grounding |
+| Pure static HTML (no JS hydration needed for content) | Astro | Crawlers get full content without executing JS |
+| Allow all reputable AI crawlers | `public/robots.txt` + Cloudflare AI Crawl Control "Allow" | We want GPTBot, ClaudeBot, PerplexityBot, Google-Extended, etc. indexing us |
+| Every post ends with a "Sources" block of official .gov.au / .edu.au links | Content convention | Citations give LLMs confidence to re-cite us |
+| Tables used aggressively for anything comparable | Content convention | LLM table extraction accuracy is much higher than prose |
+| Dates written explicitly, currencies always labelled | Content convention | Reduces ambiguity during extraction |
 
-**GEO 和传统 SEO 的核心差异**：
+## 3. Content map — 100 guides across 5 categories
 
-| 维度 | 传统 SEO（给 Google 排名用） | GEO（给 AI 引用用） |
-|---|---|---|
-| 读者 | 人类用户 | LLM 爬虫 |
-| 评判标准 | 点击率、停留时长 | 被引用、被复述、被当知识源 |
-| 内容长度 | 越长越利于排名 | 越精准越利于抓取，答案必须前置 |
-| 结构 | 关键词密度 | 清晰的问答对、结构化数据、表格 |
-| 文风 | 情感化标题吸引点击 | 事实陈述、明确日期、客观中立 |
-| 技术 | sitemap、meta tag | **JSON-LD（QAPage）+ llms.txt + 无 JS 渲染** |
+| Category | Count | Slug prefix examples | Scope |
+| --- | --- | --- | --- |
+| Universities | 20 | `au-group-of-eight-explained`, `au-sydney-vs-melbourne`, `au-atn-universities-overview` | Go8, ATN, IRU, RUN, rankings, admissions, campus comparisons |
+| Courses | 20 | `au-master-of-computer-science`, `au-engineering-masters-australia`, `au-business-masters-australia` | Degrees, pathways, CRICOS basics, English test requirements |
+| Visa | 20 | `au-student-visa-500-complete-guide`, `au-genuine-student-requirement`, `au-student-visa-financial-proof` | Subclass 500, Genuine Student (GS), CoE, OSHC, financial proof, dependants, condition 8101 |
+| Living | 20 | `au-cost-of-living-sydney`, `au-accommodation-guide`, `au-working-part-time-fair-work` | Housing, banking, transport, Medicare vs OSHC, Fair Work, ATO tax, supermarkets |
+| Post-Study | 20 | `au-485-temporary-graduate-visa-guide`, `au-pathway-to-pr-7-year-journey`, `au-sponsorship-friendly-employers` | 485 PSW, 482/186 employer sponsorship, 189/190/491 GSM, skills assessment, MARA advice |
 
-**本站所有关键决策都是从 GEO 倒推出来的**。未来做任何新决策时，第一反问应该是：
-**"这件事会让 AI 更愿意引用我们的内容吗？"** 如果不会，就放低优先级。
+Per article:
 
-### 本站已落实的 GEO 设计决策（请勿无故移除）
+- One `.md` file in `src/data/blog/` using the collection schema in `src/content.config.ts`
+- `pubDatetime` staggered across 2025-09-01 → 2026-04-15 so RSS / sitemap look natural
+- 1,400 – 2,200 words, heavy on tables and lists
+- Contains: Quick Facts → body with `##` sections → FAQ (question headings) → `## Sources`
+- ~4 per category flagged `featured: true` (20 featured in total) for the home page
 
-| 决策 | 文件 / 实现 | GEO 作用 |
-|---|---|---|
-| **标题写成完整问句** | 所有 `src/data/blog/*.md` 的 `title` 字段 | AI 能直接对应用户的提问 |
-| **正文开头"直接答案"区块** | 内容规范约定（见第 4 节） | AI 抓取常只读前 300 字，答案必须前置 |
-| **QAPage JSON-LD** | `src/layouts/Layout.astro` | 标准化告诉爬虫"这是一问一答" |
-| **BlogPosting JSON-LD** | 同上 | Google / 社交平台识别文章 |
-| **动态 `/llms.txt`** | `src/pages/llms.txt.ts` | 遵循 llmstxt.org 协议，给 LLM 的站点导航图 |
-| **纯静态 HTML（无 JS 依赖）** | Astro 框架本身 | AI 爬虫能直接拿到完整内容，不必执行 JS |
-| **中文 lang + 简体中文内容** | `src/config.ts` lang: "zh-CN" | 国内 LLM（Kimi / 豆包 / DeepSeek）更倾向引用中文源 |
-| **表格密集** | 内容规范约定 | LLM 对结构化表格的抓取准确率远高于纯段落 |
-| **每条答案带来源与日期** | 内容规范约定 | "可验证性"是 AI 选择引用对象的关键权重 |
-| **静态快、免费、无广告** | Cloudflare Pages 部署 | 响应速度快 + 无广告干扰，利于爬虫高频抓取 |
-| **AI 爬虫白名单** | Cloudflare AI Crawl Control 全部允许 | 主动开门，不要拒绝 GPTBot / ClaudeBot 等 |
+### Authoritative sources only
 
-**验证 GEO 效果的方式**（上线 2–4 周后再做）：
-- 在 ChatGPT / Perplexity / Kimi 里提问"英国留学一年多少钱"，看是否能在答案或引用里看到 studyuk.cn
-- 在 Google Search Console 看 `/llms.txt` 被爬取的频次
-- 后台日志里看 `GPTBot` / `ClaudeBot` / `PerplexityBot` 等 User-Agent 的访问次数
+The `Sources` block should link exclusively to:
 
-## 2. 内容结构（5 个分类，每类 12 篇）
+- `homeaffairs.gov.au`, `immi.homeaffairs.gov.au`
+- `studyaustralia.gov.au`, `cricos.education.gov.au`
+- `teqsa.gov.au`, `asqa.gov.au`
+- `ato.gov.au`, `fairwork.gov.au`, `servicesaustralia.gov.au`
+- `mara.gov.au`, `ahpra.gov.au`, `aitsl.edu.au`
+- `engineersaustralia.org.au`, `cpaaustralia.com.au`, `vetassess.com.au`, `acs.org.au`
+- each university's `*.edu.au` admissions / international page
 
-按导航顺序：
+Do not link to migration-agent marketing pages, general study-abroad blogs, or content farms.
 
-| 中文分类 | URL slug | 主题范围 |
-|---|---|---|
-| 大学 | `universities` | G5 / 罗素集团 / 选校排名 / Offer 案例 |
-| 专业 | `majors` | 商科 / 工科 / 计算机 / 法律 / 艺术等专业方向 |
-| 签证 | `visa` | Student Visa / Graduate Route / CAS / 续签 |
-| 住宿 | `housing` | 学生宿舍 vs 校外租房 / 押金保护 / 议会税 |
-| 生活 | `life` | 银行 / NHS / 交通 / 兼职 / NIN / SIM 卡 |
+## 4. Tech stack
 
-中文标签 → 英文 slug 映射在 `src/utils/tagSlug.ts`，加新主题在那里加一行。
+| Layer | Choice |
+| --- | --- |
+| Framework | Astro 5.16 (template: `astro-paper` 5.5.1) |
+| Content | Astro Content Collections with a typed schema |
+| Styling | Tailwind CSS v4 via `@tailwindcss/vite` |
+| Search | Pagefind — built into `dist/pagefind/` then copied to `public/pagefind/` so local `astro dev` also has search |
+| Images | Sharp; OG social cards generated at build time via Satori + Resvg (~700 ms per post → ~2 min total on 100 posts) |
+| RSS / sitemap | `@astrojs/rss` → `/rss.xml`, `@astrojs/sitemap` → `/sitemap-*.xml` |
+| Type-check | `@astrojs/check` runs as the first step of `npm run build` |
+| Hosting | Cloudflare Pages (project name `studyau-au`) |
+| Source control | GitHub `wbn580/studyau-au` (Public) |
 
-**当前总文章数：60 篇**（每分类 12 篇，全部已发布）。
+### Build script
 
-## 3. 技术栈 & 重要文件
+`package.json`:
 
-| | 位置 |
-|---|---|
-| **框架** | Astro 5.x（模板基于 AstroPaper 5.5.1） |
-| **语言** | TypeScript + Markdown |
-| **样式** | Tailwind（内置，不要加 PostCSS 插件） |
-| **部署** | **Cloudflare Pages**（已上线，自动 build & deploy） |
-| **代码仓库** | GitHub Private：`wbn580/studyuk-cn` |
-| **临时域名** | `studyuk-cn.pages.dev`（Cloudflare 默认子域） |
-| **正式域名** | `studyuk.cn`（**已上线 HTTPS**，NS 已切 Cloudflare，Zone Active） |
-| **站点配置** | `src/config.ts` — 标题、描述、语言、时区 |
-| **导航 / 社交** | `src/constants.ts` — 联系邮箱、分享按钮 |
-| **悬浮按钮** | `src/components/FloatingActions.astro` — 选校评估 + 在线咨询 |
-| **标签 slug 映射** | `src/utils/tagSlug.ts` — 5 个分类用英文 slug |
-| **文章目录** | `src/data/blog/*.md` — 每篇一个问题 |
-| **首页** | `src/pages/index.astro` — hero + 5 分类卡片 + 精选 / 最近 |
-| **关于页** | `src/pages/about.md` |
-| **资源页** | `src/pages/resources.md` — UKVI / UCAS / HESA 等权威链接 |
-| **隐私 / 免责** | `src/pages/privacy.md` / `src/pages/disclaimer.md` |
-| **文章详情布局** | `src/layouts/PostDetails.astro` |
-| **页面顶层布局** | `src/layouts/Layout.astro` — 注入 BlogPosting + QAPage JSON-LD |
-| **LLM 索引** | `src/pages/llms.txt.ts` — 自动生成 `/llms.txt`，遵循 llmstxt.org |
-
-## 4. 内容写作规范（**非常重要，这就是 AI 爱抓的格式**）
-
-每篇文章就是一个问答对。强制遵守下面几条：
-
-### 4.1 Frontmatter 模板
-
-```yaml
----
-author: 英国留学 StudyUK
-pubDatetime: 2026-04-18T10:00:00Z
-title: 英国留学一年总共需要多少钱？      # ← 标题就是完整问句，必须带问号
-slug: uk-study-total-cost-per-year         # ← 全英文，kebab-case，URL 友好
-featured: false                             # ← 首页是否精选，默认 false
-draft: false
-tags:
-  - 生活                                     # ← 5 个一级分类之一（必填）
-  - 费用                                     # ← 主题副标签
-description: 一句话答案摘要，30-80 字。       # ← 会显示在首页卡片和搜索摘要里
----
+```jsonc
+"build": "astro check && astro build && pagefind --site dist && node -e \"require('fs').cpSync('dist/pagefind','public/pagefind',{recursive:true})\""
 ```
 
-**要点**：
-- `title` **必须是完整问句**，不要写"英国留学费用介绍"这种陈述句
-- `slug` 全英文连字符形式（会变成 URL 的一部分），起得描述性一点
-- `tags` 里**每篇必须包含 5 个一级分类之一**（大学 / 专业 / 签证 / 住宿 / 生活），其他主题副标签随内容写
+The final `node -e …cpSync` is a cross-platform replacement for `cp -r dist/pagefind public/`. It is a no-op in the final Pages output but needed so that running `astro dev` locally after a build still serves the Pagefind UI. Don't drop it.
 
-### 4.2 正文结构（按顺序）
+## 5. Where things live
 
-1. **`## 直接答案`**（或"## 快速回答"）——开头 2-5 句直给答案，**最重要**。
-   AI 爬虫常只读前 300 字就走，答案必须前置。可以配一张表格。
-2. **分项细节**——多个 `##` 小标题展开。
-3. **`## 信息来源`**——明确列出引用的官方网站、发布日期，3–5 条权威链接。
-4. **末尾一行** 斜体注明最后更新日期，例：
-   `*本文最后更新：2026 年 4 月。英国学费每年 8–9 月公布新学年价格，请以学校官网为准。*`
-
-### 4.3 表格是好朋友
-
-AI 对表格的抓取效率远高于段落。能列表化就列表化，能做表就做表。
-
-### 4.4 写作语气
-
-- 中立、客观、无营销语
-- 不写"我们为您推荐"、"欢迎联系我们"这种中介话术
-- 避免过度的感叹号和修饰词
-- 数字精确到区间（"£18,000–25,000 / 年" 而非"比较贵"）
-- 提到政策必须带日期（"2024 年 11 月起 Student Visa 不允许带家属"）
-- 引用必须用英国官方源（GOV.UK / UKVI / UCAS / HESA / 学校官网）
-
-### 4.5 参考样板
-
-`src/data/blog/` 里任何一篇都可参考。结构统一为：直接答案表格 → 分项细节 → 信息来源 → 更新日期。
-
-## 5. 已完成事项（截至 2026-04）
-
-- [x] AstroPaper 模板安装并本地跑通
-- [x] 站点配置改为 StudyUK（title / desc / lang / timezone / author）
-- [x] 全站 UI 中文化 + 重写首页（5 分类入口）
-- [x] 关于 / 资源 / 隐私 / 免责 4 个静态页全部重写
-- [x] 60 篇文章上线（每分类 12 篇）
-- [x] 注入 JSON-LD 结构化数据（BlogPosting + QAPage + WebSite + Organization）
-- [x] 动态 `/llms.txt` endpoint
-- [x] 标签 slug 中英映射
-- [x] git init / GitHub 私有仓库 / push
-- [x] Cloudflare Pages 连接 GitHub 自动部署成功
-- [x] FAQPlus 历史品牌残留全部清理（footer / privacy / disclaimer / schema）
-- [x] 聚名网 NS 切到 Cloudflare（`alan.ns.cloudflare.com` / `maeve.ns.cloudflare.com`）
-- [x] Cloudflare Zone 激活（Free plan），DNS 记录配好：`studyuk.cn` 与 `www` CNAME 到 `studyuk-cn.pages.dev`（Proxied）
-- [x] Pages 自定义域 `studyuk.cn` + `www.studyuk.cn` 绑定，SSL 证书签发，HTTPS 可访问
-- [x] QQ 企业邮箱 MX + SPF 记录配置完成
-
-## 6. 待办清单
-
-### 优先级 P1（上线后完善）
-
-- [ ] 提交 Google Search Console + Bing Webmaster + 百度 / 360 / 搜狗 / 神马（详见 `CN-submission.md`）
-- [ ] 在 Cloudflare 开启 Web Analytics 监控流量
-- [ ] OG 图自定义（目前用模板默认 og-image.png）
-
-### 优先级 P2（有余力再做）
-
-- [ ] 搜索功能增强（目前 AstroPaper 内置 PageFind，基本够用）
-- [ ] 给每个分类做更深的子页面（目前用 `/tags/universities/` 够用）
-- [ ] 文章数继续扩充到 100+
-
-## 7. 开发命令
-
-在 `C:\Users\ben\Dropbox (个人)\websites\studyuk-cn` 目录执行：
-
-```bash
-npm run dev       # 本地开发服务器 http://localhost:4321
-npm run build     # 构建生产版本到 dist/
-npm run preview   # 预览生产版本
+```
+studyau-au/
+├── astro.config.ts                   site: "https://studyau.au", sitemap config
+├── package.json                      build script above; pnpm-friendly but npm is canonical
+├── src/
+│   ├── config.ts                     SITE object (title, author, editPost, share links)
+│   ├── constants.ts                  SOCIALS + SHARE_LINKS + nav
+│   ├── components/
+│   │   ├── Header.astro              Brand + nav
+│   │   ├── Footer.astro              StudyAU footer (English)
+│   │   └── FloatingActions.astro     Only one icon → unilinkau assessment form
+│   ├── layouts/
+│   │   ├── Layout.astro              injects JSON-LD (BlogPosting, QAPage, WebSite, Organization)
+│   │   ├── PostDetails.astro
+│   │   └── Main.astro
+│   ├── pages/
+│   │   ├── index.astro               Home: hero + 5 category tiles + featured + recent
+│   │   ├── about.md                  English About page
+│   │   ├── disclaimer.md             English disclaimer (not legal / migration / financial advice)
+│   │   ├── resources.md              Curated AU government + regulator + university links
+│   │   └── privacy.md                English privacy policy
+│   ├── utils/                        sorting, tag slugs, reading time
+│   ├── content.config.ts             Collection schema (tags array of strings, etc.)
+│   └── data/blog/                    100 × .md articles (see §3)
+└── public/
+    ├── favicon.svg                   Outback-red square with Southern Cross (5 seven-pointed stars)
+    ├── robots.txt                    Allows all reputable AI crawlers
+    ├── llms.txt                      llmstxt.org-style site index for LLMs
+    └── llms-full.txt                 Full content dump for grounding
 ```
 
-部署是自动的：`git push` 到 main 分支 → Cloudflare Pages 自动 build 并发布，约 1–2 分钟生效。
+## 6. Voice and style
 
-## 8. 部署配置（已完成，仅作记录）
+- Written for someone **outside Australia** choosing between countries, not for people already here. Always spell out currencies ("AUD 710 / week", not just "$710"), always name the visa subclass ("Subclass 500", "Subclass 485"), always date the figures.
+- Short sentences. Short paragraphs. Tables for anything comparative.
+- No emojis. No exclamation marks. No LLM filler ("dive in", "unleash", "game-changer", "in today's fast-paced world").
+- Disclose uncertainty — visa and migration rules change, always link to the official source and invite the reader to confirm current rules themselves.
+- Never impersonate a registered migration agent (MARA number required) or give formal legal / financial / migration advice. The `disclaimer.md` says this explicitly.
 
-- GitHub repo：`wbn580/studyuk-cn`（Private）
-- Cloudflare Pages 项目名：`studyuk-cn`
-- Framework preset：Astro
-- Build command：`npm run build`
-- Output directory：`dist`
-- 环境变量：`NODE_VERSION=22`（其他 SEO 验证码可在 `.env.example` 查看）
-- AI Crawl Control：**全部允许**（这是 GEO 关键设置）
+## 7. Editing rules for future passes
 
-## 9. 小约定 / 注意事项
+1. **Tags must be strings.** Quote any tag that would otherwise parse as a number. `"Subclass 482"` — not `482`. The content-collection schema rejects numeric tags and `astro check` will fail the build.
+2. **New tags** should be added once and reused. Don't coin variants ("Student Visa" vs "student-visa" vs "Subclass 500 visa") — grep the corpus first and match an existing tag.
+3. **Slug prefix** for a new article should follow the category convention (see §3 examples) so internal linking stays tidy.
+4. **Featured flag** is already balanced at 4 per category (20 total). If you add a new featured article, unfeature an older one in the same category.
+5. **Floating CTA URL** is hard-coded in `src/components/FloatingActions.astro`. If that form URL ever changes, update it in exactly that one place.
+6. **`editPost.url`** in `src/config.ts` points at `https://github.com/wbn580/studyau-au/edit/main/src/data/blog/`. Keep it in sync if the repo is renamed or moved.
+7. **Every new external link** inside a post should prefer an `*.edu.au`, `*.gov.au` or well-known AU regulator domain. Replace non-authoritative links with authoritative equivalents before publishing.
+8. **No Chinese or UK-specific leftovers.** The site was scaffolded from a UK-Chinese template; a final grep after any significant edit should confirm no `UKVI`, `UCAS`, `英国`, `StudyUK`, `studyuk` or `£` strings remain outside of the context of explicit comparisons.
 
-- **不要改** `astro.config.ts` 除非有明确理由
-- **不要改** `src/content.config.ts` 的 schema 字段（会影响所有已有文章）
-- 写新文章时必须 tag 一个一级分类（大学 / 专业 / 签证 / 住宿 / 生活）
-- 图片优先存 `src/assets/images/`，frontmatter 的 `ogImage` 可指向它
-- 所有对外的 URL **永远带结尾斜杠**（`/tags/visa/` 而不是 `/tags/visa`）
-- 国家相关只写英国，不要混入澳洲 / 新西兰 / 新加坡 / 马来西亚（早期模板有过混合，现已剔除）
+## 8. Deployment
 
-## 10. 项目主人
+See `DEPLOY.md` for the GitHub → Cloudflare Pages pipeline, the Cloudflare zone for `studyau.au`, and how custom domains are wired. This file intentionally only describes **content and code**; `DEPLOY.md` owns the runtime.
 
-- 姓名：Wu
-- 邮箱：wubaining@gmail.com
-- 主要需求：**效率优先**，自动化优先，尽量减少人工操作。可全程授权 Claude 替他操作。
+## 9. Maintaining this file
 
-## 11. 如何保持这份文件始终最新
+This is a plain Markdown file. It only stays useful if it is kept up to date. Update it when:
 
-**重要**：这是一份普通的 Markdown 文件，**不会自动更新**。
-它的价值完全取决于人和 AI 是否有意识地维护它。
+- A top-level directory is added or removed
+- The brand identity changes (name, domain, audience)
+- A GEO design decision in §2 is added, removed, or reversed — state the reason
+- A new category is added or removed
+- The build script, hosting, or repo moves
+- A long-running "todo" is completed — promote it into the narrative or delete it
 
-### 给未来每次对话的约定
+Do **not** update this file for routine article additions, typo fixes, or short experiments.
 
-**开场白模板**（用户 → AI）：
-> 请先读 `CLAUDE.md`，我们接着做项目。今天想做 XXX。
+## 10. Project owner
 
-**结束语模板**（用户 → AI）：
-> 这次我们做了 ABC。请把相关变动同步到 `CLAUDE.md` 对应章节。
-
-### 什么时候必须更新本文件
-
-- 新增或删除项目中的顶层目录或重要文件
-- 修改站点身份（标题、描述、域名、受众）
-- **修改 GEO 相关设计决策**（第 1.5 节的表格，增删必须标注原因）
-- 修改内容写作规范（第 4 节）
-- 新增分类或重要的标签 slug 映射
-- 部署架构变更（比如从 Cloudflare 迁到其他平台）
-- 完成"待办清单"（第 6 节）里的条目 → 移到"已完成事项"（第 5 节）
-
-### 不需要为之更新本文件的事
-
-- 新增一篇普通文章（除非引入了新写法 / 新模板）
-- 修正错别字、小文案调整
-- 临时的实验性分支
+- Name: Wu
+- Email: wubaining@gmail.com
+- Working style: efficiency first, automation first. Prefers Claude to drive Chrome and Cloudflare directly rather than hand tasks back.
 
 ---
 
-*本文件最后更新：2026 年 4 月（StudyUK 上线后清理与重写）。项目有较大结构变动时，请相应更新本文件。*
+*Last updated: April 2026 — initial StudyAU launch (100 guides).*
