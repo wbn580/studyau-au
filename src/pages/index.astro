@@ -20,12 +20,33 @@ const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
 const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
 // 5 primary categories — tag values must match article frontmatter tags.
+// Icons are lucide-style inline SVGs rendered via <Fragment set:html>.
 const categories = [
-  { emoji: "🎓", name: "Universities", desc: "Go8 / ATN / rankings" },
-  { emoji: "📚", name: "Courses", desc: "Business / STEM / Health" },
-  { emoji: "🛂", name: "Visa", desc: "Subclass 500 / GS / IELTS" },
-  { emoji: "🏠", name: "Living", desc: "Housing / OSHC / costs" },
-  { emoji: "💼", name: "Post-Study", desc: "485 / PR / jobs" },
+  {
+    name: "Universities",
+    desc: "Go8, ATN, rankings",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>`,
+  },
+  {
+    name: "Courses",
+    desc: "Business, STEM, Health",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>`,
+  },
+  {
+    name: "Visa",
+    desc: "Subclass 500, GS, IELTS",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 5-4 9-9 9s-9-4-9-9 4-9 9-9c1.6 0 3.2.4 4.5 1.2"/></svg>`,
+  },
+  {
+    name: "Living",
+    desc: "Housing, OSHC, costs",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10l9-7 9 7v10a2 2 0 0 1-2 2h-4v-7h-6v7H5a2 2 0 0 1-2-2z"/></svg>`,
+  },
+  {
+    name: "Post-Study",
+    desc: "485 visa, PR, jobs",
+    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>`,
+  },
 ];
 ---
 
@@ -81,17 +102,24 @@ const categories = [
 
     <section id="categories" class="pt-12 pb-6 border-b border-border">
       <h2 class="text-2xl font-semibold tracking-wide">Browse by category</h2>
-      <ul class="mt-4 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
+      <ul class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
         {categories.map(c => (
           <li>
             <a
               href={`/tags/${slugifyTag(c.name)}/`}
-              class="flex items-center gap-3 rounded-md border border-border px-4 py-3 hover:border-accent hover:text-accent transition"
+              class="group flex h-full flex-col gap-2 rounded-lg border border-border px-4 py-4 transition hover:-translate-y-0.5 hover:border-accent hover:shadow-sm focus-visible:border-accent"
             >
-              <span class="text-2xl">{c.emoji}</span>
-              <span class="flex min-w-0 flex-col">
-                <span class="font-medium">{c.name}</span>
-                <span class="truncate text-xs whitespace-nowrap text-foreground/60">{c.desc}</span>
+              <span
+                class="inline-flex h-9 w-9 items-center justify-center rounded-md bg-accent/10 text-accent transition group-hover:bg-accent group-hover:text-background"
+                aria-hidden="true"
+              >
+                <Fragment set:html={c.icon} />
+              </span>
+              <span class="text-sm font-semibold leading-tight whitespace-nowrap text-foreground group-hover:text-accent">
+                {c.name}
+              </span>
+              <span class="text-xs leading-snug text-foreground/60">
+                {c.desc}
               </span>
             </a>
           </li>
