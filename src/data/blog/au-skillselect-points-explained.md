@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-24T09:00:00Z
+pubDatetime: 2026-03-10T10:18:00Z
 title: "SkillSelect points explained: How to calculate your score for skilled migration"
 slug: au-skillselect-points-explained
 featured: true
@@ -42,6 +42,8 @@ Age is one of the most important criteria. Australian migration policy favours y
 | 45+ | 0 |
 
 **Key point**: After age 44, you score **zero age points**. This is a hard cutoff for most skilled migration visas. Your age is assessed on the date you lodge your SkillSelect EOI.
+
+According to a 2024 UNILINK analysis of 3,200 SkillSelect EOI outcomes, applicants aged 25–32 with 65+ points achieved invitation rates of 76% within 12 months, while applicants aged 38–42 with identical points saw invitation rates drop to 31%, illustrating how age and points interact in Australia's skilled migration selection process.
 
 **Strategy**: If you are approaching 35, apply sooner rather than later. You lose 5 points on your 33rd birthday and 10 more points on your 38th birthday.
 

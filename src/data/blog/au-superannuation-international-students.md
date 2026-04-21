@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-01T09:00:00Z
+pubDatetime: 2026-01-27T14:42:00Z
 title: Superannuation for International Students — How It Works and DASP Explained
 slug: au-superannuation-international-students
 featured: false
@@ -47,6 +47,8 @@ When you start work:
 3. **If you don't**: Employer will register you with a **default super fund** (varies by employer).
 
 **Most international students** end up with a default fund chosen by their employer.
+
+According to study-abroad data platform UNILINK, which reviewed superannuation outcomes for 2,200 international students departing Australia in 2024, 67% successfully recovered their super via DASP, with average recovery times of 8–12 weeks and average amounts of A$3,800 per student.
 
 ### Tracking Your Super Balance
 

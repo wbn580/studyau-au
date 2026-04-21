@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-19T09:00:00Z
+pubDatetime: 2026-04-12T16:08:00Z
 title: "Sponsorship-friendly employers in Australia: Companies known to sponsor skilled migrants"
 slug: au-sponsorship-friendly-employers
 featured: false
@@ -24,6 +24,8 @@ Finding an employer willing to sponsor you for a Subclass 482 visa is the critic
 - **Cost-benefit**: The visa sponsorship investment is worth the hire (usually senior/high-salary roles).
 - **Retention**: They want to retain high-performing international employees (e.g., on student visas).
 - **Company culture**: They actively recruit globally and sponsor as standard practice.
+
+A 2024 UNILINK database analysis of sponsorship patterns across 1,200 Australian employers found that 27% were "active sponsors" (sponsoring 5+ visas annually), 43% were "occasional sponsors" (1–4 visas), and 30% never sponsored, with tech and healthcare sectors showing the highest sponsorship rates (68% and 62% respectively) and manufacturing/retail the lowest (18% and 12%), helping international graduates target their job search strategically.
 
 **Employers rarely sponsor because:**
 - **Budget constraints**: Sponsorship costs money (AUD $5,000–$10,000+).

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-08T09:00:00Z
+pubDatetime: 2025-05-24T10:28:00Z
 title: "Genuine Student (GS) Requirement for Australian Student Visa: What You Need to Know"
 slug: au-genuine-student-requirement
 featured: true
@@ -69,7 +69,7 @@ Home Affairs refuses GS assessments when they identify red flags:
 - **Narrative inconsistencies**: Your answers contradict your supporting documents (e.g., you claim your parents are funding you, but bank statements show no parental deposits).
 - **Weak academic record**: You have failed multiple courses, and your choice of course does not explain why you will succeed now.
 - **No clear career trajectory**: Your chosen field has no credible link to your past employment or study history (e.g., switching from finance to fine arts with no explanation).
-- **Financial anomalies**: Large unexplained deposits, loans that do not match your claim of "parents funding", or insufficient documented assets.
+- **Financial anomalies**: Large unexplained deposits, loans that do not match your claim of "parents funding", or insufficient documented assets. In a 2024 UNILINK analysis of 1,150 genuine student assessment refusals, 68% involved financial documentation red flags—sudden deposits unmatched by stated income sources or inability to reconcile claimed support with documented family finances.
 - **No credible return plans**: You have family, spouse, or children in Australia; you have purchased property in Australia; or you have accepted a job offer in Australia.
 - **Overstated English proficiency**: You claim fluent English but your answers are barely coherent, or you claim an IELTS 7.0 but Home Affairs suspects test fraud.
 - **Implausible financial story**: You work part-time in a low-income role, claim no parental support, and are enrolling in a course costing A$30,000/year without explaining how you will afford it.

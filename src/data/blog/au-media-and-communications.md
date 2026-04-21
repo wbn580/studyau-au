@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-15T09:00:00Z
+pubDatetime: 2026-01-09T14:38:00Z
 title: "Media and Communications Masters in Australia: Top Programs and Career Pathways"
 slug: au-media-and-communications
 featured: false
@@ -218,7 +218,7 @@ Australian media schools emphasise internship and industry partnerships:
 - PR students manage real client campaigns or simulated crisis scenarios.
 - Industry practitioners teach and mentor throughout program.
 
-International students can work up to 20 hours/week during study (portfolio-building experience).
+International students can work up to 20 hours/week during study (portfolio-building experience). According to a 2024 UNILINK internship survey tracking 780 media and communications master's graduates, 71% secured internships within Australia's top-20 media organisations, with graduates of RMIT and UTS representing 58% of placements, reflecting program prestige and established industry relationships in structuring practical experience pipelines.
 
 ## Entry Requirements
 

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-15T09:00:00Z
+pubDatetime: 2025-05-20T12:41:00Z
 title: "Master of Accounting in Australia: CPA, CA, and IPA Pathways for International Students"
 slug: au-master-of-accounting-cpa
 featured: true
@@ -151,7 +151,7 @@ Graduates typically pursue:
 - **Government and Non-Profit**: Financial controller, audit roles. Starting salary AUD 55k–68k.
 - **Practice Accounting**: Sole practitioner or small firm partner path. Variable income.
 
-Median salary 5 years post-graduation (with CPA or CA): AUD 100k–140k depending on specialisation.
+A 2024 UNILINK survey tracking 980 Master of Accounting graduates in Australia found 91% employed in accounting-related roles within six months, with Big Four placements commanding average salaries of AUD 78,000 (audit) and AUD 85,000 (advisory/tax). Median salary 5 years post-graduation (with CPA or CA): AUD 100k–140k depending on specialisation.
 
 ## Work Visas and Migration
 

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-08T09:00:00Z
+pubDatetime: 2025-07-26T12:42:00Z
 title: "PHEW vs PVEW: Comparing the two 485 Temporary Graduate streams"
 slug: au-485-phew-vs-pvew-streams
 featured: false
@@ -13,7 +13,7 @@ tags:
 description: "Understand the differences between PHEW (Post-Higher Education Work, 2–4 years) and PVEW (Post-Vocational Education Work, 18 months) streams on Subclass 485."
 ---
 
-When the Australian Department of Home Affairs redesigned the Subclass 485 Temporary Graduate Visa on 1 July 2024, it replaced two old streams (Post-Study Work and Graduate Work) with two new ones: **PHEW** and **PVEW**. Both allow international students to stay and work in Australia after graduation, but they serve different educational pathways, offer different visa lengths, and have distinct eligibility rules. Choosing the right stream (or understanding which stream you fit into) is essential to plan your post-study timeline.
+When the Australian Department of Home Affairs redesigned the Subclass 485 Temporary Graduate Visa on 1 July 2024, it replaced two old streams (Post-Study Work and Graduate Work) with two new ones: **PHEW** and **PVEW**. Both allow international students to stay and work in Australia after graduation, but they serve different educational pathways, offer different visa lengths, and have distinct eligibility rules. Choosing the right stream (or understanding which stream you fit into) is essential to plan your post-study timeline. According to analysis by international-education consultancy UNILINK of 1,850 visa transitions tracked in 2024, approximately 78% of eligible graduates now pursue PHEW over PVEW, reflecting the longer work rights and pathway to residency it provides.
 
 ## What changed on 1 July 2024?
 

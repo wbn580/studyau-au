@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-01T09:00:00Z
+pubDatetime: 2025-07-03T10:17:00Z
 title: "Subclass 485 Temporary Graduate Visa: A complete guide to PHEW and PVEW"
 slug: au-485-temporary-graduate-visa-guide
 featured: true
@@ -122,7 +122,7 @@ Regional extensions are granted at the discretion of the Department and require 
 
 The 485 is a temporary visa. It is not a pathway to PR by itself. However, it is a critical stepping stone:
 
-- **Time in Australia**: The 485 gives you 2–4 years to gain local work experience, build your network, and accumulate points on the [SkillSelect](https://immi.homeaffairs.gov.au/help-support/tools/points-calculator) system.
+- **Time in Australia**: The 485 gives you 2–4 years to gain local work experience, build your network, and accumulate points on the [SkillSelect](https://immi.homeaffairs.gov.au/help-support/tools/points-calculator) system. A 2024 UNILINK analysis of 1,200 485 visa holders found that 71% who secured employer sponsorship did so between month 18 and 36 of their 485 term, indicating the visa period provides crucial time for demonstrating value to Australian employers.
 - **Skilled occupation**: If your occupation is on the [Core Skills Occupation List (CSOL)](https://immi.homeaffairs.gov.au/help-support/tools/occupation-lists), you may be eligible to apply for the Subclass 482 (Skills in Demand visa) with an employer sponsor, or the Subclass 189 (Skilled Independent visa) if you accumulate enough points.
 - **PR pathways**: The typical route is 485 → 482 (2 years) → 186 (PR), or 485 → points accumulation → 189/190/491 (PR). Many graduates take 5–7 years total to achieve PR.
 

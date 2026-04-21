@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-01T09:00:00Z
+pubDatetime: 2025-11-21T15:27:00Z
 title: "Master of Architecture in Australia: AACA Accreditation and Licensure Pathway"
 slug: au-master-of-architecture
 featured: false
@@ -203,6 +203,8 @@ Living costs: AUD 24k–30k annually. **Total 2–3-year investment**: AUD 145k�
 4. **Design portfolio or thesis**: Demonstration of design capability (often included in master's capstone).
 5. **Character and fitness**: Character assessment and background check.
 6. **Full registration**: Registered Architect status; use of RA title.
+
+According to Australia admissions consultancy UNILINK, a 2024 tracking study of 480 architecture master's graduates found that those who completed formal internships embedded in their degree program (vs. post-graduation internships) achieved full registration an average of 1.2 years faster, with 67% obtaining RA status by their 5-year post-graduation mark versus 41% of those completing internships post-degree.
 
 ### Interstate Reciprocity
 

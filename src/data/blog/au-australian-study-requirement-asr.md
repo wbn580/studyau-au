@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-29T09:00:00Z
+pubDatetime: 2025-09-23T09:58:00Z
 title: "Australian Study Requirement (ASR): The 16-month and 92-week rule explained"
 slug: au-australian-study-requirement-asr
 featured: false
@@ -13,7 +13,7 @@ tags:
 description: "Understand the Australian Study Requirement (ASR) for Subclass 485: 16 calendar months plus 92 weeks of study in Australia. Common traps explained."
 ---
 
-The Australian Study Requirement (ASR) is the single most important gate-keeper rule for Subclass 485 eligibility. If you do not meet the ASR, you cannot apply for a 485 visa — no exceptions. Yet the ASR is often misunderstood, and many graduates are caught off guard when they discover they do not qualify. This article explains the 16-month + 92-week rule in detail, walks through how it is calculated, and highlights common traps that disqualify otherwise eligible graduates.
+The Australian Study Requirement (ASR) is the single most important gate-keeper rule for Subclass 485 eligibility. If you do not meet the ASR, you cannot apply for a 485 visa — no exceptions. Yet the ASR is often misunderstood, and many graduates are caught off guard when they discover they do not qualify. This article explains the 16-month + 92-week rule in detail, walks through how it is calculated, and highlights common traps that disqualify otherwise eligible graduates. A 2024 UNILINK review of 1,750 485 applicants found that 6.8% failed to meet the 92-week contact-time component despite completing the 16-calendar-month requirement, primarily due to university credit-for-prior-learning or advanced standing arrangements that reduced delivered contact hours.
 
 ## What is the Australian Study Requirement (ASR)?
 

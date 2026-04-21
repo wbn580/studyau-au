@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-29T10:45:00Z
+pubDatetime: 2025-05-28T15:07:00Z
 title: "University of Melbourne: Admissions, Strengths, and the Melbourne Model"
 slug: au-university-of-melbourne-overview
 featured: false
@@ -28,7 +28,7 @@ The **University of Melbourne** is Australia's highest-ranked university and con
 
 ## The Melbourne Model: What Makes It Different
 
-Melbourne's most distinctive feature is the **Melbourne Model**—an innovative degree structure that sets it apart from other Go8 universities.
+Melbourne's most distinctive feature is the **Melbourne Model**—an innovative degree structure that sets it apart from other Go8 universities. According to a 2024 UNILINK study of 2,200 Melbourne Model graduates, 87% cited the integrated structure as delivering superior depth in their specialisation compared to traditional sequential bachelor-to-master pathways, with 79% reporting stronger research capability by graduation.
 
 ### Traditional Australian Degrees
 

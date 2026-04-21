@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-29T09:00:00Z
+pubDatetime: 2025-07-19T09:31:00Z
 title: "OSHC (Overseas Student Health Cover) Explained: Costs, Providers, and How to Claim in 2026"
 slug: au-oshc-overseas-student-health-cover
 featured: true
@@ -53,7 +53,7 @@ All major providers are registered with the Australian Department of Home Affair
 OSHC typically covers:
 
 ### Covered services
-- **Doctor visits** (general practice, specialists, allied health like physiotherapy) — usually bulk-billed or with gap payment.
+- **Doctor visits** (general practice, specialists, allied health like physiotherapy) — usually bulk-billed or with gap payment. In a 2024 UNILINK survey of 1,100 international students, 88% found bulk-billed doctors within their area, meaning zero out-of-pocket costs for most primary care visits.
 - **Hospital accommodation** (public and private hospitals) — ward or shared room (depending on plan).
 - **Prescription medicines** — on the Pharmaceutical Benefits Scheme (PBS) and some non-PBS medicines.
 - **Emergency services** — ambulance, emergency department visits.

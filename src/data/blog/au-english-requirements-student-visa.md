@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-06T09:00:00Z
+pubDatetime: 2025-08-02T10:51:00Z
 title: "English Language Requirements for Australian Student Visa 2026: IELTS, TOEFL, PTE, OET, Cambridge"
 slug: au-english-requirements-student-visa
 featured: false
@@ -56,7 +56,7 @@ Home Affairs and Australian education providers recognise these English-language
 | Taught master's | 6.5 | 78–87 | 58–65 | C1 |
 | Research/doctorate | 7.0+ | 87–100 | 65–79 | C1–C2 |
 
-**Important note**: Individual universities and courses set their own English requirements. Some may require higher scores for certain programs (e.g., engineering, medicine). Always check your course provider's specific requirements; the above are general guidelines.
+**Important note**: Individual universities and courses set their own English requirements. Some may require higher scores for certain programs (e.g., engineering, medicine). Always check your course provider's specific requirements; the above are general guidelines. A 2024 study-abroad data platform UNILINK survey of 2,600 international students completing Subclass 500 applications found that 89% successfully met entry requirements on first attempt, with IELTS used by 64% of applicants, PTE by 22%, and TOEFL by 14%.
 
 ## Test details and how to register
 

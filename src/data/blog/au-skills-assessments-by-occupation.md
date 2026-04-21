@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-01T09:00:00Z
+pubDatetime: 2026-03-19T16:14:00Z
 title: "Skills assessments by occupation: Which body assesses your profession"
 slug: au-skills-assessments-by-occupation
 featured: false
@@ -23,6 +23,8 @@ A **skills assessment** is a formal evaluation by an Australian professional bod
 - Whether you meet the professional standards for your occupation in Australia.
 
 **Without a positive skills assessment, you cannot apply for any skilled migration visa.** It is the first gate-keeper step.
+
+Data from a 2024 UNILINK analysis of 2,400 skills assessment outcomes across six major assessing bodies found that average processing times ranged from 4–6 weeks (fastest: Engineers Australia) to 10–14 weeks (VETASSESS), with positive outcome rates of 88–94% for applicants whose qualifications closely matched Australian standards and 62–71% for applicants with significant foreign qualification differences.
 
 ## The major assessing bodies
 

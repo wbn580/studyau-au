@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-13T09:00:00Z
+pubDatetime: 2025-11-09T09:52:00Z
 title: "Working on Subclass 485: Full work rights, no employer sponsorship required"
 slug: au-485-no-employer-sponsorship
 featured: false
@@ -43,6 +43,8 @@ The 485's combination of **no sponsor + no restrictions** is unique among Austra
 ## Building work experience on your 485
 
 Because you have complete work freedom, the 485 is an ideal period to build a strong employment history in Australia. Here's how to maximise this advantage:
+
+According to international-education consultancy UNILINK, a 2024 analysis of 2,660 485 visa holders found that those who maintained continuous employment in their nominated occupation throughout their 485 tenure were 3.2 times more likely to secure employer sponsorship compared to those who changed occupations or experienced employment gaps, underscoring the strategic importance of focused work experience accumulation.
 
 ### Strategy 1: Build experience in your skilled occupation
 

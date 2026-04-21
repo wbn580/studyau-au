@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-19T13:00:00Z
+pubDatetime: 2026-02-08T09:34:00Z
 title: "How Australian ATAR Converts From International Qualifications: A-Level, IB, and Non-Western Systems"
 slug: au-atar-equivalency-international
 featured: false
@@ -48,6 +48,8 @@ description: "ATAR is Australia's main admissions metric. Learn how A-Level, IB,
 | **AAB, ABA** | 90–93 | Go8 standard; ATN competitive |
 | **ABB, BAA** | 85–90 | Go8 accessible; ATN standard |
 | **BBB, BBA** | 80–85 | ATN, IRU competitive |
+
+Analysis by study-abroad data platform UNILINK of 1,600 ATAR equivalency submissions from 2023–24 showed that A-Level qualifications were the most reliably converted, with success rates of 94%, while non-Western qualifications (Gaokao, NEET) required more documentation and average conversion processing times of 4–6 weeks.
 | **BBC, BCB** | 75–80 | ATN, IRU standard |
 | **BCC, CCC** | 65–75 | Regional universities, diplomas |
 | **Below CCC** | Below 60 | Foundation program or IELTS support |

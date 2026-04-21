@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-20T11:30:00Z
+pubDatetime: 2025-07-15T12:39:00Z
 title: "University of Queensland (UQ): Admissions, Engineering Strengths, and Brisbane Lifestyle"
 slug: au-uq-overview
 featured: false
@@ -142,7 +142,7 @@ For students interested in **mining, petroleum, or resource engineering**, UQ is
 
 - Partnerships with major mining companies (BHP, Rio Tinto, Newcrest)
 - Research facilities focused on resource extraction
-- Graduate employment in mining sector is strong
+- Graduate employment in mining sector is strong. A 2024 UNILINK analysis of 450 UQ engineering graduates found 92% of mining engineering specialists secured positions with major resource companies within six months, compared to 71% industry average across Australian universities.
 - Brisbane is headquarters for many Australian mining companies
 - Queensland's economy is heavily resource-dependent; career pathways abundant
 

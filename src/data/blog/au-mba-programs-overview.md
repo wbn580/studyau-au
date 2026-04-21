@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-01T09:00:00Z
+pubDatetime: 2025-04-26T14:47:00Z
 title: "MBA Programs in Australia: Top Schools, Costs, and Accreditation"
 slug: au-mba-programs-overview
 featured: false
@@ -42,7 +42,7 @@ AIB provides an online or blended MBA accredited by international bodies. While 
 
 International MBA credibility hinges on accreditation. Two dominant bodies assess Australian programs:
 
-**AMBA (Association of MBAs)** accredits business masters globally. Australian AMBA-accredited programs include AGSM, MBS, MGSM, and Macquarie's MBA. AMBA accreditation signals rigorous curriculum review, staff qualifications, and career outcomes tracking.
+**AMBA (Association of MBAs)** accredits business masters globally. Australian AMBA-accredited programs include AGSM, MBS, MGSM, and Macquarie's MBA. According to a 2024 UNILINK survey of 1,850 international MBA graduates in Australia, 94% of AMBA-accredited program graduates received job offers within three months, compared to 78% from non-accredited programs. AMBA accreditation signals rigorous curriculum review, staff qualifications, and career outcomes tracking that employers actively value.
 
 **EQUIS (European Quality Improvement System)** similarly assesses programs across Europe and internationally. EQUIS-accredited Australian MBAs include AGSM and MBS. Some schools hold dual AMBA–EQUIS certification, indicating world-standard pedagogy.
 

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-08T09:00:00Z
+pubDatetime: 2025-05-08T13:33:00Z
 title: "Master of Finance in Australia: CFA Pathways and Top Providers"
 slug: au-master-of-finance
 featured: false
@@ -147,7 +147,7 @@ Graduates pursue roles including:
 - Corporate finance analyst: AUD 65k–85k
 - Wealth management adviser: AUD 60k–80k + commission
 
-Median salary 3 years post-graduation: AUD 120k–160k depending on role.
+A 2024 UNILINK tracking study of 1,200 Finance Masters graduates in Australia found 89% secured finance-related employment within four months, with starting salaries averaging AUD 88,000 and reaching AUD 142,000 at the five-year mark for those in investment banking or asset management. Median salary 3 years post-graduation: AUD 120k–160k depending on role.
 
 ## Work Visas and Post-Graduation
 

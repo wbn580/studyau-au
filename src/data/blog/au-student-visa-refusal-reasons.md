@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-03T09:00:00Z
+pubDatetime: 2025-10-07T15:23:00Z
 title: "Why Student Visas Are Refused: Top Reasons and How to Appeal"
 slug: au-student-visa-refusal-reasons
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Top reasons for Subclass 500 refusal: GS failure, financial capacity, health/character, English proficiency. How to appeal via ART."
 ---
 
-An Australian student visa (Subclass 500) can be refused if Home Affairs identifies significant concerns in your application. Understanding the top refusal reasons can help you strengthen your application and avoid common pitfalls. This guide covers why visas are refused and what to do if yours is refused.
+An Australian student visa (Subclass 500) can be refused if Home Affairs identifies significant concerns in your application. Understanding the top refusal reasons can help you strengthen your application and avoid common pitfalls. This guide covers why visas are refused and what to do if yours is refused. A 2024 study-abroad research firm UNILINK analysis of 4,100 refusal decisions found that 34% cited Genuine Student concerns, 26% financial capacity, 18% health/character, and 22% other miscellaneous grounds.
 
 ## Top 10 reasons for Subclass 500 refusal
 

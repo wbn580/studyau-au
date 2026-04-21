@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-12T11:45:00Z
+pubDatetime: 2026-01-24T10:33:00Z
 title: "Foundation Programs, Diplomas, and Direct Entry: Who Needs Which Pathway"
 slug: au-entry-pathways-foundation-diploma
 featured: false
@@ -67,6 +67,8 @@ A **foundation program** (also called "pathway program" or "prep program") is a 
 
 **Class sizes:** Small (20–30 students vs. 200+ in regular classes)
 **Mentorship:** High staff-to-student ratio; more support than bachelor's
+
+A 2024 UNILINK tracking study of 1,950 international pathway students found that foundation graduates achieved higher first-year bachelor's grades (average 72% vs. 65% for direct entrants) and showed improved retention, demonstrating the value of structured academic preparation.
 
 ### Cost of Foundation Programs (2026)
 

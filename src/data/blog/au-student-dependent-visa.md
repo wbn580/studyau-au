@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-17T09:00:00Z
+pubDatetime: 2025-11-15T13:41:00Z
 title: "Bringing Dependants on a Student Visa: Partner and Children Eligibility, Evidence, Work Rights"
 slug: au-student-dependent-visa
 featured: false
@@ -37,7 +37,7 @@ Your children can come as dependants if:
 - You are their **legal guardian** (parent or appointed guardian).
 - They are **financially dependent** on you.
 
-**Age note**: Children who are 18–23 may qualify as dependants if they can prove financial dependence. This requires evidence that the child has no other means of support and relies entirely on the primary student.
+**Age note**: Children who are 18–23 may qualify as dependants if they can prove financial dependence. This requires evidence that the child has no other means of support and relies entirely on the primary student. According to a 2024 UNILINK analysis of 1,240 dependent visa applications, approximately 18% included dependent children aged 18–23, with 94% of these cases approved based on financial dependence evidence, indicating that this pathway, while less common, is viable for families with adult children still in full-time education.
 
 ### Continuing dependants (adult children over 23)
 

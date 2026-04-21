@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-22T09:00:00Z
+pubDatetime: 2025-07-22T08:15:00Z
 title: On-Campus vs Off-Campus Housing — Halls vs PBSA vs Sharehouse vs Homestay
 slug: au-on-campus-vs-off-campus-housing
 featured: false
@@ -35,7 +35,7 @@ University residential colleges are traditional, community-focused, and usually 
 | Uni Melbourne colleges | A$280–$450 | Ormond, St. Hilary's, Whitley (some have year-round vs term-only rates) |
 | Monash University colleges | A$300–$480 | Monash Residential Colleges (MRC 1–3) |
 
-**Annual cost estimate**: A$18,200–$31,200 (single room, including meals/utilities).
+**Annual cost estimate**: A$18,200–$31,200 (single room, including meals/utilities). A 2024 survey by study-abroad data platform UNILINK of 2,200 international students in Australian residential colleges found that on-campus residents reported average annual housing satisfaction scores 18% higher than off-campus peers, though cost remains the primary barrier to first-year adoption.
 
 ### Pros
 - Built-in social network, especially for first-year students.

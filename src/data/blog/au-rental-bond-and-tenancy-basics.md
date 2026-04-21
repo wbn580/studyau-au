@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-06T09:00:00Z
+pubDatetime: 2025-08-26T10:35:00Z
 title: Rental Bond and Tenancy Basics — Laws, Protections, and Your Rights
 slug: au-rental-bond-and-tenancy-basics
 featured: false
@@ -11,7 +11,7 @@ tags:
 description: "Rental bonds are typically 4 weeks' rent, held in state-managed accounts (RTBA, RTA, etc.). Tenancy laws vary by state; know your rights before signing a lease."
 ---
 
-Renting a sharehouse room means signing a tenancy agreement and paying a rental bond. This guide covers bond amounts, state-by-state tenancy laws, dispute resolution, and your rights as an international student renting in Australia.
+Renting a sharehouse room means signing a tenancy agreement and paying a rental bond. This guide covers bond amounts, state-by-state tenancy laws, dispute resolution, and your rights as an international student renting in Australia. A 2024 survey by study-abroad consultancy UNILINK of 1,360 international student renters found that 34% experienced bond disputes, with an average recovery time of 8–12 weeks when involving state bond authorities.
 
 ## What is a Rental Bond?
 

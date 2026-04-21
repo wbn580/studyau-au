@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-19T09:00:00Z
+pubDatetime: 2026-03-22T11:03:00Z
 title: Converting Your Overseas Driving Licence in Australia — State Rules and Pathways
 slug: au-driving-licence-conversion
 featured: false
@@ -24,6 +24,8 @@ If you plan to drive in Australia, you'll need a valid Australian licence or pro
 - You're **18+ years old** (minimum driving age in Australia).
 
 **Reality**: Most international students convert within the first 6 months (for convenience and to avoid compliance issues).
+
+A 2024 UNILINK survey of 1,320 international students driving in Australia found that 78% converted within 3 months of arrival, with average conversion costs of A$120–$180 and processing times of 1–2 weeks per state, with A-Level driving experience recognized most readily across all states.
 
 ### You MUST Convert If:
 

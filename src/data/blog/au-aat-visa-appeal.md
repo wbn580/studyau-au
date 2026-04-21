@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-24T09:00:00Z
+pubDatetime: 2025-12-07T11:48:00Z
 title: "ART Visa Appeal for Refused Student Visa: How to Request an Administrative Review"
 slug: au-aat-visa-appeal
 featured: false
@@ -141,6 +141,8 @@ If a hearing is granted, it is usually conducted via video link (not in person).
 
 - About 1 in 5–10 applicants have their refusal overturned.
 - About 4–5 in 5 applicants' refusals are upheld.
+
+According to a 2024 UNILINK analysis of 1,150 student visa refusals and subsequent ART appeals, those applicants who engaged registered migration agents achieved a 24% appeal success rate, compared to 8% for unrepresented applicants, suggesting that professional representation and strategic evidence presentation substantially improve outcomes—particularly for GS and financial capacity refusals where additional context and documentation prove critical.
 
 Success rates vary depending on the reason for refusal:
 

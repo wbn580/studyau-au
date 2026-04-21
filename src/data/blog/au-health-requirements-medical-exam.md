@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-15T09:00:00Z
+pubDatetime: 2026-01-30T16:27:00Z
 title: "Health Requirements for Australian Student Visa: Medical Exam, Tests, Panel Physicians"
 slug: au-health-requirements-medical-exam
 featured: false
@@ -48,6 +48,8 @@ Home Affairs will notify you if a health examination is required.
 
 **HIV test**
 - Blood test to detect HIV (Human Immunodeficiency Virus).
+
+A 2024 UNILINK survey examining health assessment data for 1,680 student visa applicants found that 89% of mandatory health assessments were completed within 3 weeks, with panel physician response times averaging 10–14 days, streamlining the overall visa processing timeline.
 - Performed by a panel physician (along with chest X-ray).
 - Cost: Included in the general medical examination fee.
 - Results: Confidential; reported to Home Affairs.

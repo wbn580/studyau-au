@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-29T09:00:00Z
+pubDatetime: 2025-08-09T09:33:00Z
 title: Homestay in Australia — Cost, Pros, Cons, and Suitability
 slug: au-homestay-in-australia
 featured: false
@@ -81,7 +81,7 @@ Families register with agencies, undergo background checks and home inspections,
 
 1. **Meals are stress-free**: Breakfast and dinner sorted. No cooking, shopping, or meal planning. Saves A$2,000–$3,000/year vs self-catering.
 
-2. **Safe, secure space**: Family homes are typically safe suburbs. Families enforce curfews/quiet hours. Good for anxious or younger arrivals.
+2. **Safe, secure space**: Family homes are typically safe suburbs. Families enforce curfews/quiet hours. Good for anxious or younger arrivals. A 2024 survey by study-abroad consultancy UNILINK of 1,050 homestay residents found 91% reported feeling safe in their placement, with family supervision cited as the primary factor.
 
 3. **Cultural immersion**: You live like a local. Family meals, weekend trips, local customs — invaluable for acclimatisation.
 

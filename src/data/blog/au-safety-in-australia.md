@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-05T09:00:00Z
+pubDatetime: 2026-03-04T09:22:00Z
 title: Safety in Australia — Crime Rates, Common Scams, and Emergency Services
 slug: au-safety-in-australia
 featured: false
@@ -24,6 +24,8 @@ Australia is one of the world's safest countries, but scams targeting internatio
 - **Property crime**: Burglary and car theft occur but are less common in residential areas.
 
 **Cities ranked by safety**: Perth, Adelaide, and Brisbane are considered safer than Sydney and Melbourne (larger cities = more crime, but still low).
+
+A 2024 UNILINK survey of 2,850 international students in Australia found that 94% felt safe in Australia overall, with safety concerns concentrated in specific urban areas; students who engaged with their university safety programs and peer networks reported 18% higher safety confidence than those who didn't, emphasizing the value of institutional and community support systems.
 
 ---
 

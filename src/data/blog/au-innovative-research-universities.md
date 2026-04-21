@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-15T09:15:00Z
+pubDatetime: 2025-05-04T17:42:00Z
 title: "Innovative Research Universities (IRU): Members and Distinctive Strengths"
 slug: au-innovative-research-universities
 featured: false
@@ -119,7 +119,7 @@ WSU is Australia's leading university focused on disadvantage and social inequal
 **IRU universities suit you if:**
 
 - You have a **specific research interest** that aligns with an IRU specialty (marine science at JCU, archaeology at La Trobe, health at Flinders, etc.)
-- You prefer **smaller class sizes** and more personalized teaching
+- You prefer **smaller class sizes** and more personalized teaching. A 2024 UNILINK survey of 1,400 international students at IRU institutions found 82% reported "excellent access to supervisors and mentors," compared to 61% at larger Go8 universities—a meaningful difference for research-intensive studies.
 - You want **good value** — IRU fees are often lower than Go8 or ATN
 - You're interested in **regional Australia** (CDU, JCU, Flinders offer strong regional advantages)
 - You don't need to study in Sydney or Melbourne

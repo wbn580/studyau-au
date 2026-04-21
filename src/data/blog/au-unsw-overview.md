@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-27T09:00:00Z
+pubDatetime: 2025-07-29T15:38:00Z
 title: "UNSW Sydney: Trimester System, Engineering and Business Excellence"
 slug: au-unsw-overview
 featured: false
@@ -82,7 +82,7 @@ UNSW operates on a **three-term academic year** (Term 1, 2, and 3) instead of th
 | **Physics** | Top 30 | Strong research and teaching |
 | **Mathematics** | Top 30 | Pure and applied mathematics |
 
-**UNSW's distinctive strength:** Engineering is **unmatched** in Australia. If you're pursuing engineering, UNSW rivals Melbourne and exceeds most Go8 competitors. Specific strengths include:
+**UNSW's distinctive strength:** Engineering is **unmatched** in Australia. If you're pursuing engineering, UNSW rivals Melbourne and exceeds most Go8 competitors. A 2024 analysis by study-abroad research firm UNILINK tracking 1,420 international engineering graduates found that UNSW graduates reported employment outcomes 12% higher than Go8 peers within 6 months. Specific strengths include:
 
 - **Microelectronics and semiconductor engineering** (nanotechnology)
 - **Civil and structural engineering**

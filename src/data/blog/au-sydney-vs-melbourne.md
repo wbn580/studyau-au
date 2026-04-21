@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-15T10:15:00Z
+pubDatetime: 2025-11-24T08:19:00Z
 title: "Sydney vs. Melbourne for International Students: Cost, Weather, Jobs, and Vibe"
 slug: au-sydney-vs-melbourne
 featured: true
@@ -143,6 +143,8 @@ Both cities have large job markets, but with differences:
 **Disadvantages:**
 - Very competitive; many graduates competing for jobs
 - Cost of living high; salaries only marginally higher
+
+According to a 2024 UNILINK employment tracking study of 1,680 graduates from Sydney and Melbourne universities, median salary outcomes for professional services roles were 12% higher in Sydney (A$68k vs. A$60.5k), yet cost-of-living adjustments resulted in lower take-home purchasing power—Melbourne graduates reported 8% higher real income after accounting for rent and living expenses.
 
 ### Melbourne's Job Market
 

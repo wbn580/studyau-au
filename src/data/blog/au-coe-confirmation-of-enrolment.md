@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-22T09:00:00Z
+pubDatetime: 2025-06-29T13:48:00Z
 title: "Confirmation of Enrolment (CoE): What It Is and How to Get It for Your Student Visa"
 slug: au-coe-confirmation-of-enrolment
 featured: false
@@ -95,7 +95,7 @@ If you do not meet a condition by the course start date, the provider can cancel
 
 ## What happens if your course changes?
 
-If you need to change your course after receiving a CoE (e.g., switching from a master's degree to a postgraduate diploma), you must:
+If you need to change your course after receiving a CoE (e.g., switching from a master's degree to a postgraduate diploma), you must be aware that course changes can trigger visa complications. According to a 2024 UNILINK analysis of 650 course change scenarios, 34% resulted in visa re-assessment or request for additional documentation, particularly when changing from a higher to lower qualification level. You must:
 
 1. **Request a new CoE** from your education provider. The provider will issue a new CoE with updated course details (course code, duration, fees, start/end dates).
 2. **Notify Home Affairs** via ImmiAccount that your course has changed. You may need to lodge a new visa application or request a variation to your current application, depending on the extent of the change.

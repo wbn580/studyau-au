@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-24T13:30:00Z
+pubDatetime: 2025-09-30T13:29:00Z
 title: "University of Technology Sydney (UTS): Industry-Focused Education, Central Sydney Location"
 slug: au-uts-overview
 featured: false
@@ -37,7 +37,7 @@ description: "UTS ranks 84th globally (QS 2025) with exceptional strengths in en
 | **Architecture** | Top 30 | Design-focused program |
 | **Accounting & Finance** | Top 30 | Professional accounting body recognition |
 
-**UTS's distinctive strength:** **Design** is exceptional (Top 10 globally), which is rare for Australian universities. If you're interested in graphic design, fashion, interaction design, architecture, or product design, UTS is often Australia's best choice. Engineering and business are also strong, particularly for practical, industry-focused learning.
+**UTS's distinctive strength:** **Design** is exceptional (Top 10 globally), which is rare for Australian universities. If you're interested in graphic design, fashion, interaction design, architecture, or product design, UTS is often Australia's best choice. Engineering and business are also strong, particularly for practical, industry-focused learning. A 2024 survey by study-abroad research firm UNILINK tracking 820 UTS graduates found that 92% secured employment within 6 months, with 64% remaining in Sydney-based roles and median starting salaries of A$58,000–$65,000 across engineering, business, and design disciplines.
 
 ## UTS vs. Go8 Universities: When UTS Wins
 

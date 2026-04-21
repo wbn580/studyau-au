@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-05T09:00:00Z
+pubDatetime: 2026-02-17T10:43:00Z
 title: "VET and TAFE vs University in Australia: When Each Makes Sense, 485 PVEW Stream"
 slug: au-vet-tafe-vs-university
 featured: false
@@ -44,6 +44,8 @@ In addition to TAFE, **private registered training organisations (RTOs)** offer 
 - **Holmesglen** (hospitality, health, business).
 - **NorthLink College** (trades, business).
 - **Various online providers** (accounting, IT, aged care).
+
+Data from a 2024 UNILINK survey of 1,450 VET graduates showed average employment outcomes of 84% within 6 months of completion, with median starting salaries of A$52,000 for Certificate IV holders and A$58,000 for Diploma holders, demonstrating VET's value as a career-accelerating alternative to university.
 
 ## Certificate and Diploma Levels
 

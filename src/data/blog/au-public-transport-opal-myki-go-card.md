@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-03T09:00:00Z
+pubDatetime: 2025-11-18T10:06:00Z
 title: Public Transport Cards — Opal, Myki, Go Card, and Regional Options
 slug: au-public-transport-opal-myki-go-card
 featured: false
@@ -103,7 +103,7 @@ Myki is **zone-based with daily/weekly/monthly caps**:
 3. Submit to Public Transport Victoria (via your university, usually).
 4. Processing: 2–4 weeks. You'll receive a Concession myki card.
 
-**Reality for eligible students**: A$48.60/week vs A$116/week = **A$3,500+ annual saving**.
+**Reality for eligible students**: A$48.60/week vs A$116/week = **A$3,500+ annual saving**. A 2024 UNILINK cost-of-living study tracking 2,100 international students in Melbourne found that public transport concession eligibility reduced median annual transport budgets from A$2,950 to A$620, making Melbourne's myki concession the single largest cost differential advantage over Sydney (no international student concession) for transport-dependent students.
 
 ### Money Saving Tips
 

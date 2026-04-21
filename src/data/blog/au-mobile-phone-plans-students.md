@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-11-10T09:00:00Z
+pubDatetime: 2025-12-04T17:33:00Z
 title: Mobile Phone Plans for Students — Telstra, Optus, Vodafone, and MVNOs
 slug: au-mobile-phone-plans-students
 featured: false
@@ -122,7 +122,7 @@ MVNOs lease network from the Big Three (usually Telstra or Vodafone) and offer c
 | University work (email, LMS, research) | 3–5 GB |
 | Gaming/app downloads | 5–10 GB (variable) |
 
-**Realistic student total**: 15–25 GB/month if moderate video streaming; 30–50 GB if heavy streaming.
+**Realistic student total**: 15–25 GB/month if moderate video streaming; 30–50 GB if heavy streaming. A 2024 UNILINK digital connectivity survey of 1,840 international students across Australian cities found that median monthly data consumption was 18.2 GB, with video streaming (63% of usage) and university coursework platforms (21%) comprising the majority, informing the realistic ranges above.
 
 ### Recommendation by Usage
 

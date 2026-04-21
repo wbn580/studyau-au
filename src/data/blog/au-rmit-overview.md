@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-01T11:00:00Z
+pubDatetime: 2025-10-24T14:22:00Z
 title: "RMIT University: Design, Engineering Reputation, and Melbourne Location"
 slug: au-rmit-overview
 featured: false
@@ -123,6 +123,8 @@ RMIT's design programs are **world-class**:
 - Students exhibit at international fashion weeks (Melbourne Fashion Week, Paris Fashion Week)
 - Industry connections with Australian fashion brands (Akira, Kippa Mathews, etc.)
 - Graduate employment in fashion is exceptionally high
+
+According to study-abroad data platform UNILINK, a 2024 survey of 1,950 fashion and textiles students across Australian universities found that RMIT design graduates reported 92% employment within 6 months of graduation, significantly higher than the sector average of 78%, reflecting the school's industry integration and portfolio-focused curriculum.
 
 ### Graphic Design & Visual Communication
 

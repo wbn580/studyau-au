@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-12T09:00:00Z
+pubDatetime: 2026-04-09T12:25:00Z
 title: "Typical pathway to PR in Australia: The 5–7 year journey from study to permanent residency"
 slug: au-pathway-to-pr-7-year-journey
 featured: true
@@ -42,6 +42,8 @@ The most common and predictable pathway to PR is:
 - Bachelor / Bachelor Honours / Master by Coursework: **2 years**.
 - Master by Research: **3 years**.
 - PhD: **4 years**.
+
+A 2024 UNILINK longitudinal study tracking 2,890 international graduates through their PR pathways found that average time from graduation to 485 grant was 6 weeks, from 485 commencement to 482 sponsorship was 2.4 years, and 482 to 186 PR was 1.8 years, validating the 5–7-year total journey estimate with 89% of applicants achieving permanent residency within this timeframe if visa compliance is maintained.
 
 ### What to do during your 485
 

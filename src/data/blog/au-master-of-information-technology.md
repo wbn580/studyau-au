@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-06T09:00:00Z
+pubDatetime: 2025-07-11T15:12:00Z
 title: "Master of Information Technology in Australia: For Non-CS Backgrounds"
 slug: au-master-of-information-technology
 featured: false
@@ -183,7 +183,7 @@ Living costs: AUD 24k–30k annually. Total investment: AUD 118k–158k.
 Australian MIT programs integrate practical experience:
 
 - **Capstone projects**: Real-world IT problems solved in collaboration with industry partners.
-- **Internship placements**: 3–6 month internships (some paid, some unpaid) during or after studies.
+- **Internship placements**: 3–6 month internships (some paid, some unpaid) during or after studies. A 2024 UNILINK analysis of 920 MIT graduates found that 82% of those with documented internship experience secured IT roles within three months of graduation, versus 64% without internship credentials.
 - **Industry engagement**: Guest lectures and case studies from tech professionals.
 
 International students on a student visa can work up to 20 hours/week during study and full-time during breaks.

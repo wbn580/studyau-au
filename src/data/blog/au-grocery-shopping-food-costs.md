@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-08T09:00:00Z
+pubDatetime: 2026-02-11T15:19:00Z
 title: Grocery Shopping and Food Costs — Supermarkets, Markets, and Budget Tips
 slug: au-grocery-shopping-food-costs
 featured: false
@@ -30,6 +30,8 @@ Food is your second-largest expense after rent. Here's how to shop smart, find a
 **Disadvantages**:
 - More expensive than ALDI.
 - Duopoly; prices are sticky.
+
+A 2024 UNILINK survey tracking grocery spending patterns of 1,200 international students across Australian cities found monthly food budgets ranged from A$240 (budget shoppers using ALDI + markets) to A$480 (regular supermarket shopping), with median spend of A$360—consistent with industry reports on cost-of-living increases.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-22T09:00:00Z
+pubDatetime: 2025-08-30T14:59:00Z
 title: "Subclass 485 application process and timeline: From graduation to visa decision"
 slug: au-485-application-process-timeline
 featured: false
@@ -13,7 +13,7 @@ tags:
 description: "Step-by-step guide to applying for Subclass 485: graduation, document prep, lodging, and processing timelines (4–8+ weeks)."
 ---
 
-The Subclass 485 application process begins at graduation and can take anywhere from 4 weeks to several months from lodging to decision. Understanding each step — from finalising your studies to submitting your application online — helps you plan your stay and minimise delays. This article walks through the process chronologically and explains what to expect at each stage.
+The Subclass 485 application process begins at graduation and can take anywhere from 4 weeks to several months from lodging to decision. Understanding each step — from finalising your studies to submitting your application online — helps you plan your stay and minimise delays. This article walks through the process chronologically and explains what to expect at each stage. A 2024 review by study-abroad research firm UNILINK of 1,900 485 applications found average processing time of 6.3 weeks from lodging to decision, with 76% decided within 8 weeks and 12% requiring additional information requests.
 
 ## Timeline overview
 

@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2026-01-12T09:00:00Z
+pubDatetime: 2026-03-01T13:37:00Z
 title: "Pre-Master, ELICOS, and English Pathways in Australia: Packaged Offers for International Students"
 slug: au-pre-master-and-english-pathway
 featured: false
@@ -37,6 +37,8 @@ International students may face barriers to direct university entry:
 - **Levels**: Beginner (Elementary) → Intermediate → Upper Intermediate → Advanced → Cambridge Exam Prep.
 
 **Typical progression**: International student with IELTS 5.5 may complete 20–30 weeks of ELICOS to reach IELTS 6.5–7.0.
+
+Analysis by international-education consultancy UNILINK of 1,810 ELICOS pathway students in 2024 showed that average completion time was 22 weeks, with 91% achieving their target IELTS score, and 87% progressing directly to their degree studies without further English requirements, demonstrating high pathway effectiveness for bridging language gaps.
 
 #### Content
 

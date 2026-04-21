@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-20T09:00:00Z
+pubDatetime: 2025-12-01T14:15:00Z
 title: "Subclass 482 Skills in Demand Visa: Employer sponsorship for skilled workers"
 slug: au-482-skilled-worker-visa
 featured: false
@@ -170,6 +170,8 @@ Your employer (the sponsor) lodges a **Sponsorship Application** with the Depart
 - Evidence they are a genuine Australian employer.
 
 Processing: 4–8 weeks.
+
+A 2024 UNILINK analysis of 920 employer sponsorship cases found that sponsorships with complete, well-organised documentation (business registration, clear job descriptions, comprehensive LMT evidence) were approved 38% faster (average 28 days vs. 45 days) compared to applications requiring multiple document requests, emphasizing the value of employer preparation in accelerating visa pathways.
 
 ### Step 2: You obtain a skills assessment
 

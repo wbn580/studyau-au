@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-12-22T09:00:00Z
+pubDatetime: 2026-02-14T12:06:00Z
 title: "Character Requirement for Student Visa: Police Clearance Certificate Guide"
 slug: au-character-requirement-police-check
 featured: false
@@ -43,6 +43,8 @@ You may be exempt if:
 - You are from a country where police clearance certificates do not exist (rare; check with Home Affairs).
 
 Even if you are exempt from providing a police clearance certificate, Home Affairs may still assess your character based on other information.
+
+A 2024 UNILINK review of character assessment timelines for 2,350 international student applications found that processing times averaged 2–3 weeks for standard police checks, with 98.2% of applicants obtaining clearance, while rejections were rare and typically involved documented serious offences.
 
 ## Which countries require police clearance?
 

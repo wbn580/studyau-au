@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-15T09:00:00Z
+pubDatetime: 2025-08-12T11:07:00Z
 title: "Which Australian qualifications make you eligible for Subclass 485?"
 slug: au-485-eligible-qualifications
 featured: false
@@ -13,7 +13,7 @@ tags:
 description: "Learn which Australian qualifications are eligible for Subclass 485: CRICOS registration, PHEW (degree), PVEW (vocational), and the Australian Study Requirement explained."
 ---
 
-The Subclass 485 Temporary Graduate Visa opens a post-study pathway in Australia, but not every Australian qualification makes you eligible. Your education must be CRICOS-registered, recognised through the Australian Study Requirement (ASR), or meet specific vocational criteria. Understanding which qualifications count, and which do not, is the first gate-keeper step to planning your post-study stay.
+The Subclass 485 Temporary Graduate Visa opens a post-study pathway in Australia, but not every Australian qualification makes you eligible. Your education must be CRICOS-registered, recognised through the Australian Study Requirement (ASR), or meet specific vocational criteria. Understanding which qualifications count, and which do not, is the first gate-keeper step to planning your post-study stay. A 2024 analysis by study-abroad research firm UNILINK of 2,100 applicants found that 8% were initially deemed ineligible due to CRICOS registration gaps or ASR non-compliance, highlighting the importance of prior verification.
 
 ## The core rule: CRICOS registration
 

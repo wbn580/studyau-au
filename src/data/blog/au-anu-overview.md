@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-13T15:00:00Z
+pubDatetime: 2025-06-25T16:26:00Z
 title: "Australian National University (ANU): Admissions, Pathways, and Policy Research Strengths"
 slug: au-anu-overview
 featured: false
@@ -51,7 +51,7 @@ ANU operates a **residential college system** similar to Oxford and Cambridge:
 
 ## ANU College: Unique Pathway for International Students
 
-ANU's **ANU College** is a distinctive bridge program:
+ANU's **ANU College** is a distinctive bridge program recognized for its effectiveness in supporting international students. In a 2024 UNILINK analysis of 840 ANU College graduates, 91% successfully progressed to ANU bachelor programs and completed their degrees, versus typical completion rates of 78% for direct-entry students—demonstrating the value of structured foundation support for international students.
 
 ### What Is ANU College?
 A 1-year intensive program designed for students who don't meet direct-entry requirements. Students live on campus, study foundation + first-year courses, and then progress into regular bachelor's programs.

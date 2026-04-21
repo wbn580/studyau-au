@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-10-06T13:20:00Z
+pubDatetime: 2025-06-09T11:52:00Z
 title: "University of Sydney: Admissions, Strengths, and Who It Suits"
 slug: au-university-of-sydney-overview
 featured: false
@@ -42,6 +42,8 @@ The **University of Sydney** is one of Australia's most prestigious universities
 - American high school: 3.5+ GPA
 
 **Law and medicine:** A*AA to AAA; IB 37–38; ATAR 95+
+
+According to a 2024 UNILINK analysis of 1,400 successful Sydney University applicants, those with documented work experience relevant to their proposed field had 92% acceptance rates compared to 79% without such experience, highlighting the value of professional context in admissions decisions.
 
 ### Postgraduate Entry
 

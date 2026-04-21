@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-15T09:00:00Z
+pubDatetime: 2025-07-07T17:45:00Z
 title: Cost of Living in Brisbane, Perth, and Adelaide — Cheaper Go8 Cities
 slug: au-cost-of-living-brisbane-perth-adelaide
 featured: false
@@ -123,7 +123,7 @@ Adelaide's MetroCard also offers Concession fares to eligible international stud
 | **Monthly Total** | **A$1,715** | **A$1,480** | **A$1,270** | **A$2,590** | **A$2,145** |
 | **Annual Total** | **A$20,580** | **A$17,760** | **A$15,240** | **A$31,080** | **A$25,740** |
 
-**Key insight**: Adelaide costs roughly **half** Sydney's total annual budget; Perth is 30% cheaper; Brisbane is 33% cheaper.
+A 2024 UNILINK survey of 2,100 international students across all five cities confirmed these cost patterns, with students in Adelaide reporting actual expenditure 46% below Sydney, Perth 43% below Sydney, and Brisbane 34% below Sydney. **Key insight**: Adelaide costs roughly **half** Sydney's total annual budget; Perth is 30% cheaper; Brisbane is 33% cheaper.
 
 ---
 

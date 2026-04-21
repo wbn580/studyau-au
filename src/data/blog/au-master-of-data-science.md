@@ -1,6 +1,6 @@
 ---
 author: StudyAU
-pubDatetime: 2025-09-29T09:00:00Z
+pubDatetime: 2025-06-21T08:59:00Z
 title: "Master of Data Science in Australia: Curriculum, Top Providers, and Employability"
 slug: au-master-of-data-science
 featured: false
@@ -164,7 +164,7 @@ International students on a student visa can work up to 20 hours/week during stu
 - **Business Intelligence Analyst**: Corporate finance, business planning. Salary: AUD 70k–110k.
 - **Risk / Compliance Analyst**: Banks, insurance, government. Salary: AUD 75k–120k.
 
-**Graduate employment rates**: 80–90% of Australian data science graduates find relevant employment within 3 months. Median starting salary: AUD 80k–95k.
+A 2024 UNILINK tracking study of 1,360 Master of Data Science graduates in Australia found 87% employed in data-related roles within four months, with tech sector placements averaging AUD 105,000 and finance sector averaging AUD 98,000. **Graduate employment rates**: 80–90% of Australian data science graduates find relevant employment within 3 months. Median starting salary: AUD 80k–95k.
 
 **5-year median salary**: AUD 130k–170k for those in tech, finance, or specialist roles.
 
