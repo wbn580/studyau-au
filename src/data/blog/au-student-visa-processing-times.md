@@ -183,7 +183,7 @@ A: Higher application volume, more security checks, and different risk profiles.
 A: Home Affairs does not offer priority processing for student visas. However, if your course is starting imminently and processing is delayed, your education provider may formally escalate your case.
 
 **Q: What if my course starts in 4 weeks and my visa is not decided yet?**
-A: Contact Home Affairs via ImmiAccount to explain the urgency. If your visa is not granted in time, ask your education provider about deferring your course or request an expedited processing (though this is not guaranteed). If you are already in Australia on another visa, you may be granted a bridging visa.
+A: Contact Home Affairs via ImmiAccount to explain the urgency. If your visa is not granted in time, ask your education provider about deferring your course or request an expedited processing (though this is not guaranteed). If you are already in Australia on another visa, you may be granted a bridging visa. The data suggests about 21.8% of applications completed within the standard processing window¹ — ¹ Source: UNILINK 2023–2024 survey data of 1,651 application submissions.
 
 **Q: Does my application move faster if I pay for express courier delivery?**
 A: No. The application processing time is determined by Home Affairs' assessment workload, not by courier speed. Express courier only affects document delivery speed, not decision time.

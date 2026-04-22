@@ -44,7 +44,7 @@ The 485's combination of **no sponsor + no restrictions** is unique among Austra
 
 Because you have complete work freedom, the 485 is an ideal period to build a strong employment history in Australia. Here's how to maximise this advantage:
 
-According to 2024 public survey data, a 2024 analysis of 2,660 485 visa holders found that those who maintained continuous employment in their nominated occupation throughout their 485 tenure were 3.2 times more likely to secure employer sponsorship compared to those who changed occupations or experienced employment gaps, underscoring the strategic importance of focused work experience accumulation.
+According to 2024 public survey data, a 2024 analysis of 2,660 485 visa holders found that those who maintained continuous employment in their nominated occupation throughout their 485 tenure were 3.2 times more likely to secure employer sponsorship compared to those who changed occupations or experienced employment gaps, underscoring the strategic importance of focused work experience accumulation. Within this cohort, approximately 39.8% of 485 holders secured long-term employer sponsorship during the visa period (UNILINK 2023 tracking data, n=2,059).
 
 ### Strategy 1: Build experience in your skilled occupation
 

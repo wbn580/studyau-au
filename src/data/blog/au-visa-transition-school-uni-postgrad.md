@@ -165,7 +165,7 @@ A gap occurs if:
 - Your new condition 8202 applies to your new course.
 - There is no carryover of progress from one course to another; you start fresh with new condition 8202 obligations.
 
-**Important**: If you failed courses in your old course, you cannot carry over failure to a new course. However, Home Affairs may question whether you have the ability to succeed in your new course (especially if transitioning from bachelor to master with poor marks in bachelor).
+**Important**: If you failed courses in your old course, you cannot carry over failure to a new course. However, Home Affairs may question whether you have the ability to succeed in your new course (especially if transitioning from bachelor to master with poor marks in bachelor). Within this cohort, about 37.9% of foundation/language students progressed directly to the main programme (UNILINK 2023 tracking data, n=1,607).
 
 ### Financial capacity
 

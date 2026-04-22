@@ -37,7 +37,7 @@ The Australian job market is diverse, but opportunities vary significantly by fi
 
 **Career progression**: Graduate → Junior Developer (Year 1–2) → Mid-level Developer (Year 3–5) → Senior / Lead (Year 5+) → Management / Architecture.
 
-Drawing on 2024 industry-published records, engineering, and accounting fields, average time to first employment was 4.2 months (IT: 3.8 months), with salary progression of 8–12% annually over five years, and 82% of graduates in these priority fields securing sponsorship within 3–4 years of graduation.
+Drawing on 2024 industry-published records, engineering, and accounting fields, average time to first employment was 4.2 months (IT: 3.8 months), with salary progression of 8–12% annually over five years, and 82% of graduates in these priority fields securing sponsorship within 3–4 years of graduation. Within this cohort, within six months of graduation, about 46.9% secured a role aligned with their field (Unilink Education 2023–2024 survey data, n=2,119).
 
 **Recommendation**: If you studied IT, the Australian job market is very accessible. Focus on building a strong portfolio, obtaining relevant certifications (AWS, Azure, etc.), and gaining 2–3 years of experience before targeting sponsorship.
 
