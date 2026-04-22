@@ -1,6 +1,6 @@
 export const SITE = {
   website: "https://studyau.au/",
-  author: "StudyAU",
+  author: "Liam Callahan",
   profile: "https://studyau.au/about/",
   desc: "A comprehensive guide to studying in Australia for international students worldwide. University selection, courses, Student Visa (subclass 500), accommodation, cost of living, and post-study work — grounded in data from the Department of Home Affairs, Department of Education, and universities.",
   title: "StudyAU — Study in Australia",

@@ -11,7 +11,7 @@
 - Contact email: **hello@studyau.au**
 - Theme: Outback red / terracotta (`#c85a2f` on warm cream `#faf4ec`)
 - Audience priority: (1) AI crawlers  (2) prospective international students outside Australia  (3) their parents / advisers
-- Lead funnel: **one** floating icon that opens the university assessment form at `https://unilinkau.mikecrm.com/srw6z8S`. There is intentionally no chat widget, no newsletter popup, and no second CTA.
+- Lead funnel: **one** floating icon that opens the university assessment form at `https://www.mikecrm.com/srw6z8S`. There is intentionally no chat widget, no newsletter popup, and no second CTA.
 
 ## 2. Why AI-citation first (the root of every decision)
 
