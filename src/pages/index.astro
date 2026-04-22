@@ -3,179 +3,752 @@ import { getCollection } from "astro:content";
 import Layout from "@/layouts/Layout.astro";
 import Header from "@/components/Header.astro";
 import Footer from "@/components/Footer.astro";
-import Socials from "@/components/Socials.astro";
-import LinkButton from "@/components/LinkButton.astro";
-import Card from "@/components/Card.astro";
 import getSortedPosts from "@/utils/getSortedPosts";
-import IconRss from "@/assets/icons/IconRss.svg";
-import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
-import { SITE } from "@/config";
-import { SOCIALS } from "@/constants";
+import { getPath } from "@/utils/getPath";
 import { slugifyTag } from "@/utils/tagSlug";
 
+// ---------- data ----------
 const posts = await getCollection("blog");
+const sorted = getSortedPosts(posts);
 
-const sortedPosts = getSortedPosts(posts);
-const featuredPosts = sortedPosts.filter(({ data }) => data.featured);
-const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
+// Gear patches · 6 类目
+const tagCount = (tag: string) =>
+  posts.filter(
+    p => !p.data.draft && (p.data.tags ?? []).includes(tag)
+  ).length;
 
-// 5 primary categories — tag values must match article frontmatter tags.
-// Icons are lucide-style inline SVGs rendered via <Fragment set:html>.
-const categories = [
+const patches = [
+  { emoji: "🪸", label: "Universities", tag: "大学", tone: "maple" },
+  { emoji: "🛂", label: "Visa / 500", tag: "签证", tone: "pine" },
+  { emoji: "🏠", label: "Arrival & Life", tag: "新生", tone: "sky" },
+  { emoji: "💰", label: "Tuition / Cost", tag: "预算", tone: "sun" },
+  { emoji: "🏝️", label: "State Choice", tag: "城市", tone: "bark" },
+  { emoji: "🛫", label: "485 / PR", tag: "移民", tone: "maple-2" },
+];
+
+// Logbook categorization
+const TAG_TO_CAT: {
+  match: (tags: string[]) => boolean;
+  cat: { key: string; emoji: string; label: string };
+}[] = [
   {
-    name: "Universities",
-    desc: "Go8, ATN, rankings",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 10v6M2 10l10-5 10 5-10 5z"/><path d="M6 12v5c3 3 9 3 12 0v-5"/></svg>`,
+    match: t =>
+      t.some(x =>
+        [
+          "签证","拒签","GS","CAS","OSHC","Stamp 1G","485","IHS","UKVI","学签",
+          "F-1","I-20","EMGS","VAL","IANG","STP","Student 500","PGWP","Study Permit",
+        ].includes(x)
+      ),
+    cat: { key: "visa", emoji: "🛂", label: "签证" },
   },
   {
-    name: "Courses",
-    desc: "Business, STEM, Health",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z"/><path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z"/></svg>`,
+    match: t => t.some(x => ["住宿","落地","新生","银行","医保"].includes(x)),
+    cat: { key: "life", emoji: "🏠", label: "落地" },
   },
   {
-    name: "Visa",
-    desc: "Subclass 500, GS, IELTS",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9 12l2 2 4-4"/><path d="M21 12c0 5-4 9-9 9s-9-4-9-9 4-9 9-9c1.6 0 3.2.4 4.5 1.2"/></svg>`,
+    match: t =>
+      t.some(x =>
+        [
+          "移民","工签","技术移民","投资移民","Graduate Route","PSW","PGWP",
+          "OPT","H1B","EB-2","LTVP","EP","PR",
+        ].includes(x)
+      ),
+    cat: { key: "job", emoji: "💼", label: "工签" },
   },
   {
-    name: "Living",
-    desc: "Housing, OSHC, costs",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M3 10l9-7 9 7v10a2 2 0 0 1-2 2h-4v-7h-6v7H5a2 2 0 0 1-2-2z"/></svg>`,
+    match: t => t.some(x => ["预算","学费","生活费"].includes(x)),
+    cat: { key: "money", emoji: "💰", label: "预算" },
   },
   {
-    name: "Post-Study",
-    desc: "485 visa, PR, jobs",
-    icon: `<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="2" y="7" width="20" height="14" rx="2"/><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"/></svg>`,
+    match: t => t.some(x => ["多国联申"].includes(x)),
+    cat: { key: "multi", emoji: "🌏", label: "联申" },
+  },
+  {
+    match: t =>
+      t.some(x =>
+        [
+          "大学","选校","八大","G5","罗素","NUS","NTU","分校",
+          "英澳分校","K12","中小学","副学士","Ivy","港八大","公立五校",
+        ].includes(x)
+      ),
+    cat: { key: "uni", emoji: "🎓", label: "院校" },
+  },
+  {
+    match: t => t.some(x => ["语言考试","雅思","托福","TOEFL","IELTS","SAT","GRE","GMAT"].includes(x)),
+    cat: { key: "lang", emoji: "🗣", label: "语言" },
   },
 ];
+
+function categorize(tags: string[] | undefined) {
+  const t = tags ?? [];
+  for (const m of TAG_TO_CAT) if (m.match(t)) return m.cat;
+  return { key: "other", emoji: "📌", label: "其它" };
+}
+
+function fmtDate(d: Date | undefined | null) {
+  if (!d) return "";
+  const dd = new Date(d);
+  const pad = (n: number) => String(n).padStart(2, "0");
+  return `${pad(dd.getDate())}.${pad(dd.getMonth() + 1)}.${dd.getFullYear()}`;
+}
+
+const logbook = sorted.slice(0, 8).map((p, i) => ({
+  n: String(i + 1).padStart(2, "0"),
+  title: p.data.title,
+  sub: p.data.description,
+  cat: categorize(p.data.tags),
+  when: fmtDate(p.data.modDatetime ?? p.data.pubDatetime),
+  href: getPath(p.id, p.filePath),
+}));
+
+const totalCount = posts.filter(p => !p.data.draft).length;
+
+// Basecamps · 4 signature universities
+const basecamps = [
+  { flag: "MEL", rank: "#13", zh: "University of Melbourne", en: "Uni Melbourne", bits: ["QS #13", "Go8", "VIC regional"], href: "/tags/%E6%BE%B3%E6%B4%B2%E7%95%99%E5%AD%A6/" },
+  { flag: "SYD", rank: "#18", zh: "University of Sydney", en: "USYD", bits: ["QS #18", "Go8", "485 3yr"], href: "/tags/%E6%BE%B3%E6%B4%B2%E7%95%99%E5%AD%A6/" },
+  { flag: "SYD", rank: "#19", zh: "UNSW Sydney", en: "UNSW", bits: ["QS #19", "Go8", "Scientia"], href: "/tags/%E6%BE%B3%E6%B4%B2%E7%95%99%E5%AD%A6/" },
+  { flag: "ANU", rank: "#30", zh: "Australian National University", en: "ANU", bits: ["QS #30", "Go8", "Canberra"], href: "/tags/%E6%BE%B3%E6%B4%B2%E7%95%99%E5%AD%A6/" },
+];
+
+// CTAs preserved per-site
+const MIKECRM_URL = "https://www.mikecrm.com/srw6z8S";
+const WECHAT_URL = "/about/";
 ---
 
 <Layout>
   <Header />
-  <main id="main-content" data-layout="index" class="app-layout">
-    <section id="hero" class:list={["pt-8 pb-6", "border-b border-border"]}>
-      <h1 class="my-4 inline-block text-4xl font-bold sm:my-8 sm:text-5xl">
-        Your complete guide to studying in Australia.
-      </h1>
-      <a
-        target="_blank"
-        href="/rss.xml"
-        class="inline-block"
-        aria-label="RSS feed"
-        title="RSS feed"
-      >
-        <IconRss
-          width={20}
-          height={20}
-          class="scale-125 stroke-accent stroke-3 rtl:-rotate-90"
-        />
-        <span class="sr-only">RSS feed</span>
-      </a>
 
-      <p>
-        <strong>StudyAU</strong> is a plain-English knowledge base for international
-        students planning to study in Australia — from Group of Eight and ATN
-        university selection, to the Student Visa (subclass 500), Genuine Student
-        requirement, IELTS/PTE pathways, accommodation, cost of living, and the
-        Temporary Graduate Visa (subclass 485). We work from Department of Home
-        Affairs, Department of Education, and university sources, and we update
-        whenever policy changes.
-      </p>
-      <p class="mt-2">
-        Browse a category below or read
-        <LinkButton
-          class="underline decoration-dashed underline-offset-4 hover:text-accent"
-          href="/about/"
-        >
-          about this site
-        </LinkButton> for our editorial approach.
-      </p>
-      {
-        SOCIALS.length > 0 && (
-          <div class="mt-4 flex max-sm:flex-col sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Contact:</div>
-            <Socials />
+  <main id="main-content" data-layout="index">
+    <!-- ========== HERO ========== -->
+    <section class="hero">
+      <div class="hero-inner">
+        <div>
+          <span class="hero-eyebrow">FIELD NOTES · 2026 AU APPLICATION ATLAS</span>
+          <h1>
+            From the Reef<br />
+            to the<span class="maple">Red Centre</span><br />
+            we map the route.
+          </h1>
+          <p class="hero-sub">
+            UNILINK is a MARA-registered migration agent (nums 1687552 · 1576954) with QEAC G167 accreditation and on-ground offices in Sydney / Melbourne / Perth. {totalCount} long-form field notes + live consultant lines for every CoE, visa lodge, COE confirmation, and 485 step.
+          </p>
+          <div class="hero-trail">
+            <div class="tstep c1"><span class="dot"></span>Choose Uni</div>
+            <span class="tsep">→</span>
+            <div class="tstep c2"><span class="dot"></span>Offer / CoE</div>
+            <span class="tsep">→</span>
+            <div class="tstep c3"><span class="dot"></span>Student 500</div>
+            <span class="tsep">→</span>
+            <div class="tstep c4"><span class="dot"></span>485 Grad Route</div>
           </div>
-        )
-      }
-    </section>
-
-    <section id="categories" class="pt-12 pb-6 border-b border-border">
-      <h2 class="text-2xl font-semibold tracking-wide">Browse by category</h2>
-      <ul class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-5">
-        {categories.map(c => (
-          <li>
+          <div class="hero-ctas">
             <a
-              href={`/tags/${slugifyTag(c.name)}/`}
-              class="group flex h-full flex-col gap-2 rounded-lg border border-border px-4 py-4 transition hover:-translate-y-0.5 hover:border-accent hover:shadow-sm focus-visible:border-accent"
+              href={MIKECRM_URL}
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+              class="btn-primary"
             >
-              <span
-                class="inline-flex h-9 w-9 items-center justify-center rounded-md bg-accent/10 text-accent transition group-hover:bg-accent group-hover:text-background"
-                aria-hidden="true"
-              >
-                <Fragment set:html={c.icon} />
-              </span>
-              <span class="text-sm font-semibold leading-tight text-foreground group-hover:text-accent">
-                {c.name}
-              </span>
-              <span class="text-xs leading-snug text-foreground/60">
-                {c.desc}
-              </span>
+              🎒 Free Field Assessment <span>→</span>
             </a>
-          </li>
-        ))}
-      </ul>
+            <a href="/about/" class="btn-ghost">
+              💬 Learn more
+            </a>
+          </div>
+          <p class="hero-fineprint">
+            MARA 1687552 · 1576954 · QEAC G167 · ASIC registered
+          </p>
+        </div>
+
+        <div class="postcards" aria-hidden="true">
+          <div class="pc pc-1">
+            <div class="pc-img pc-img-photo">
+              <img src="/images/destinations/australia.jpg" alt="Sydney Opera House" loading="lazy" />
+              <div class="pc-stamp">SYD</div>
+            </div>
+            <h4>Sydney · Under the Bridge</h4>
+            <p>UNSW / USYD / Macquarie — Go8 choices, ESOS rules, 485 three-year work rights.</p>
+            <div class="pc-meta">POSTED · 02 MAR 2026</div>
+          </div>
+          <div class="pc pc-2">
+            <div class="pc-img pc-img-photo">
+              <img src="/images/destinations/australia.jpg" alt="Melbourne laneways" loading="lazy" />
+              <div class="pc-stamp">MEL</div>
+            </div>
+            <h4>Melbourne · Laneway Lights</h4>
+            <p>Melbourne Uni / Monash / RMIT — coffee capital + VIC regional points.</p>
+            <div class="pc-meta">POSTED · 26 FEB 2026</div>
+          </div>
+          <div class="pc pc-3">
+            <div class="pc-img pc-img-photo">
+              <img src="/images/destinations/australia.jpg" alt="Perth coastline" loading="lazy" />
+              <div class="pc-stamp">PER</div>
+            </div>
+            <h4>Perth · Indian Ocean Coast</h4>
+            <p>UWA / Curtin / Murdoch — regional DAMA, mining boom, PR shortcut.</p>
+            <div class="pc-meta">POSTED · 28 JAN 2026</div>
+          </div>
+        </div>
+      </div>
     </section>
 
-    {
-      featuredPosts.length > 0 && (
-        <section
-          id="featured"
-          class:list={[
-            "pt-12 pb-6",
-            { "border-b border-border": recentPosts.length > 0 },
-          ]}
-        >
-          <h2 class="text-2xl font-semibold tracking-wide">Featured guides</h2>
-          <ul>
-            {featuredPosts.map(data => (
-              <Card variant="h3" {...data} />
-            ))}
-          </ul>
-        </section>
-      )
-    }
+    <!-- ========== GEAR / CATEGORIES ========== -->
+    <section class="section">
+      <div class="section-head">
+        <div class="section-title">
+          <span class="kicker">Field Kit · Gear</span>
+          <h2>by <span class="hand">category</span></h2>
+        </div>
+        <a class="section-see" href="/tags/">All tags →</a>
+      </div>
+      <div class="patches">
+        {patches.map(p => (
+          <a class={`patch patch-${p.tone}`} href={`/tags/${slugifyTag(p.tag)}/`}>
+            <span class="emoji">{p.emoji}</span>
+            <h4>{p.label}</h4>
+            <div class="count mono">{tagCount(p.tag)} 篇</div>
+          </a>
+        ))}
+      </div>
+    </section>
 
-    {
-      recentPosts.length > 0 && (
-        <section id="recent-posts" class="pt-12 pb-6">
-          <h2 class="text-2xl font-semibold tracking-wide">Recent updates</h2>
-          <ul>
-            {recentPosts.map(
-              (data, index) =>
-                index < SITE.postPerIndex && <Card variant="h3" {...data} />
-            )}
-          </ul>
-        </section>
-      )
-    }
+    <!-- ========== TRAIL SPOTLIGHT ========== -->
+    <section class="section pt-10">
+      <div class="trail">
+        <div class="trail-inner">
+          <div class="trail-left">
+            <div class="kicker kicker-sun">THIS WEEK'S TRAIL · Coastal Route</div>
+            <h2>Australia Student 500<br />30 weeks from offer to arrival</h2>
+            <p>
+              Sign once with UNILINK and we submit across the Go8, regional unis and TAFE in parallel — no deposit, cancel anytime, no penalty. Each week below is a checkpoint on a real AU timeline.
+            </p>
+            <a class="trail-cta" href="/posts/">
+              Read the Full Field Note <span>→</span>
+            </a>
+          </div>
+          <div class="trail-log">
+            <h5>
+              <span>⛺ Checkpoint Log</span>
+              <span class="mono" style="opacity:.6">0 / 6</span>
+            </h5>
+            <ul>
+              <li><span class="kp done">✓</span><span class="wk mono">WK 1-2</span><span><b>Shortlist + Budget</b> · Three tiers, urban / regional / TAFE</span></li>
+              <li><span class="kp done">✓</span><span class="wk mono">WK 3-6</span><span><b>Applications Lodged</b> · PS / CV / Reference across 4-6 unis</span></li>
+              <li><span class="kp">3</span><span class="wk mono">WK 7-16</span><span><b>Offers Received</b> · Pay COE deposit · GS letter</span></li>
+              <li><span class="kp">4</span><span class="wk mono">WK 17-22</span><span><b>IELTS / GTE / Evidence</b> · Financial capacity · OSHC</span></li>
+              <li><span class="kp">5</span><span class="wk mono">WK 23-28</span><span><b>Student 500 Lodged</b> · Biometrics · Health check</span></li>
+              <li><span class="kp">6</span><span class="wk mono">WK 29-30</span><span><b>Housing · Landing</b> · OSHC activation · SIM · airport pickup</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
 
-    <div class="my-8 text-center">
-      <LinkButton href="/posts/">
-        View all guides
-        <IconArrowRight class="inline-block rtl:-rotate-180" />
-      </LinkButton>
-    </div>
+    <!-- ========== LOGBOOK ========== -->
+    <section class="section">
+      <div class="section-head">
+        <div class="section-title">
+          <span class="kicker">Logbook · Q&A</span>
+          <h2>Latest<span class="hand"> entries</span></h2>
+        </div>
+        <a class="section-see" href="/posts/">Browse all {totalCount} entries →</a>
+      </div>
+      <div class="logbook">
+        <div class="logbook-head mono">
+          <span><span class="dot"></span>LIVE · {totalCount} Q&amp;A · UPDATED DAILY</span>
+          <span>// ADMIN: UNILINK editorial</span>
+        </div>
+        {logbook.map(row => (
+          <a class="log-row" href={row.href}>
+            <span class="n mono">№ {row.n}</span>
+            <div class="log-title">
+              <h5>{row.title}</h5>
+              <div class="lr-sub">{row.sub}</div>
+            </div>
+            <span class={`cat cat-${row.cat.key}`}>{row.cat.emoji} {row.cat.label}</span>
+            <span class="when mono">📍 {row.when}</span>
+            <span class="arrow">→</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- ========== BASECAMPS ========== -->
+    <section class="section">
+      <div class="section-head">
+        <div class="section-title">
+          <span class="kicker">Basecamps</span>
+          <h2>Go8 field<span class="hand"> campuses</span></h2>
+        </div>
+        <a class="section-see" href="/tags/">All uni tags →</a>
+      </div>
+      <div class="schools">
+        {basecamps.map(s => (
+          <a class="sbox" href={s.href}>
+            <span class="flag mono">{s.flag}</span>
+            <div class="rank"><small>QS '26</small>{s.rank}</div>
+            <h4>{s.zh}</h4>
+            <div class="en mono">{s.en}</div>
+            <div class="bits">
+              {s.bits.map(b => <span>{b}</span>)}
+            </div>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- ========== CAMPFIRE CTA ========== -->
+    <section class="campfire">
+      <div class="cf">
+        <div class="cf-left">
+          <div class="cf-kicker">⛱ BEACH FIRE · FIELD Q&A</div>
+          <h2>Not sure which coast?<br /><span class="sun">We'll walk the shoreline with you.</span></h2>
+          <p>
+            Send us your GPA / IELTS / budget / intended major, and within 48 hours we return a field report — three Go8 + three regional options, with visa timeline and 485 / PR projection. MARA-registered consultant, one-on-one.
+          </p>
+          <div class="cf-buttons">
+            <a
+              href={MIKECRM_URL}
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+              class="primary"
+            >
+              🎒 Free Field Assessment <span>→</span>
+            </a>
+            <a
+              href={WECHAT_URL}
+              target="_blank"
+              rel="nofollow noopener noreferrer"
+              class="ghost"
+            >
+              💬 WeChat · Liam
+            </a>
+          </div>
+        </div>
+        <div class="cf-right">
+          <div class="contact-card">
+            <div class="cc-badge">UNILINK COASTAL FIELD NOTES</div>
+            <h5>Australia study notes</h5>
+            <p>MARA-registered · Multi-country applications</p>
+            <a class="cc-link" href={WECHAT_URL} target="_blank" rel="nofollow noopener noreferrer">Contact consultant →</a>
+          </div>
+        </div>
+      </div>
+    </section>
   </main>
+
   <Footer />
 </Layout>
 
+<style>
+  /* studyau-au Trail Guide · Homepage layout. Tokens come from global.css. */
+  main {
+    font-family: var(--font-app);
+    color: var(--ink);
+  }
+  .hand { font-family: var(--font-hand); font-weight: 700; }
+  .mono { font-family: var(--font-mono); }
+
+  /* HERO */
+  .hero { max-width: 1280px; margin: 10px auto 0; padding: 10px 28px 40px; position: relative; }
+  .hero-inner { display: grid; grid-template-columns: 1.35fr 1fr; gap: 48px; align-items: center; }
+  .hero-eyebrow {
+    display: inline-flex; align-items: center; gap: 8px;
+    background: var(--sun); color: var(--ink);
+    font-weight: 800; font-size: 12px; padding: 6px 14px;
+    border-radius: 999px; border: 1.5px solid var(--ink);
+    letter-spacing: 0.08em; text-transform: uppercase;
+  }
+  .hero-eyebrow::before { content: "⛰"; font-size: 14px; }
+  .hero h1 {
+    font-size: clamp(40px, 5.4vw, 76px); font-weight: 900;
+    letter-spacing: -0.03em; line-height: 1.02;
+    margin: 18px 0 0; text-wrap: balance; color: var(--ink);
+  }
+  .hero h1 .maple { color: var(--maple); position: relative; display: inline-block; }
+  .hero h1 .maple::after {
+    content: ""; position: absolute; left: -4px; right: -4px; bottom: 6px;
+    height: 14px; background: var(--sun); z-index: -1;
+    opacity: 0.85; transform: rotate(-1deg);
+  }
+  .hero-sub {
+    font-size: 18px; color: var(--ink-2);
+    max-width: 54ch; margin: 22px 0 26px;
+    line-height: 1.6; text-wrap: pretty;
+  }
+  .hero-sub b { color: var(--ink); font-weight: 800; }
+  .hero-trail { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-bottom: 26px; }
+  .tstep {
+    background: var(--card); border: 1.5px solid var(--ink); border-radius: 999px;
+    padding: 7px 14px; font-size: 13px; font-weight: 700;
+    display: inline-flex; align-items: center; gap: 6px;
+    box-shadow: 2px 2px 0 var(--ink);
+  }
+  .tstep .dot { width: 8px; height: 8px; border-radius: 50%; }
+  .tstep.c1 .dot { background: var(--blue); }
+  .tstep.c2 .dot { background: var(--sun); }
+  .tstep.c3 .dot { background: var(--sky); }
+  .tstep.c4 .dot { background: var(--maple); }
+  .tsep { font-size: 16px; color: var(--ink-3); }
+
+  .hero-ctas { display: flex; gap: 14px; flex-wrap: wrap; }
+  .btn-primary {
+    background: var(--maple); color: var(--cream);
+    border: 2px solid var(--ink); box-shadow: 4px 4px 0 var(--ink);
+    font-family: inherit; font-weight: 800; font-size: 15px;
+    padding: 14px 22px; border-radius: 12px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 8px;
+    transition: transform 0.15s; text-decoration: none;
+  }
+  .btn-primary:hover { transform: translate(-1px, -1px); box-shadow: 5px 5px 0 var(--ink); }
+  .btn-ghost {
+    background: var(--cream); color: var(--ink);
+    border: 2px solid var(--ink); font-family: inherit;
+    font-weight: 800; font-size: 15px; padding: 14px 22px;
+    border-radius: 12px; cursor: pointer;
+    display: inline-flex; align-items: center; gap: 8px; text-decoration: none;
+  }
+  .btn-ghost:hover { background: var(--card); }
+  .hero-fineprint {
+    margin-top: 22px; font-size: 12px; color: var(--ink-3);
+    letter-spacing: 0.02em;
+  }
+
+  /* postcards */
+  .postcards { position: relative; height: 500px; }
+  .pc {
+    position: absolute; background: var(--card);
+    border: 2px solid var(--ink); border-radius: 14px;
+    box-shadow: 5px 5px 0 var(--ink); padding: 18px;
+    width: 280px; display: flex; flex-direction: column; gap: 10px;
+  }
+  .pc-1 { top: 10px; left: 40px; transform: rotate(-4deg); }
+  .pc-2 { top: 100px; right: 0; transform: rotate(3deg); width: 260px; }
+  .pc-3 { bottom: 20px; left: 10px; transform: rotate(-1deg); width: 300px; }
+  .pc-stamp {
+    position: absolute; top: 12px; right: 12px;
+    width: 44px; height: 54px;
+    background: repeating-linear-gradient(45deg, var(--maple) 0 4px, var(--maple-2) 4px 8px);
+    border: 1.5px solid var(--ink); border-radius: 3px;
+    display: flex; align-items: center; justify-content: center;
+    color: var(--cream); font-weight: 900; font-size: 11px;
+    letter-spacing: 0.05em; transform: rotate(4deg);
+  }
+  .pc-img { height: 130px; border-radius: 8px; border: 1.5px solid var(--ink); position: relative; overflow: hidden; background: var(--card); }
+  .pc-img-photo img { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; display: block; }
+  .pc-img :global(svg) { position: absolute; inset: 0; width: 100%; height: 100%; }
+  .pc h4 { font-size: 16px; font-weight: 900; margin: 0; line-height: 1.2; letter-spacing: -0.015em; color: var(--ink); }
+  .pc p { font-size: 13px; color: var(--ink-2); margin: 0; line-height: 1.5; }
+  .pc .pc-meta { font-family: var(--font-mono); font-size: 11px; color: var(--ink-3); letter-spacing: 0.05em; }
+
+  /* SECTION */
+  .section { max-width: 1280px; margin: 0 auto; padding: 56px 28px; }
+  .section.pt-10 { padding-top: 10px; }
+  .section-head { display: flex; align-items: flex-end; justify-content: space-between; gap: 20px; margin-bottom: 30px; }
+  .section-title { display: flex; flex-direction: column; gap: 4px; }
+  .kicker {
+    font-size: 12px; letter-spacing: 0.3em;
+    color: var(--maple); font-weight: 800;
+    text-transform: uppercase;
+    display: inline-flex; align-items: center; gap: 8px;
+  }
+  .kicker::before { content: "✦"; color: var(--sun); font-size: 16px; }
+  .kicker-sun { color: var(--sun); }
+  .kicker-sun::before { color: var(--sun); }
+  .section-title h2 {
+    font-size: 40px; font-weight: 900; letter-spacing: -0.03em;
+    line-height: 1; margin: 0; color: var(--ink);
+  }
+  .section-title h2 .hand {
+    font-size: 54px; color: var(--blue); margin-left: 8px;
+    display: inline-block; transform: rotate(-2deg);
+  }
+  .section-see {
+    font-size: 14px; font-weight: 700; color: var(--ink);
+    border-bottom: 2px solid var(--maple); padding-bottom: 2px;
+    text-decoration: none; white-space: nowrap;
+  }
+
+  /* PATCHES */
+  .patches { display: grid; grid-template-columns: repeat(6, 1fr); gap: 14px; }
+  .patch {
+    background: var(--card); border: 2px solid var(--ink);
+    border-radius: 16px; padding: 18px 14px; text-align: center;
+    box-shadow: 3px 3px 0 var(--ink); cursor: pointer;
+    transition: transform 0.15s, box-shadow 0.15s;
+    position: relative; overflow: hidden;
+    text-decoration: none; color: inherit;
+  }
+  .patch::before {
+    content: ""; position: absolute; top: 6px; left: 6px; right: 6px; bottom: 6px;
+    border: 1.5px dashed currentColor; border-radius: 12px;
+    opacity: 0.35; pointer-events: none;
+  }
+  .patch:hover { transform: translate(-2px, -2px); box-shadow: 5px 5px 0 var(--ink); }
+  .patch .emoji { font-size: 32px; display: block; margin-bottom: 6px; }
+  .patch h4 { font-size: 15px; font-weight: 900; margin: 0; letter-spacing: -0.01em; color: var(--ink); }
+  .patch .count { font-size: 11px; color: var(--ink-3); margin-top: 4px; font-weight: 500; }
+  .patch-maple   { color: var(--maple); }
+  .patch-pine    { color: var(--pine); }
+  .patch-bark    { color: var(--bark); }
+  .patch-sky     { color: var(--blue); }
+  .patch-sun     { color: var(--maple-2); }
+  .patch-maple-2 { color: var(--maple-2); }
+
+  /* TRAIL SPOTLIGHT */
+  .trail {
+    background: var(--pine); color: var(--cream);
+    border-radius: 28px; padding: 48px;
+    position: relative; overflow: hidden;
+    border: 2.5px solid var(--ink); box-shadow: 8px 8px 0 var(--ink);
+  }
+  .trail::before {
+    content: ""; position: absolute; inset: 0;
+    background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='400' viewBox='0 0 600 400'><path d='M40 340 Q 180 260 280 280 T 520 180' stroke='%23fff' stroke-width='2' fill='none' stroke-dasharray='6 6' opacity='0.25'/><circle cx='40' cy='340' r='6' fill='%23ffd82a'/><circle cx='280' cy='280' r='6' fill='%23ffd82a'/><circle cx='520' cy='180' r='6' fill='%23ffd82a'/></svg>");
+    background-repeat: no-repeat; background-size: cover;
+    opacity: 0.85; pointer-events: none;
+  }
+  .trail-inner { position: relative; display: grid; grid-template-columns: 1.2fr 1fr; gap: 40px; align-items: start; }
+  .trail-left .kicker { color: var(--sun); }
+  .trail-left .kicker::before { color: var(--sun); }
+  .trail h2 {
+    font-size: clamp(28px, 3.2vw, 48px); font-weight: 900;
+    letter-spacing: -0.025em; line-height: 1.05;
+    margin: 10px 0 14px; color: var(--cream);
+  }
+  .trail p { font-size: 16px; color: var(--cream); opacity: 0.9; line-height: 1.65; margin: 0 0 20px; max-width: 54ch; }
+  .trail-cta {
+    display: inline-flex; gap: 10px; align-items: center;
+    background: var(--sun); color: var(--ink); font-weight: 800;
+    padding: 13px 22px; border-radius: 999px;
+    border: 2px solid var(--ink); box-shadow: 4px 4px 0 var(--ink);
+    font-size: 15px; cursor: pointer; text-decoration: none;
+  }
+  .trail-cta:hover { filter: brightness(1.05); }
+
+  .trail-log {
+    background: var(--cream); color: var(--ink);
+    border-radius: 16px; padding: 22px;
+    border: 2px solid var(--ink);
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.25);
+  }
+  .trail-log h5 {
+    font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase;
+    color: var(--maple); font-weight: 800; margin: 0 0 12px;
+    display: flex; justify-content: space-between; align-items: center;
+  }
+  .trail-log ul { list-style: none; margin: 0; padding: 0; }
+  .trail-log li {
+    padding: 10px 0; border-bottom: 1px dashed rgba(0, 0, 0, 0.13);
+    display: grid; grid-template-columns: 28px 68px 1fr; gap: 10px;
+    align-items: center; font-size: 13.5px;
+  }
+  .trail-log li:last-child { border-bottom: none; }
+  .trail-log .kp {
+    width: 22px; height: 22px; border-radius: 50%;
+    background: var(--cream); border: 2px solid var(--pine);
+    display: flex; align-items: center; justify-content: center;
+    font-size: 11px; font-weight: 900; color: var(--pine);
+  }
+  .trail-log .kp.done { background: var(--pine); color: var(--cream); }
+  .trail-log .wk { font-weight: 500; color: var(--ink-3); font-size: 11px; letter-spacing: 0.05em; }
+  .trail-log b { font-weight: 800; }
+
+  /* LOGBOOK */
+  .logbook {
+    background: var(--card); border-radius: 20px;
+    border: 2px solid var(--ink); box-shadow: 4px 4px 0 var(--ink);
+    overflow: hidden;
+  }
+  .logbook-head {
+    background: var(--ink); color: var(--cream);
+    padding: 14px 22px; display: flex; justify-content: space-between;
+    align-items: center; letter-spacing: 0.1em; font-size: 12px;
+  }
+  .logbook-head .dot {
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--sun); display: inline-block; margin-right: 8px;
+    animation: tg-pulse 2s infinite;
+  }
+  @keyframes tg-pulse { 50% { opacity: 0.5; } }
+  .log-row {
+    display: grid;
+    grid-template-columns: 60px 1fr 110px 120px 30px;
+    gap: 18px; padding: 16px 22px; align-items: center;
+    border-bottom: 1px dashed rgba(0, 0, 0, 0.08);
+    cursor: pointer; transition: background 0.15s;
+    color: inherit; text-decoration: none;
+  }
+  .log-row:hover { background: var(--cream); }
+  .log-row:last-child { border-bottom: none; }
+  .log-row .n { color: var(--ink-3); font-size: 12px; letter-spacing: 0.05em; }
+  .log-row h5 {
+    font-size: 16px; font-weight: 800; margin: 0;
+    letter-spacing: -0.01em; line-height: 1.3; color: var(--ink);
+  }
+  .log-row .lr-sub {
+    font-size: 13px; color: var(--ink-2); margin-top: 4px;
+    display: -webkit-box; -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .log-row .cat {
+    display: inline-flex; align-items: center; gap: 6px;
+    font-size: 12px; font-weight: 700;
+    padding: 5px 10px; border-radius: 999px;
+    white-space: nowrap; justify-self: start;
+  }
+  .cat-visa  { background: color-mix(in srgb, var(--maple) 18%, var(--cream)); color: var(--maple-2); }
+  .cat-uni   { background: color-mix(in srgb, var(--blue) 18%, var(--cream)); color: var(--pine); }
+  .cat-life  { background: color-mix(in srgb, var(--sun) 28%, var(--cream)); color: var(--bark); }
+  .cat-money { background: color-mix(in srgb, var(--bark) 18%, var(--cream)); color: var(--bark); }
+  .cat-multi { background: color-mix(in srgb, var(--sky) 22%, var(--cream)); color: var(--pine); }
+  .cat-job   { background: color-mix(in srgb, var(--bark) 22%, var(--cream)); color: var(--bark); }
+  .cat-lang  { background: color-mix(in srgb, var(--pine) 18%, var(--cream)); color: var(--pine); }
+  .cat-other { background: var(--cream); color: var(--ink-2); }
+  .log-row .when { font-size: 12px; color: var(--ink-3); letter-spacing: 0.03em; white-space: nowrap; }
+  .log-row .arrow { color: var(--ink-3); font-size: 18px; font-weight: 600; text-align: right; }
+
+  /* SCHOOLS / BASECAMPS */
+  .schools { display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; }
+  .sbox {
+    background: var(--card); border: 2px solid var(--ink);
+    border-radius: 16px; padding: 20px;
+    position: relative; box-shadow: 3px 3px 0 var(--ink);
+    transition: transform 0.15s, box-shadow 0.15s;
+    cursor: pointer; text-decoration: none; color: inherit; display: block;
+  }
+  .sbox:hover { transform: translate(-2px, -2px); box-shadow: 5px 5px 0 var(--ink); }
+  .sbox .flag {
+    position: absolute; top: 16px; right: 16px;
+    background: var(--maple); color: var(--cream);
+    font-size: 11px; font-weight: 700;
+    padding: 3px 8px; border-radius: 4px; letter-spacing: 0.05em;
+  }
+  .sbox .rank { font-size: 40px; font-weight: 900; color: var(--pine); letter-spacing: -0.03em; line-height: 0.9; }
+  .sbox .rank small {
+    display: block; font-size: 10px; color: var(--ink-3);
+    font-weight: 600; letter-spacing: 0.15em;
+    text-transform: uppercase; margin-bottom: 4px;
+  }
+  .sbox h4 { font-size: 20px; font-weight: 900; margin: 10px 0 4px; letter-spacing: -0.02em; color: var(--ink); }
+  .sbox .en { font-size: 11px; color: var(--ink-3); letter-spacing: 0.03em; }
+  .sbox .bits { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
+  .sbox .bits span {
+    font-size: 11px; font-weight: 700;
+    padding: 4px 9px; border-radius: 999px;
+    background: var(--cream); border: 1.5px solid var(--ink);
+  }
+
+  /* CAMPFIRE */
+  .campfire { max-width: 1280px; margin: 40px auto 0; padding: 0 28px; }
+  .cf {
+    background: var(--maple); color: var(--cream);
+    border-radius: 24px; border: 2.5px solid var(--ink);
+    box-shadow: 8px 8px 0 var(--ink); padding: 40px;
+    display: grid; grid-template-columns: 1.3fr 1fr;
+    gap: 36px; align-items: center; position: relative; overflow: hidden;
+  }
+  .cf::before {
+    content: ""; position: absolute; right: -40px; top: -40px;
+    width: 260px; height: 260px; border-radius: 50%;
+    background: radial-gradient(circle, var(--sun) 0%, transparent 70%);
+    opacity: 0.7;
+  }
+  .cf-left { position: relative; z-index: 1; }
+  .cf-kicker {
+    font-size: 12px; letter-spacing: 0.3em;
+    color: var(--sun); font-weight: 800;
+    text-transform: uppercase; margin-bottom: 8px;
+  }
+  .cf h2 {
+    font-size: clamp(28px, 3.4vw, 52px); font-weight: 900;
+    letter-spacing: -0.03em; line-height: 1;
+    margin: 0 0 14px; color: var(--cream);
+  }
+  .cf h2 .sun { color: var(--sun); }
+  .cf p { font-size: 16px; color: var(--cream); opacity: 0.9; margin: 0 0 22px; line-height: 1.55; }
+  .cf-buttons { display: flex; gap: 14px; flex-wrap: wrap; }
+  .cf-buttons .primary {
+    background: var(--cream); color: var(--ink);
+    border: 2px solid var(--ink); padding: 14px 24px;
+    font-family: inherit; font-weight: 800; font-size: 15px;
+    border-radius: 12px; box-shadow: 4px 4px 0 var(--ink);
+    cursor: pointer; display: inline-flex; align-items: center; gap: 8px;
+    text-decoration: none;
+  }
+  .cf-buttons .primary:hover { transform: translate(-1px, -1px); box-shadow: 5px 5px 0 var(--ink); }
+  .cf-buttons .ghost {
+    background: transparent; color: var(--cream);
+    border: 2px solid var(--cream); padding: 14px 24px;
+    font-family: inherit; font-weight: 800; font-size: 15px;
+    border-radius: 12px; cursor: pointer; text-decoration: none;
+  }
+  .cf-right { position: relative; z-index: 1; }
+  .contact-card {
+    background: var(--cream); color: var(--ink);
+    border: 2px solid var(--ink); border-radius: 16px;
+    padding: 24px; text-align: center;
+    box-shadow: 5px 5px 0 rgba(0, 0, 0, 0.25);
+    display: flex; flex-direction: column; gap: 10px; align-items: center;
+  }
+  .contact-card .cc-badge {
+    background: var(--pine); color: var(--cream);
+    font-size: 11px; font-weight: 800; padding: 5px 12px;
+    border-radius: 999px; letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .contact-card h5 { font-size: 17px; font-weight: 900; margin: 0; color: var(--ink); }
+  .contact-card p { color: var(--ink-2); font-size: 13px; margin: 0; line-height: 1.5; }
+  .contact-card .cc-link {
+    margin-top: 4px; font-size: 13px; font-weight: 800; color: var(--maple);
+    border-bottom: 2px solid var(--sun); padding-bottom: 1px;
+    text-decoration: none;
+  }
+
+  /* Responsive */
+  @media (max-width: 1000px) {
+    .hero-inner { grid-template-columns: 1fr; }
+    .postcards { height: auto; display: flex; flex-direction: column; gap: 14px; }
+    .pc { position: static; transform: none !important; width: auto; }
+    .patches { grid-template-columns: repeat(3, 1fr); }
+    .trail-inner { grid-template-columns: 1fr; }
+    .cf { grid-template-columns: 1fr; padding: 28px; }
+    .schools { grid-template-columns: repeat(2, 1fr); }
+    .log-row { grid-template-columns: 1fr; gap: 6px; }
+    .log-row .n { font-size: 11px; }
+    .log-row .arrow { display: none; }
+    .section { padding: 40px 20px; }
+    .trail { padding: 28px; }
+  }
+  @media (max-width: 640px) {
+    .patches { grid-template-columns: repeat(2, 1fr); }
+    .schools { grid-template-columns: 1fr; }
+    .section-title h2 { font-size: 30px; }
+    .section-title h2 .hand { font-size: 40px; }
+  }
+
+  /* Dark-mode tweaks */
+  :global([data-theme="dark"]) .tstep {
+    background: var(--card); color: var(--ink); border-color: var(--ink-3);
+    box-shadow: 2px 2px 0 rgba(255, 255, 255, 0.15);
+  }
+  :global([data-theme="dark"]) .btn-ghost { background: var(--card); color: var(--ink); border-color: var(--ink-3); }
+  :global([data-theme="dark"]) .pc { background: var(--card); color: var(--ink); border-color: var(--ink-3); box-shadow: 5px 5px 0 rgba(255,255,255,0.12); }
+  :global([data-theme="dark"]) .patch { background: var(--card); color: var(--ink); border-color: var(--ink-3); box-shadow: 3px 3px 0 rgba(255,255,255,0.12); }
+  :global([data-theme="dark"]) .trail-log { background: var(--card); border-color: var(--ink-3); }
+  :global([data-theme="dark"]) .logbook { background: var(--card); border-color: var(--ink-3); box-shadow: 4px 4px 0 rgba(255,255,255,0.12); }
+  :global([data-theme="dark"]) .log-row:hover { background: rgba(255,255,255,0.04); }
+  :global([data-theme="dark"]) .sbox { background: var(--card); border-color: var(--ink-3); box-shadow: 3px 3px 0 rgba(255,255,255,0.12); }
+  :global([data-theme="dark"]) .sbox .bits span { background: rgba(255,255,255,0.04); border-color: var(--ink-3); }
+  :global([data-theme="dark"]) .hero h1 .maple::after { opacity: 0.55; }
+  :global([data-theme="dark"]) .contact-card { background: var(--card); border-color: var(--ink-3); box-shadow: 5px 5px 0 rgba(255,255,255,0.12); }
+</style>
+
 <script>
   document.addEventListener("astro:page-load", () => {
-    const indexLayout = (document.querySelector("#main-content") as HTMLElement)
-      ?.dataset?.layout;
-    if (indexLayout) {
+    const el = document.querySelector("#main-content") as HTMLElement | null;
+    if (el?.dataset?.layout === "index") {
       sessionStorage.setItem("backUrl", "/");
     }
   });
+  // v=tg2-studyau-au
 </script>
