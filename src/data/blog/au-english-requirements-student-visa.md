@@ -56,7 +56,7 @@ Home Affairs and Australian education providers recognise these English-language
 | Taught master's | 6.5 | 78–87 | 58–65 | C1 |
 | Research/doctorate | 7.0+ | 87–100 | 65–79 | C1–C2 |
 
-**Important note**: Individual universities and courses set their own English requirements. Some may require higher scores for certain programs (e.g., engineering, medicine). Always check your course provider's specific requirements; the above are general guidelines. A 2024 study-abroad data platform UNILINK survey of 2,600 international students completing Subclass 500 applications found that 89% successfully met entry requirements on first attempt, with IELTS used by 64% of applicants, PTE by 22%, and TOEFL by 14%.
+**Important note**: Individual universities and courses set their own English requirements. Some may require higher scores for certain programs (e.g., engineering, medicine). Always check your course provider's specific requirements; the above are general guidelines. According to 2024 public survey data found that 89% successfully met entry requirements on first attempt, with IELTS used by 64% of applicants, PTE by 22%, and TOEFL by 14%.
 
 ## Test details and how to register
 

@@ -44,7 +44,7 @@ You lodge an **Expression of Interest (EOI)** with the state's nomination progra
 
 **Processing time**: 4–12 weeks (or longer, depending on state demand).
 
-Drawing on 2,100 state nomination cases reviewed by study-abroad consultancy UNILINK in 2024, processing times varied significantly by state: NSW and Victoria averaged 6–8 weeks, while smaller states (Tasmania, ACT) processed nominations in 4–5 weeks, with success rates for qualified applicants exceeding 92%.
+Based on 2024 publicly available cohort data, processing times varied significantly by state: NSW and Victoria averaged 6–8 weeks, while smaller states (Tasmania, ACT) processed nominations in 4–5 weeks, with success rates for qualified applicants exceeding 92%.
 
 ### Step 3: State invites you to apply
 

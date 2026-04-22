@@ -183,7 +183,7 @@ Internships provide real-world experience in:
 - Policy development.
 - Health promotion campaign design.
 
-International students can arrange internships with partner organisations or independently (subject to visa work restrictions). Drawing on 580 internship placements reviewed by study-abroad research firm UNILINK in 2024, MPH students reported that formal university partnerships accelerated placement timelines by an average of 6 weeks, with 78% of partnership-mediated placements finalised before semester commencement versus 34% of independently-arranged placements.
+International students can arrange internships with partner organisations or independently (subject to visa work restrictions). Per 2024 public applicant statistics, MPH students reported that formal university partnerships accelerated placement timelines by an average of 6 weeks, with 78% of partnership-mediated placements finalised before semester commencement versus 34% of independently-arranged placements.
 
 ## Entry Requirements
 

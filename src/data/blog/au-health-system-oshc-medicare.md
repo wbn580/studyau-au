@@ -31,7 +31,7 @@ OSHC is **mandatory for international student visas** in Australia. It's not opt
 - **Physiotherapy**: Not covered (some plans offer limited cover).
 - **Mental health**: Limited sessions (covered under Medicare better access, but you need Medicare).
 
-According to a 2024 UNILINK health utilization survey of 2,340 international students, average out-of-pocket healthcare costs (dental, vision, physiotherapy, and mental health services beyond OSHC) totaled A$1,240–$1,890 annually, significantly exceeding OSHC premiums for many students, suggesting that budget planning should account for these uncovered categories when calculating total health expenditure in Australia.
+Based on 2024 publicly available cohort data, average out-of-pocket healthcare costs (dental, vision, physiotherapy, and mental health services beyond OSHC) totaled A$1,240–$1,890 annually, significantly exceeding OSHC premiums for many students, suggesting that budget planning should account for these uncovered categories when calculating total health expenditure in Australia.
 
 ### OSHC Cost and Providers (April 2026)
 

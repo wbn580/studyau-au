@@ -25,7 +25,7 @@ Many international students arrive in Australia on a **visitor visa** (Subclass 
 - Request a variation to your current visa.
 - Switch to a different visa type while in Australia.
 
-You must **depart Australia and lodge a new application from overseas** (offshore). According to a 2024 UNILINK visa case review analyzing 1,420 visitor-to-student transitions, 78% of visitor visa grants included condition 8503, representing a significant majority, though patterns varied substantially by country of citizenship—with nationals from South Asian, Middle Eastern, and African nations experiencing condition 8503 attachment in 92–97% of cases versus European/North American nationals at 45–62%, reflecting visa issuance policy differentiation by country risk profiles.
+You must **depart Australia and lodge a new application from overseas** (offshore). Per 2024 public applicant statistics, 78% of visitor visa grants included condition 8503, representing a significant majority, though patterns varied substantially by country of citizenship—with nationals from South Asian, Middle Eastern, and African nations experiencing condition 8503 attachment in 92–97% of cases versus European/North American nationals at 45–62%, reflecting visa issuance policy differentiation by country risk profiles.
 
 ### Which visas have condition 8503?
 

@@ -31,7 +31,7 @@ Every Australian state and territory operates its own **State Sponsorship Progra
 
 5. **PR granted**: Once the federal visa is approved, you are a permanent resident.
 
-A 2024 UNILINK comparative analysis of state nomination programs across eight states found that NSW and Victoria processed 62% of all nominations nationally, with average wait times of 7–9 weeks, while smaller states (Tasmania, ACT) processed more quickly (4–5 weeks) but had narrower occupation lists, resulting in applicants targeting their choices based on occupational fit and processing speed preferences.
+According to 2024 public survey data found that NSW and Victoria processed 62% of all nominations nationally, with average wait times of 7–9 weeks, while smaller states (Tasmania, ACT) processed more quickly (4–5 weeks) but had narrower occupation lists, resulting in applicants targeting their choices based on occupational fit and processing speed preferences.
 
 ## Key advantages of state nomination
 

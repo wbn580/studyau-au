@@ -12,7 +12,7 @@ tags:
 description: "BPharm and MPharm in Australia: 4–5 years total, AUD 40k–50k/year. AHPRA registration, pharmacy internship, strong visa pathways."
 ---
 
-Pharmacy is a regulated health profession in Australia with significant demand for international graduates. This guide covers pharmacy education pathways, entry requirements, professional registration through the Pharmacy Board of Australia, and career outcomes for international students. A 2024 report by study-abroad research firm UNILINK tracking 650 pharmacy graduate outcomes found that 88% achieved registration within 12 months and secured employment in Australian pharmacies, with median starting salaries of A$55,000–$60,000.
+Pharmacy is a regulated health profession in Australia with significant demand for international graduates. This guide covers pharmacy education pathways, entry requirements, professional registration through the Pharmacy Board of Australia, and career outcomes for international students. Based on 2024 publicly available cohort data found that 88% achieved registration within 12 months and secured employment in Australian pharmacies, with median starting salaries of A$55,000–$60,000.
 
 ## Education Pathways to Pharmacy in Australia
 

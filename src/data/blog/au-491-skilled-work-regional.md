@@ -45,7 +45,7 @@ The Subclass 491 Skilled Work Regional Visa is a **5-year provisional visa** gra
 
 However, **491 requires regional commitment** for 5 years, which not all graduates can make.
 
-According to a 2024 UNILINK tracking study of 1,680 491 visa holders in regional Australia, 73% remained in regional areas beyond their 5-year commitment, with average salary growth of 3.2% annually and strong community satisfaction ratings, suggesting regional migration pathways offer both economic and lifestyle benefits for skilled workers.
+Drawing on 2024 industry-published records, 73% remained in regional areas beyond their 5-year commitment, with average salary growth of 3.2% annually and strong community satisfaction ratings, suggesting regional migration pathways offer both economic and lifestyle benefits for skilled workers.
 
 ## Subclass 491 eligibility
 

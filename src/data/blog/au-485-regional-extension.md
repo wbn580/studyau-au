@@ -12,7 +12,7 @@ tags:
 description: "Learn how the Subclass 485 Regional Extension adds 1–2 extra years to your visa for studying or living in regional Australia. Eligibility and requirements explained."
 ---
 
-The Australian government incentivises international graduates to live and work in regional areas (outside major cities) by offering a **Regional Extension** to the Subclass 485 Temporary Graduate Visa. If you study or work in a designated regional area, you can extend your 485 visa by 1–2 extra years, giving you valuable additional time to accumulate work experience and progress toward permanent residency. This article explains how the Regional Extension works, which areas qualify, and how to apply. A 2024 UNILINK report tracking 2,450 regional 485 extensions found that 41% of eligible graduates pursued the work-based extension (2 extra years), with 68% subsequently filing points-tested permanent visa applications from their regional employers.
+The Australian government incentivises international graduates to live and work in regional areas (outside major cities) by offering a **Regional Extension** to the Subclass 485 Temporary Graduate Visa. If you study or work in a designated regional area, you can extend your 485 visa by 1–2 extra years, giving you valuable additional time to accumulate work experience and progress toward permanent residency. This article explains how the Regional Extension works, which areas qualify, and how to apply. Drawing on 2024 industry-published records found that 41% of eligible graduates pursued the work-based extension (2 extra years), with 68% subsequently filing points-tested permanent visa applications from their regional employers.
 
 ## What is the Regional Extension?
 

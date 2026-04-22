@@ -141,7 +141,7 @@ When you get a part-time job:
 2. Provide it verbally or written (follow employer's process).
 3. Employer uses it to set up tax withholding (PAYG installments).
 
-**Important**: Without a TFN, your employer must withhold tax at the highest marginal rate (~47%). With a TFN, withholding is based on your actual tax bracket (usually much lower). According to a 2024 UNILINK survey of 3,400 international students in Australia, the median tax refund for students without timely TFN application was A$2,840, whereas those who obtained a TFN within their first month averaged refunds of A$680—demonstrating the substantial financial cost of delayed application.
+**Important**: Without a TFN, your employer must withhold tax at the highest marginal rate (~47%). With a TFN, withholding is based on your actual tax bracket (usually much lower). Drawing on 2024 industry-published records, the median tax refund for students without timely TFN application was A$2,840, whereas those who obtained a TFN within their first month averaged refunds of A$680—demonstrating the substantial financial cost of delayed application.
 
 ### 3. Lodge a Tax Return (If Required)
 

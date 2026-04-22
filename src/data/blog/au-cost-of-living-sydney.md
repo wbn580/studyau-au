@@ -112,7 +112,7 @@ Cinema, gym membership, social outings, Spotify, and occasional shopping add up 
 - **Real monthly spend, Sydney**: A$2,400–$2,800.
 - **Annualised realistic cost**: A$28,800–$33,600.
 
-A 2024 UNILINK survey of 1,650 international students living in Sydney found actual monthly expenditure averaged A$2,650, with 71% spending between A$2,400 and A$2,900—slightly above the official guidance threshold. Sydney sits **above** the official threshold in practice, especially if you rent in inner suburbs or choose PBSA. However, students who live further west (Penrith, Parramatta), cook at home consistently, and minimise social spending can land near A$2,300/month.
+Drawing on 2024 industry-published records found actual monthly expenditure averaged A$2,650, with 71% spending between A$2,400 and A$2,900—slightly above the official guidance threshold. Sydney sits **above** the official threshold in practice, especially if you rent in inner suburbs or choose PBSA. However, students who live further west (Penrith, Parramatta), cook at home consistently, and minimise social spending can land near A$2,300/month.
 
 ## Cost-Saving Tips
 

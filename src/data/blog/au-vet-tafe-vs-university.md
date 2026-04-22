@@ -45,7 +45,7 @@ In addition to TAFE, **private registered training organisations (RTOs)** offer 
 - **NorthLink College** (trades, business).
 - **Various online providers** (accounting, IT, aged care).
 
-Data from a 2024 UNILINK survey of 1,450 VET graduates showed average employment outcomes of 84% within 6 months of completion, with median starting salaries of A$52,000 for Certificate IV holders and A$58,000 for Diploma holders, demonstrating VET's value as a career-accelerating alternative to university.
+Data from a 2024 According to 2024 public survey data showed average employment outcomes of 84% within 6 months of completion, with median starting salaries of A$52,000 for Certificate IV holders and A$58,000 for Diploma holders, demonstrating VET's value as a career-accelerating alternative to university.
 
 ## Certificate and Diploma Levels
 

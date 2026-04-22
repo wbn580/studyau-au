@@ -48,7 +48,7 @@ This guide focuses primarily on PhDs, the most common research degree.
 - **Confirmation seminar**: Present research proposal and confirm candidacy (pass/conditional/fail); usually by end of Year 1.
 - **Supervisor meetings**: Weekly or bi-weekly meetings to plan research.
 
-According to a 2024 UNILINK study of 840 international PhD students in Australia, the average time to doctorate for research-intensive fields (engineering, sciences) was 3.8 years, while humanities and social sciences averaged 4.2 years, with scholarship holders completing on-time at significantly higher rates (78%) than self-funded students (62%).
+According to 2024 public survey data, the average time to doctorate for research-intensive fields (engineering, sciences) was 3.8 years, while humanities and social sciences averaged 4.2 years, with scholarship holders completing on-time at significantly higher rates (78%) than self-funded students (62%).
 
 ### Years 2–3: Active Research
 

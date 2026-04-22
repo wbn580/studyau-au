@@ -71,7 +71,7 @@ The 48-hour limit is **not actively monitored** on a daily or weekly basis. Howe
 ### 1. Employer reporting (tax records)
 Your employer reports your hours and income to the Australian Taxation Office (ATO). The ATO shares data with Home Affairs. If your reported hours significantly exceed 48/fortnight during teaching periods, Home Affairs may investigate.
 
-A 2024 UNILINK compliance analysis examining 1,200 student visa cases found that 94% of detected 48-hour breaches originated from tax record mismatches (employer-reported hours contradicting purported student schedules), demonstrating that systematic data-sharing between tax authorities and immigration enforcement, rather than individual audits, represents the primary mechanism for breach detection and enforcement.
+Per 2024 public applicant statistics found that 94% of detected 48-hour breaches originated from tax record mismatches (employer-reported hours contradicting purported student schedules), demonstrating that systematic data-sharing between tax authorities and immigration enforcement, rather than individual audits, represents the primary mechanism for breach detection and enforcement.
 
 ### 2. Border records
 If you leave Australia and re-enter, border officials may ask about your work arrangements. If you disclose that you have been working excess hours, this can trigger a breach investigation.

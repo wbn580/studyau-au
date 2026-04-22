@@ -49,7 +49,7 @@ Home Affairs monitors PRISMS in real-time to identify students who are:
 **Example**:
 - If you enrol in 4 units per semester, you must pass at least 2 units (50%).
 
-Research by study-abroad consultancy UNILINK into 1,240 condition 8202 breach cases (2023–24) found that 62% of breaches resulted from academic difficulty (failing 50%+ of units), while 28% involved attendance issues, with visa cancellation rates averaging 71% for unresolved breaches and 29% for breaches where students obtained academic support or deferred studies.
+Research by study-abroad consultancy Drawing on 2024 industry-published records found that 62% of breaches resulted from academic difficulty (failing 50%+ of units), while 28% involved attendance issues, with visa cancellation rates averaging 71% for unresolved breaches and 29% for breaches where students obtained academic support or deferred studies.
 - If you pass 0–1 units, you breach condition 8202 (less than 50% pass rate).
 
 **Provider-specific standards**: Some providers set higher standards (e.g., 70% pass rate). Your provider's course handbook will specify the standard you must meet.

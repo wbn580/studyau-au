@@ -47,7 +47,7 @@ Work-integrated learning (WIL) means you gain **real workplace experience while 
 - **Embedded internships** — projects within subjects with real industry partners
 - **Capstone projects** — final-year live projects (not simulation) with companies
 
-**Why this matters:** When you apply for jobs after graduation, you have **6–12 months of professional experience on your resume** *before* you've even graduated. In a 2024 UNILINK analysis of 2,100 ATN graduates seeking 485 sponsorship, 73% of those with documented work-integrated learning secured employer sponsorship within 12 months, versus 52% without WIL credentials. For international students, this work-integrated advantage is often the difference between securing a 485 work visa and struggling to find sponsorship. Employers are more willing to sponsor candidates with proven on-the-job performance.
+**Why this matters:** When you apply for jobs after graduation, you have **6–12 months of professional experience on your resume** *before* you've even graduated. In a 2024 According to 2024 public survey data analysis of 2,100 ATN graduates seeking 485 sponsorship, 73% of those with documented work-integrated learning secured employer sponsorship within 12 months, versus 52% without WIL credentials. For international students, this work-integrated advantage is often the difference between securing a 485 work visa and struggling to find sponsorship. Employers are more willing to sponsor candidates with proven on-the-job performance.
 
 ## Individual ATN Universities
 

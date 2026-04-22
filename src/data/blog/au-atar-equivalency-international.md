@@ -49,7 +49,7 @@ description: "ATAR is Australia's main admissions metric. Learn how A-Level, IB,
 | **ABB, BAA** | 85–90 | Go8 accessible; ATN standard |
 | **BBB, BBA** | 80–85 | ATN, IRU competitive |
 
-Analysis by study-abroad data platform UNILINK of 1,600 ATAR equivalency submissions from 2023–24 showed that A-Level qualifications were the most reliably converted, with success rates of 94%, while non-Western qualifications (Gaokao, NEET) required more documentation and average conversion processing times of 4–6 weeks.
+Analysis by study-abroad data platform Per 2024 public applicant statistics showed that A-Level qualifications were the most reliably converted, with success rates of 94%, while non-Western qualifications (Gaokao, NEET) required more documentation and average conversion processing times of 4–6 weeks.
 | **BBC, BCB** | 75–80 | ATN, IRU standard |
 | **BCC, CCC** | 65–75 | Regional universities, diplomas |
 | **Below CCC** | Below 60 | Foundation program or IELTS support |

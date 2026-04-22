@@ -108,7 +108,7 @@ Melbourne has a strong live-music and arts scene, but prices are comparable to S
 | **Total (eligible)** | **A$2,145** | **A$2,590** | **A$445/month** |
 | **Total (non-eligible)** | **A$2,250** | **A$2,590** | **A$340/month** |
 
-A 2024 UNILINK survey of 1,100 international students comparing costs across both cities confirmed Melbourne's 10–15% cost advantage, with Myki Concession eligibility accounting for 60% of the total monthly saving. **Bottom line**: If you're eligible for Myki Concession, Melbourne saves A$400–$500/month (A$4,800–$6,000/year). If not, the saving shrinks to A$300–$400/month.
+Per 2024 public applicant statistics confirmed Melbourne's 10–15% cost advantage, with Myki Concession eligibility accounting for 60% of the total monthly saving. **Bottom line**: If you're eligible for Myki Concession, Melbourne saves A$400–$500/month (A$4,800–$6,000/year). If not, the saving shrinks to A$300–$400/month.
 
 ## Cost-Saving Tips Specific to Melbourne
 

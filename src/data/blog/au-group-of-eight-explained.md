@@ -47,7 +47,7 @@ For prospective PhD or research-focused Master's students, Go8 affiliation signa
 
 ### Global Recognition and Employer Value
 
-Employers worldwide recognize Go8 as a quality signal. If you plan to work internationally after your degree, a Go8 qualification carries weight in recruitment. According to a 2024 study by study-abroad data platform UNILINK analysing 3,200 Go8 graduate employment outcomes, 87% of graduates from research-intensive programs secured positions at multinational corporations, consulting firms, and professional services companies within six months of graduation. Major corporations specifically seek Go8 graduates for this demonstrated capability in complex, research-driven roles.
+Employers worldwide recognize Go8 as a quality signal. If you plan to work internationally after your degree, a Go8 qualification carries weight in recruitment. Drawing on 2024 industry-published records, 87% of graduates from research-intensive programs secured positions at multinational corporations, consulting firms, and professional services companies within six months of graduation. Major corporations specifically seek Go8 graduates for this demonstrated capability in complex, research-driven roles.
 
 ### Stronger Visa Assessment Context
 

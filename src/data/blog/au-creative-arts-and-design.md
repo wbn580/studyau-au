@@ -183,7 +183,7 @@ UOW offers creative programs with practical emphasis.
 - **English language**: IELTS 6.5+ or TOEFL 100+ (if not native English speaker).
 - **Motivation statement**: Essays on artistic inspiration, career goals, design philosophy.
 
-Drawing on 2,100 design and fine arts applications reviewed by study-abroad research firm UNILINK in 2024, portfolio quality emerged as the dominant selection criterion, with 87% of admitted students reporting strong portfolio evaluations compared to 34% citing academic grades as primary differentiators—emphasizing that artistic evidence substantially outweighs traditional academic metrics in admissions decisions.
+According to 2024 public survey data, portfolio quality emerged as the dominant selection criterion, with 87% of admitted students reporting strong portfolio evaluations compared to 34% citing academic grades as primary differentiators—emphasizing that artistic evidence substantially outweighs traditional academic metrics in admissions decisions.
 
 ### Master Degree Entry (Postgraduate)
 

@@ -39,7 +39,7 @@ The key is to **ensure continuous enrolment**. Never let your visa lapse between
 
 **General rule**: If you are transitioning to a **higher study level at the same provider**, a **variation** is usually sufficient. If you are transitioning to a **different provider** or **non-sequential level**, a **new visa application** may be required.
 
-A 2024 UNILINK case study tracking 1,560 multi-level visa transitions found that same-provider variations averaged 3–4 weeks processing, while provider changes requiring new applications averaged 8–12 weeks, with successful outcomes exceeding 95% for applicants with continuous enrolment and no visa compliance issues.
+Based on 2024 publicly available cohort data found that same-provider variations averaged 3–4 weeks processing, while provider changes requiring new applications averaged 8–12 weeks, with successful outcomes exceeding 95% for applicants with continuous enrolment and no visa compliance issues.
 
 ## Timeline: Planning your transition
 

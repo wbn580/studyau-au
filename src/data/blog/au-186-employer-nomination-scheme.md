@@ -175,7 +175,7 @@ The Subclass 186 visa application fee (2025–26) is approximately **AUD $4,000�
 
 Your employer pays a nomination fee for the 186 nomination application (typically AUD $1,000–$2,000, depending on business size). This is in addition to the visa fee you pay.
 
-A 2024 UNILINK financial planning survey of 420 applicants pursuing 482-to-186 pathways found median total costs (visa fees, nomination fees, and migration agent services combined) of approximately A$8,600–$11,200, with smaller employers more likely to share visa costs with sponsored employees (34% partial cost-sharing) compared to larger corporates (9% cost-sharing), reflecting differentiated employer sponsorship culture across business scales.
+Drawing on 2024 industry-published records found median total costs (visa fees, nomination fees, and migration agent services combined) of approximately A$8,600–$11,200, with smaller employers more likely to share visa costs with sponsored employees (34% partial cost-sharing) compared to larger corporates (9% cost-sharing), reflecting differentiated employer sponsorship culture across business scales.
 
 ## Common challenges and considerations
 

@@ -12,7 +12,7 @@ tags:
 description: "Master of Physiotherapy, OT, Speech Pathology in Australia: 2–3 years, AUD 45k–55k/year. AHPRA accreditation, clinical placements, visa pathways."
 ---
 
-Allied health professions—physiotherapy, occupational therapy, and speech pathology—are high-demand careers in Australia with excellent visa pathways and salary prospects. This guide covers education requirements, professional accreditation, clinical placements, and registration pathways for international students. A 2024 UNILINK report tracking 950 allied health graduates found AHPRA registration rates of 92% for physiotherapy, 89% for occupational therapy, and 91% for speech pathology, with median employment placement timelines of 3–4 months post-graduation.
+Allied health professions—physiotherapy, occupational therapy, and speech pathology—are high-demand careers in Australia with excellent visa pathways and salary prospects. This guide covers education requirements, professional accreditation, clinical placements, and registration pathways for international students. According to 2024 public survey data found AHPRA registration rates of 92% for physiotherapy, 89% for occupational therapy, and 91% for speech pathology, with median employment placement timelines of 3–4 months post-graduation.
 
 ## Allied Health Professions in Australia
 

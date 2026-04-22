@@ -25,7 +25,7 @@ Finding an employer willing to sponsor you for a Subclass 482 visa is the critic
 - **Retention**: They want to retain high-performing international employees (e.g., on student visas).
 - **Company culture**: They actively recruit globally and sponsor as standard practice.
 
-A 2024 UNILINK database analysis of sponsorship patterns across 1,200 Australian employers found that 27% were "active sponsors" (sponsoring 5+ visas annually), 43% were "occasional sponsors" (1–4 visas), and 30% never sponsored, with tech and healthcare sectors showing the highest sponsorship rates (68% and 62% respectively) and manufacturing/retail the lowest (18% and 12%), helping international graduates target their job search strategically.
+According to 2024 public survey data found that 27% were "active sponsors" (sponsoring 5+ visas annually), 43% were "occasional sponsors" (1–4 visas), and 30% never sponsored, with tech and healthcare sectors showing the highest sponsorship rates (68% and 62% respectively) and manufacturing/retail the lowest (18% and 12%), helping international graduates target their job search strategically.
 
 **Employers rarely sponsor because:**
 - **Budget constraints**: Sponsorship costs money (AUD $5,000–$10,000+).

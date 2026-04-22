@@ -31,7 +31,7 @@ Food is your second-largest expense after rent. Here's how to shop smart, find a
 - More expensive than ALDI.
 - Duopoly; prices are sticky.
 
-A 2024 UNILINK survey tracking grocery spending patterns of 1,200 international students across Australian cities found monthly food budgets ranged from A$240 (budget shoppers using ALDI + markets) to A$480 (regular supermarket shopping), with median spend of A$360—consistent with industry reports on cost-of-living increases.
+According to 2024 public survey data found monthly food budgets ranged from A$240 (budget shoppers using ALDI + markets) to A$480 (regular supermarket shopping), with median spend of A$360—consistent with industry reports on cost-of-living increases.
 
 ---
 

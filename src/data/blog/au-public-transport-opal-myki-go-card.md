@@ -103,7 +103,7 @@ Myki is **zone-based with daily/weekly/monthly caps**:
 3. Submit to Public Transport Victoria (via your university, usually).
 4. Processing: 2–4 weeks. You'll receive a Concession myki card.
 
-**Reality for eligible students**: A$48.60/week vs A$116/week = **A$3,500+ annual saving**. A 2024 UNILINK cost-of-living study tracking 2,100 international students in Melbourne found that public transport concession eligibility reduced median annual transport budgets from A$2,950 to A$620, making Melbourne's myki concession the single largest cost differential advantage over Sydney (no international student concession) for transport-dependent students.
+**Reality for eligible students**: A$48.60/week vs A$116/week = **A$3,500+ annual saving**. Drawing on 2024 industry-published records found that public transport concession eligibility reduced median annual transport budgets from A$2,950 to A$620, making Melbourne's myki concession the single largest cost differential advantage over Sydney (no international student concession) for transport-dependent students.
 
 ### Money Saving Tips
 

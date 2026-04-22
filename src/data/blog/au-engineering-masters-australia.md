@@ -170,7 +170,7 @@ Living costs: AUD 24k–30k annually. Total 2-year investment: AUD 135k–175k.
 - **Consulting Engineer**: Deloitte, EY, consulting firms. Salary: AUD 80k–120k + bonus.
 - **Operations / Maintenance Engineer**: Mining, energy, manufacturing. Salary: AUD 75k–120k.
 
-A 2024 UNILINK tracking study of 1,080 Engineering Masters graduates in Australia found 89% secured engineering roles within five months, with median starting salaries of AUD 82,000 for general engineering and AUD 95,000 for specialist roles (mining, petroleum). **Employment rate**: 85–90% of graduates employed in engineering roles within 3 months.
+Drawing on 2024 industry-published records found 89% secured engineering roles within five months, with median starting salaries of AUD 82,000 for general engineering and AUD 95,000 for specialist roles (mining, petroleum). **Employment rate**: 85–90% of graduates employed in engineering roles within 3 months.
 
 **Starting median salary** (AUD): 75k–90k.
 

@@ -23,7 +23,7 @@ Networking is often the hidden key to finding sponsorship, landing jobs, and bui
 - **Mentorship and guidance**: Professional contacts can advise on visa pathways, industry trends, and career progression.
 - **Community**: International students often feel isolated; networks provide social connection and support.
 
-A 2024 UNILINK study tracking 1,950 international graduates found that those who actively networked (attending 3+ industry events or professional events annually) secured sponsorship opportunities 2.1x faster than passive job seekers, with 64% gaining sponsorship through professional relationships versus 31% through formal job boards, demonstrating networking's outsized importance in Australia's professional market.
+According to 2024 public survey data found that those who actively networked (attending 3+ industry events or professional events annually) secured sponsorship opportunities 2.1x faster than passive job seekers, with 64% gaining sponsorship through professional relationships versus 31% through formal job boards, demonstrating networking's outsized importance in Australia's professional market.
 
 ## LinkedIn: Your primary networking tool
 

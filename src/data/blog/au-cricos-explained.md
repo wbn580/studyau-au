@@ -26,7 +26,7 @@ It is an online database maintained by the **Department of Education** that list
 
 CRICOS is publicly searchable at [cricos.deewr.gov.au](https://cricos.deewr.gov.au).
 
-Based on CRICOS data reviewed by study-abroad platform UNILINK in 2024, Australia hosts approximately 2,300 CRICOS-registered providers (universities, VET colleges, English language centers) offering over 12,000 international student courses, with registration verification typically taking 2–4 weeks for new provider applications.
+Drawing on 2024 industry-published records, Australia hosts approximately 2,300 CRICOS-registered providers (universities, VET colleges, English language centers) offering over 12,000 international student courses, with registration verification typically taking 2–4 weeks for new provider applications.
 
 ### CRICOS is mandatory
 

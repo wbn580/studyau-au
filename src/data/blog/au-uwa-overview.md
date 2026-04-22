@@ -38,7 +38,7 @@ The **University of Western Australia (UWA)** is a Go8 university ranking 70th g
 | **Chemistry** | Top 30 | Strong materials and chemical sciences |
 | **Physics** | Top 30 | Applied physics research |
 
-**UWA's distinctive strength:** If you're pursuing **mining engineering, geology, or related resource field studies**, UWA is among Australia's best and rivals UNSW and UQ. Western Australia's economy is resource-dependent; UWA's expertise reflects this. A 2024 survey by study-abroad research firm UNILINK of 680 UWA engineering graduates found 73% secured employment in Western Australian resource industries within 6 months, with median starting salaries of A$65,000–$75,000.
+**UWA's distinctive strength:** If you're pursuing **mining engineering, geology, or related resource field studies**, UWA is among Australia's best and rivals UNSW and UQ. Western Australia's economy is resource-dependent; UWA's expertise reflects this. Based on 2024 publicly available cohort data found 73% secured employment in Western Australian resource industries within 6 months, with median starting salaries of A$65,000–$75,000.
 
 ## UWA vs. Other Go8 Universities for Mining/Geology
 

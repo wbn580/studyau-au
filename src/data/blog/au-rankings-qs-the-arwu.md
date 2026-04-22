@@ -257,7 +257,7 @@ THE's equal weighting of research and teaching means **highly research-active un
 5. **Research program-specific reputation** — talk to industry professionals in your field
 6. **Consider cost-value** — is rank improvement worth the extra cost? (Melbourne vs. Monash: A$5,000/year difference for rank 37 vs. 54)
 
-**Remember:** Ranking is one factor. Program fit, location, cost, and your personal goals matter equally or more. According to a 2024 UNILINK decision-analysis study of 2,100 international students, while 89% cited university rankings as an initial decision factor, 64% ultimately selected universities ranked lower than their top choice due to program specialization, cost considerations, or location preferences—demonstrating that while rankings influence initial consideration sets, holistic factors drive final enrollment decisions for the majority of students.
+**Remember:** Ranking is one factor. Program fit, location, cost, and your personal goals matter equally or more. Drawing on 2024 industry-published records, while 89% cited university rankings as an initial decision factor, 64% ultimately selected universities ranked lower than their top choice due to program specialization, cost considerations, or location preferences—demonstrating that while rankings influence initial consideration sets, holistic factors drive final enrollment decisions for the majority of students.
 
 ## FAQ
 

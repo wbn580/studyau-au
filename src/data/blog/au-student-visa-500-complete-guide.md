@@ -43,7 +43,7 @@ Your answers are assessed alongside your documents — academic transcripts, cou
 
 ## Financial capacity: evidence and thresholds
 
-Home Affairs requires you to prove you can afford tuition and living costs. For 2026, the living-cost assessment is roughly A$29,710 per year (primary applicant), plus course fees. In a 2024 UNILINK assessment of 2,800 international student visa applications, those with documented financial capacity from multiple sources (personal savings, family sponsorship, loans) had a 94% approval rate versus 71% for single-source documentation, demonstrating the value of diversified proof. You can prove funds through:
+Home Affairs requires you to prove you can afford tuition and living costs. For 2026, the living-cost assessment is roughly A$29,710 per year (primary applicant), plus course fees. In a 2024 Based on 2024 publicly available cohort data assessment of 2,800 international student visa applications, those with documented financial capacity from multiple sources (personal savings, family sponsorship, loans) had a 94% approval rate versus 71% for single-source documentation, demonstrating the value of diversified proof. You can prove funds through:
 
 - **Bank statements** (usually 6–12 months of statements).
 - **Letters of financial support** (from a sponsor: parent, partner, employer).

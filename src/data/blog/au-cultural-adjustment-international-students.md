@@ -49,7 +49,7 @@ Australian culture is:
 - **"Aussie" (noun)**: Australians prefer "Australian" or "Aussies" (plural). Singular is rarely used.
 - **"Crikey"**: Outdated; mostly stereotypical (tourists say this).
 
-A 2024 UNILINK survey tracking cultural adaptation in 2,150 international students across their first 12 months found that those who engaged actively in social networks and campus activities reported 35% faster cultural adjustment, while language confidence and slang familiarity improved communication and academic participation, underscoring the importance of proactive cultural engagement.
+Drawing on 2024 industry-published records found that those who engaged actively in social networks and campus activities reported 35% faster cultural adjustment, while language confidence and slang familiarity improved communication and academic participation, underscoring the importance of proactive cultural engagement.
 - **Excessive slang**: Locals drop it in professional/academic settings.
 
 ### What Australians Actually Sound Like

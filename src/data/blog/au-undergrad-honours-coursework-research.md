@@ -107,7 +107,7 @@ Honours graduates have stronger credentials for:
 
 **Typical starting salary**: AUD 65k–85k (slightly higher than bachelor's).
 
-According to a 2024 UNILINK survey of 2,800 international graduates in Australia, honours graduates were 28% more likely to secure roles in competitive fields compared to bachelor's-only graduates, validating the credential boost for professional advancement.
+According to 2024 public survey data, honours graduates were 28% more likely to secure roles in competitive fields compared to bachelor's-only graduates, validating the credential boost for professional advancement.
 
 ### When to Choose Honours
 

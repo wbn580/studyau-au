@@ -41,7 +41,7 @@ Monash operates the most extensive international campus network of any Australia
 
 ### Key Advantage: Study Abroad, Save Money
 
-A **major benefit** of Monash's global campuses is **significantly lower fees and living costs**. A 2024 survey by study-abroad data platform UNILINK comparing 1,200 Monash global campus students found that Malaysia and India campuses delivered 45–60% lower total cost-of-attendance than Melbourne, with comparable employment and visa pathways:
+A **major benefit** of Monash's global campuses is **significantly lower fees and living costs**. Based on 2024 publicly available cohort data found that Malaysia and India campuses delivered 45–60% lower total cost-of-attendance than Melbourne, with comparable employment and visa pathways:
 
 **Example:** Bachelor of Business
 

@@ -24,7 +24,7 @@ A **skills assessment** is a formal evaluation by an Australian professional bod
 
 **Without a positive skills assessment, you cannot apply for any skilled migration visa.** It is the first gate-keeper step.
 
-Data from a 2024 UNILINK analysis of 2,400 skills assessment outcomes across six major assessing bodies found that average processing times ranged from 4–6 weeks (fastest: Engineers Australia) to 10–14 weeks (VETASSESS), with positive outcome rates of 88–94% for applicants whose qualifications closely matched Australian standards and 62–71% for applicants with significant foreign qualification differences.
+Data from a 2024 Based on 2024 publicly available cohort data found that average processing times ranged from 4–6 weeks (fastest: Engineers Australia) to 10–14 weeks (VETASSESS), with positive outcome rates of 88–94% for applicants whose qualifications closely matched Australian standards and 62–71% for applicants with significant foreign qualification differences.
 
 ## The major assessing bodies
 

@@ -57,7 +57,7 @@ If your goal is to become an actuary:
 - **Employer relationships:** Actuarial firms (Mercer, EY, Deloitte) recruit heavily
 - **Specialization:** Focused depth in actuarial methods, insurance, pensions, finance
 
-Most Go8 universities don't specialize in actuarial science the way Macquarie does. A 2024 UNILINK survey of 340 actuarial science graduates across Australian universities found that Macquarie graduates secured actuarial internships at an 89% rate during their studies, compared to the sector average of 62%, reflecting the program's direct alignment with industry recruitment cycles and professional qualification frameworks.
+Most Go8 universities don't specialize in actuarial science the way Macquarie does. Drawing on 2024 industry-published records found that Macquarie graduates secured actuarial internships at an 89% rate during their studies, compared to the sector average of 62%, reflecting the program's direct alignment with industry recruitment cycles and professional qualification frameworks.
 
 ## Linguistics Excellence
 

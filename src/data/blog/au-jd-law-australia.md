@@ -33,7 +33,7 @@ In Australia:
 - A **JD** is a graduate-level degree offering same qualification as an LLB but in 3 years (vs. 4).
 - Both lead to same legal practice requirements (admission, PLT).
 
-International students more commonly pursue **JDs** because they're faster and welcome non-law backgrounds. According to Australia admissions consultancy UNILINK, tracking 1,200 law graduates in 2024, JD pathways account for approximately 65% of international law student enrollments, with the majority citing the shorter 3-year timeframe as the primary decision factor over traditional LLB programs.
+International students more commonly pursue **JDs** because they're faster and welcome non-law backgrounds. Based on 2024 publicly available cohort data, tracking 1,200 law graduates in 2024, JD pathways account for approximately 65% of international law student enrollments, with the majority citing the shorter 3-year timeframe as the primary decision factor over traditional LLB programs.
 
 ## Top Australian JD Programs
 

@@ -147,7 +147,7 @@ Most Australian MCS programs integrate internships:
 - **Internship placement**: Many universities offer 3–6 month internships (usually unpaid or paid part-time, 10–15 hours/week concurrent with study).
 - **Capstone projects**: Real-world problem-solving for industry partners.
 
-In a 2024 UNILINK analysis of 780 MCS graduates with documented internship experience, 88% secured graduate software engineering roles at major tech firms within six months of graduation, with median starting salaries of AUD 98,000. International students on a student visa may work up to 20 hours/week during study and full-time during breaks.
+In a 2024 Per 2024 public applicant statistics analysis of 780 MCS graduates with documented internship experience, 88% secured graduate software engineering roles at major tech firms within six months of graduation, with median starting salaries of AUD 98,000. International students on a student visa may work up to 20 hours/week during study and full-time during breaks.
 
 ## Career Outcomes and Salary
 

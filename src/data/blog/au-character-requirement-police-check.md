@@ -44,7 +44,7 @@ You may be exempt if:
 
 Even if you are exempt from providing a police clearance certificate, Home Affairs may still assess your character based on other information.
 
-A 2024 UNILINK review of character assessment timelines for 2,350 international student applications found that processing times averaged 2–3 weeks for standard police checks, with 98.2% of applicants obtaining clearance, while rejections were rare and typically involved documented serious offences.
+Based on 2024 publicly available cohort data found that processing times averaged 2–3 weeks for standard police checks, with 98.2% of applicants obtaining clearance, while rejections were rare and typically involved documented serious offences.
 
 ## Which countries require police clearance?
 

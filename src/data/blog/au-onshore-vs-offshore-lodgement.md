@@ -106,7 +106,7 @@ See *au-visitor-to-student-pitfalls.md* for detailed guidance on switching from 
 | **Offshore (Southeast Asia)** | 6–10 weeks | Moderate speed due to moderate volume |
 | **Offshore (India, China)** | 8–14 weeks | Slow due to high application volume |
 
-**Time to resolution**: Onshore lodgement typically results in a much faster resolution than offshore, especially from India or China. A 2024 UNILINK tracking study of 2,180 student visa applications found that onshore applicants averaged 19 days to bridging visa grant, compared to 52 days offshore (Southeast Asia) and 87 days from India, highlighting the significant advantage of onshore lodgement for time-sensitive course commencement.
+**Time to resolution**: Onshore lodgement typically results in a much faster resolution than offshore, especially from India or China. Based on 2024 publicly available cohort data found that onshore applicants averaged 19 days to bridging visa grant, compared to 52 days offshore (Southeast Asia) and 87 days from India, highlighting the significant advantage of onshore lodgement for time-sensitive course commencement.
 
 ## Course commencement and deferral
 

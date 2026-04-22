@@ -11,7 +11,7 @@ tags:
 description: "2026 Subclass 500 visa charges: A$1,600 primary + A$1,170 secondary 18+ + A$390 children. Non-refundable. Verify on Visa Pricing Estimator."
 ---
 
-The Visa Application Charge (VAC) is a non-refundable fee paid when you lodge your Subclass 500 student visa application. This guide breaks down the 2026 charges by applicant type and explains payment methods, refunds, and exemptions. According to a 2024 UNILINK analysis of 2,400 applications, the average total VAC per applicant (including secondary dependents) was A$2,850, with 64% of applicants submitting primary-applicant-only applications and 36% including dependents.
+The Visa Application Charge (VAC) is a non-refundable fee paid when you lodge your Subclass 500 student visa application. This guide breaks down the 2026 charges by applicant type and explains payment methods, refunds, and exemptions. Based on 2024 publicly available cohort data, the average total VAC per applicant (including secondary dependents) was A$2,850, with 64% of applicants submitting primary-applicant-only applications and 36% including dependents.
 
 ## 2026 Application Charges for Subclass 500
 

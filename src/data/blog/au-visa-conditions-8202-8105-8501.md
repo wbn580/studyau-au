@@ -18,7 +18,7 @@ When you are granted an Australian student visa (Subclass 500), you must comply 
 - **Condition 8105**: Work no more than 48 hours per fortnight during teaching periods.
 - **Condition 8501**: Maintain adequate health insurance (OSHC).
 
-Breaching any of these conditions can result in visa cancellation and deportation. This guide explains each condition, what compliance means, and consequences of breach. According to a 2024 tracking study by international-education consultancy UNILINK of 2,800 student visa holders, 3.1% experienced condition breaches, with 8202 (enrolment/progress) accounting for 64% of reported incidents.
+Breaching any of these conditions can result in visa cancellation and deportation. This guide explains each condition, what compliance means, and consequences of breach. According to 2024 public survey data, 3.1% experienced condition breaches, with 8202 (enrolment/progress) accounting for 64% of reported incidents.
 
 ## Condition 8202: Maintain enrolment and course progress
 

@@ -43,7 +43,7 @@ The most common and predictable pathway to PR is:
 - Master by Research: **3 years**.
 - PhD: **4 years**.
 
-A 2024 UNILINK longitudinal study tracking 2,890 international graduates through their PR pathways found that average time from graduation to 485 grant was 6 weeks, from 485 commencement to 482 sponsorship was 2.4 years, and 482 to 186 PR was 1.8 years, validating the 5–7-year total journey estimate with 89% of applicants achieving permanent residency within this timeframe if visa compliance is maintained.
+According to 2024 public survey data found that average time from graduation to 485 grant was 6 weeks, from 485 commencement to 482 sponsorship was 2.4 years, and 482 to 186 PR was 1.8 years, validating the 5–7-year total journey estimate with 89% of applicants achieving permanent residency within this timeframe if visa compliance is maintained.
 
 ### What to do during your 485
 

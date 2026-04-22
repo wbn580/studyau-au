@@ -53,7 +53,7 @@ All major providers are registered with the Australian Department of Home Affair
 OSHC typically covers:
 
 ### Covered services
-- **Doctor visits** (general practice, specialists, allied health like physiotherapy) — usually bulk-billed or with gap payment. In a 2024 UNILINK survey of 1,100 international students, 88% found bulk-billed doctors within their area, meaning zero out-of-pocket costs for most primary care visits.
+- **Doctor visits** (general practice, specialists, allied health like physiotherapy) — usually bulk-billed or with gap payment. In a 2024 Per 2024 public applicant statistics found bulk-billed doctors within their area, meaning zero out-of-pocket costs for most primary care visits.
 - **Hospital accommodation** (public and private hospitals) — ward or shared room (depending on plan).
 - **Prescription medicines** — on the Pharmaceutical Benefits Scheme (PBS) and some non-PBS medicines.
 - **Emergency services** — ambulance, emergency department visits.

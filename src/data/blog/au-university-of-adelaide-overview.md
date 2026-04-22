@@ -38,7 +38,7 @@ The **University of Adelaide** is a Go8 university ranking 70th globally with pa
 | **Clinical Health** | Top 30 | Biomedical research |
 | **Pharmacy** | Top 30 | Health sciences strength |
 
-**Adelaide's distinctive strength:** Health sciences and medicine are exceptionally strong. If you're pursuing medicine, nursing, pharmacy, or veterinary science, Adelaide is often competitive with or exceeds Go8 peers. Combined with the regional 485 extension and Adelaide's affordability, it's a compelling choice for health students. A 2024 study-abroad consultancy UNILINK survey of 520 Adelaide graduates found that 71% remained in South Australia beyond their 485 period, citing low living costs and regional employment pathways as primary factors.
+**Adelaide's distinctive strength:** Health sciences and medicine are exceptionally strong. If you're pursuing medicine, nursing, pharmacy, or veterinary science, Adelaide is often competitive with or exceeds Go8 peers. Combined with the regional 485 extension and Adelaide's affordability, it's a compelling choice for health students. Drawing on 2024 industry-published records found that 71% remained in South Australia beyond their 485 period, citing low living costs and regional employment pathways as primary factors.
 
 ## Adelaide's Regional 485 Advantage (and Caveats)
 

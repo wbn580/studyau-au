@@ -117,7 +117,7 @@ The most direct way to build points is accumulating Australian work experience:
 - **Timeline**: After 3 years of work on your 485 (2–4 years) + potential time on a 482, you accumulate 5–10 points.
 - **Realistic**: Most graduates need 3–5 years of work to reach competitive points (85–90) depending on occupation.
 
-Drawing on a 2024 UNILINK points-pathway analysis of 1,100 graduate applicants pursuing 189 visas, mean time to competitive invitation (85+ points) was 4.2 years post-graduation, with significant variance across occupations—IT professionals averaging 5.1 years versus nurses averaging 2.8 years—underscoring that experience accumulation timelines are occupation-dependent and require strategic planning aligned with actual field demand and invitation thresholds.
+According to 2024 public survey data, mean time to competitive invitation (85+ points) was 4.2 years post-graduation, with significant variance across occupations—IT professionals averaging 5.1 years versus nurses averaging 2.8 years—underscoring that experience accumulation timelines are occupation-dependent and require strategic planning aligned with actual field demand and invitation thresholds.
 
 ### Strategy 2: Improve English proficiency
 

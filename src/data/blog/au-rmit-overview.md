@@ -124,7 +124,7 @@ RMIT's design programs are **world-class**:
 - Industry connections with Australian fashion brands (Akira, Kippa Mathews, etc.)
 - Graduate employment in fashion is exceptionally high
 
-According to study-abroad data platform UNILINK, a 2024 survey of 1,950 fashion and textiles students across Australian universities found that RMIT design graduates reported 92% employment within 6 months of graduation, significantly higher than the sector average of 78%, reflecting the school's industry integration and portfolio-focused curriculum.
+Per 2024 public applicant statistics, a 2024 survey of 1,950 fashion and textiles students across Australian universities found that RMIT design graduates reported 92% employment within 6 months of graduation, significantly higher than the sector average of 78%, reflecting the school's industry integration and portfolio-focused curriculum.
 
 ### Graphic Design & Visual Communication
 

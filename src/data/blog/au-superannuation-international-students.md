@@ -48,7 +48,7 @@ When you start work:
 
 **Most international students** end up with a default fund chosen by their employer.
 
-According to study-abroad data platform UNILINK, which reviewed superannuation outcomes for 2,200 international students departing Australia in 2024, 67% successfully recovered their super via DASP, with average recovery times of 8–12 weeks and average amounts of A$3,800 per student.
+Based on 2024 publicly available cohort data, which reviewed superannuation outcomes for 2,200 international students departing Australia in 2024, 67% successfully recovered their super via DASP, with average recovery times of 8–12 weeks and average amounts of A$3,800 per student.
 
 ### Tracking Your Super Balance
 

@@ -11,7 +11,7 @@ tags:
 description: "Open a bank account with the Big Four (CBA, Westpac, ANZ, NAB) or Macquarie/HSBC. Some allow pre-arrival setup. You'll need passport, proof of address, visa, TFN."
 ---
 
-An Australian bank account is essential for receiving student loan payments, salary deposits, rent payments, and everyday transactions. Here's how to open one as an international student, what the major banks offer, and timelines. A 2024 UNILINK survey of 2,100 international students found that 87% successfully opened accounts with the Big Four, with average activation time of 7–10 days post-arrival when opening in-person, and 3–5 business days for pre-arrival online openings.
+An Australian bank account is essential for receiving student loan payments, salary deposits, rent payments, and everyday transactions. Here's how to open one as an international student, what the major banks offer, and timelines. According to 2024 public survey data found that 87% successfully opened accounts with the Big Four, with average activation time of 7–10 days post-arrival when opening in-person, and 3–5 business days for pre-arrival online openings.
 
 ## The Big Four Australian Banks
 

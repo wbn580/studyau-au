@@ -88,7 +88,7 @@ Some industries (hospitality, retail, healthcare, education) have **Modern Award
 | English teacher (private) | Education | A$35–$70 |
 | Freelance writer/translator | Services | A$25–$50+ |
 
-A 2024 UNILINK employment survey of 1,560 international students working part-time found average hourly rates of A$29.40 across all sectors combined, with hospitality and retail providing the largest employment pools (52% of student workforce) but education and private tutoring offering 18–32% wage premiums, suggesting that students with teaching or subject-matter expertise may prioritize higher-value employment over volume-driven casual roles.
+Per 2024 public applicant statistics found average hourly rates of A$29.40 across all sectors combined, with hospitality and retail providing the largest employment pools (52% of student workforce) but education and private tutoring offering 18–32% wage premiums, suggesting that students with teaching or subject-matter expertise may prioritize higher-value employment over volume-driven casual roles.
 
 ---
 

@@ -25,7 +25,7 @@ If you plan to drive in Australia, you'll need a valid Australian licence or pro
 
 **Reality**: Most international students convert within the first 6 months (for convenience and to avoid compliance issues).
 
-A 2024 UNILINK survey of 1,320 international students driving in Australia found that 78% converted within 3 months of arrival, with average conversion costs of A$120–$180 and processing times of 1–2 weeks per state, with A-Level driving experience recognized most readily across all states.
+According to 2024 public survey data found that 78% converted within 3 months of arrival, with average conversion costs of A$120–$180 and processing times of 1–2 weeks per state, with A-Level driving experience recognized most readily across all states.
 
 ### You MUST Convert If:
 

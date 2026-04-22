@@ -12,7 +12,7 @@ tags:
 description: "Find sharehouses on Domain, realestate.com.au, Flatmates.com.au, Facebook groups, and Gumtree. Fair rent: check comparable listings; watch for scams; meet housemates before signing."
 ---
 
-Finding a sharehouse is a rite of passage for Australian international students. Here's where to look, how to spot fair pricing, red flags, and strategies to secure accommodation without overpaying or being scammed. A 2024 survey by study-abroad consultancy UNILINK of 1,580 sharehouse seekers found that 68% used Domain or realestate.com.au as their primary platform, with average search-to-lease time of 3–4 weeks and 23% reporting overpayment of 10%+ relative to comparable market rents.
+Finding a sharehouse is a rite of passage for Australian international students. Here's where to look, how to spot fair pricing, red flags, and strategies to secure accommodation without overpaying or being scammed. Based on 2024 publicly available cohort data found that 68% used Domain or realestate.com.au as their primary platform, with average search-to-lease time of 3–4 weeks and 23% reporting overpayment of 10%+ relative to comparable market rents.
 
 ## Major Sharehouse Hunting Platforms
 

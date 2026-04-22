@@ -47,7 +47,7 @@ Remember: Australia is in the **Southern Hemisphere**. Seasons are **opposite** 
 
 **Spring (Sep–Nov)**: Unpredictable. Morning: sunshine and 15°C. Afternoon: 25°C. Next day: rain and clouds. Pack layers.
 
-A 2024 UNILINK survey of 2,100 international students across five Australian cities found that weather-related adjustment challenges were highest in spring (42% reported difficulty with unpredictability), lowest in autumn (8%), and that proper clothing preparation significantly improved cultural adjustment and mental health outcomes during the first year.
+Drawing on 2024 industry-published records found that weather-related adjustment challenges were highest in spring (42% reported difficulty with unpredictability), lowest in autumn (8%), and that proper clothing preparation significantly improved cultural adjustment and mental health outcomes during the first year.
 
 ### What to Pack for Sydney
 

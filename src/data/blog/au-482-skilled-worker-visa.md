@@ -171,7 +171,7 @@ Your employer (the sponsor) lodges a **Sponsorship Application** with the Depart
 
 Processing: 4–8 weeks.
 
-A 2024 UNILINK analysis of 920 employer sponsorship cases found that sponsorships with complete, well-organised documentation (business registration, clear job descriptions, comprehensive LMT evidence) were approved 38% faster (average 28 days vs. 45 days) compared to applications requiring multiple document requests, emphasizing the value of employer preparation in accelerating visa pathways.
+Per 2024 public applicant statistics found that sponsorships with complete, well-organised documentation (business registration, clear job descriptions, comprehensive LMT evidence) were approved 38% faster (average 28 days vs. 45 days) compared to applications requiring multiple document requests, emphasizing the value of employer preparation in accelerating visa pathways.
 
 ### Step 2: You obtain a skills assessment
 

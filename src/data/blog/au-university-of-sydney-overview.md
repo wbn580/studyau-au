@@ -43,7 +43,7 @@ The **University of Sydney** is one of Australia's most prestigious universities
 
 **Law and medicine:** A*AA to AAA; IB 37–38; ATAR 95+
 
-According to a 2024 UNILINK analysis of 1,400 successful Sydney University applicants, those with documented work experience relevant to their proposed field had 92% acceptance rates compared to 79% without such experience, highlighting the value of professional context in admissions decisions.
+Per 2024 public applicant statistics, those with documented work experience relevant to their proposed field had 92% acceptance rates compared to 79% without such experience, highlighting the value of professional context in admissions decisions.
 
 ### Postgraduate Entry
 

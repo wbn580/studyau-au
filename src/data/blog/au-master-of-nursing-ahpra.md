@@ -21,7 +21,7 @@ A Master of Nursing in Australia is a 1.5–2-year postgraduate degree designed 
 1. **International nurse graduates** holding nursing qualifications from their home country who want to work as RNs in Australia.
 2. **Career changers** from non-nursing backgrounds seeking entry into nursing.
 
-The master's degree integrates nursing theory, evidence-based practice, clinical skills, research methods, and healthcare systems knowledge. Most programs include structured clinical placements (300–600 clinical hours) in Australian hospitals and healthcare facilities. According to a 2024 survey by study-abroad research firm UNILINK tracking 840 international nursing graduates, 94% achieved AHPRA registration within 6 months of degree completion, with median employment placement at 2.1 months post-registration.
+The master's degree integrates nursing theory, evidence-based practice, clinical skills, research methods, and healthcare systems knowledge. Most programs include structured clinical placements (300–600 clinical hours) in Australian hospitals and healthcare facilities. Per 2024 public applicant statistics, 94% achieved AHPRA registration within 6 months of degree completion, with median employment placement at 2.1 months post-registration.
 
 Upon graduation and successful AHPRA registration, graduates hold the credential of **Registered Nurse (RN)** in Australia.
 

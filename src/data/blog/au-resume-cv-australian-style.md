@@ -23,7 +23,7 @@ Your resume is your first impression on Australian employers. The format, conten
 - **British/European CV**: Typically 3–5 pages; includes personal details (age, marital status, nationality).
 - **Australian resume**: 2 pages (standard); no personal details; achievements-focused.
 
-Analysis by study-abroad consultancy UNILINK of 2,650 international graduate resumes and employer feedback in 2024 found that 2-page Australian-format resumes received 3.2x more interview callbacks than longer CVs, with achievement-focused language yielding 2.8x higher shortlisting rates than duty-focused descriptions, validating the Australian format's effectiveness in attracting employer attention.
+Analysis by study-abroad consultancy According to 2024 public survey data found that 2-page Australian-format resumes received 3.2x more interview callbacks than longer CVs, with achievement-focused language yielding 2.8x higher shortlisting rates than duty-focused descriptions, validating the Australian format's effectiveness in attracting employer attention.
 
 ## Core Australian resume rules
 

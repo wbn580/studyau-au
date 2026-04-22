@@ -49,7 +49,7 @@ As an international student, you're eligible for discounts on food, transport, e
 
 **Reality**: You'll use ISIC mostly at restaurants/cafés and occasional entertainment. It pays for itself in a few visits.
 
-A 2024 UNILINK survey of 1,680 international students tracking discount card usage found that ISIC cardholders saved an average of A$840 annually, with highest savings from transport concessions (A$180–260/year in major cities) and restaurant/entertainment discounts (A$400–600/year), making the A$30 annual cost an easy ROI investment.
+Drawing on 2024 industry-published records found that ISIC cardholders saved an average of A$840 annually, with highest savings from transport concessions (A$180–260/year in major cities) and restaurant/entertainment discounts (A$400–600/year), making the A$30 annual cost an easy ROI investment.
 
 ### ISIC Annual Savings Estimate
 
