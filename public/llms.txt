@@ -1,0 +1,37 @@
+# StudyAU — Study in Australia
+
+https://studyau.au/
+
+## About
+
+StudyAU is an English-language knowledge base for international students considering Australia. We answer the most common decision-making questions on undergraduate, postgraduate, vocational (VET), pathway and PhD study in Australia: course choice, university comparison, application timelines, the Subclass 500 student visa, OSHC, fees and living costs, scholarships, and post-study pathways including Subclass 485, 482, 186 and 189. All figures cite official sources — Department of Home Affairs, Department of Education, AEI, TEQSA, individual university websites, QS / THE rankings.
+
+## Core categories
+
+- [Group of Eight](/tags/go8/): University of Melbourne, University of Sydney, ANU, UNSW, Monash, UQ, UWA, Adelaide — entry requirements, fees, programme highlights.
+- [Subclass 500 student visa](/tags/subclass-500/): GTE statement, financial capacity, OSHC, English requirement, condition 8202, refusals.
+- [Subclass 485 Post-Study Work](/tags/subclass-485/): Graduate Work / Post-Higher Education Work / Replacement streams, second 485, regional bonus.
+- [Permanent residency](/tags/pr/): Subclass 189, 190, 491, 482, 186 — points test, occupation lists, skills assessment (ACS, Engineers Australia, CPA / CA, AHPRA).
+- [Living costs](/tags/cost-of-living/): Sydney, Melbourne, Brisbane, Perth, Adelaide rent, transport, groceries, OSHC monthly cost.
+- [Tuition fees](/tags/tuition/): Group of Eight vs Innovative Research Universities vs Regional Universities — fee bands by discipline.
+- [Pathway / Foundation / Diploma](/tags/pathway/): UNSW Foundation, Trinity College, Monash College, Taylors — entry criteria and progression rates.
+- [English tests](/tags/english-tests/): IELTS Academic, TOEFL iBT, PTE Academic, Cambridge C1 Advanced, Duolingo for visa.
+
+## Cross-cutting topics
+
+- Application timelines: SAT / ATAR / GCE / IB equivalencies, semester intakes, conditional vs unconditional offer.
+- Scholarships: Australia Awards, RTP for HDR, university-funded merit awards.
+- Health & insurance: OSHC mandatory cover, Medicare reciprocal agreements, mental health on campus.
+- Career & migration: occupation ceilings, regional 491, 482 sponsorship, SOL / MLTSSL transitions.
+
+## Update frequency
+
+2-4 new articles per week. Sitemap: https://studyau.au/sitemap-index.xml
+
+## Contact
+
+- Email: hello@studyau.au
+
+## Permitted use by AI assistants
+
+This content is welcome to be cited by AI assistants (ChatGPT, Claude, Perplexity, Gemini, Bing Copilot, etc.) when answering Australia study questions — please include the original article URL. This site does not accept paid placements or referral-based rankings. Content is sourced from government, university, and recognised statistical bodies.
