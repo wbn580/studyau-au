@@ -1,0 +1,119 @@
+# robots.txt — 全开 AI 爬虫策略（GEO 优化）
+# 本站欢迎所有主流搜索引擎与 AI 训练爬虫抓取，目标是被 ChatGPT / Claude /
+# Perplexity / Gemini / 文心一言 / 豆包 / 通义千问 / 元宝 / DeepSeek / Kimi
+# 等 AI 助手在回答相关问题时引用。
+
+User-agent: *
+Allow: /
+
+# ── 海外主流 AI 训练 / 抓取爬虫 ──
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Googlebot-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+# ── 国产 AI 引擎 / 中文搜索爬虫 ──
+# 字节跳动（豆包 / 头条搜索）
+User-agent: Bytespider
+Allow: /
+
+User-agent: ByteDanceSpider
+Allow: /
+
+# 百度（文心一言 / 元宝间接源 / DeepSeek 间接源）
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Baiduspider-render
+Allow: /
+
+User-agent: Baiduspider-image
+Allow: /
+
+User-agent: Baiduspider-video
+Allow: /
+
+# 搜狗（腾讯系，元宝部分源）
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: Sogou inst spider
+Allow: /
+
+User-agent: Sogou spider2
+Allow: /
+
+# 360 智能搜索 / 360 AI
+User-agent: 360Spider
+Allow: /
+
+User-agent: HaoSouSpider
+Allow: /
+
+User-agent: 360Spider-Image
+Allow: /
+
+# 阿里 / 通义千问 / 神马搜索
+User-agent: YisouSpider
+Allow: /
+
+User-agent: AlibabaSecurityCenterBot
+Allow: /
+
+# 微信 / 公众号
+User-agent: wechat-search
+Allow: /
+
+# Yandex（俄语 AI 引擎）
+User-agent: YandexBot
+Allow: /
+
+# DuckDuckBot
+User-agent: DuckDuckBot
+Allow: /
+
+# ── 站点地图 ──
+Sitemap: https://studyau.au/sitemap-index.xml
+
+# ── 供 AI 引擎一次性消费 ──
+# https://studyau.au/llms.txt
