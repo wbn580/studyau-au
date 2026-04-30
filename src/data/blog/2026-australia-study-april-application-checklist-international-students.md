@@ -11,7 +11,7 @@ tags:
   - international students
   - application checklist
   - student visa
-  - 2026
+  - "2026"
 description: "April is a critical month for international students planning to study in Australia in 2026. Here's a complete action checklist covering applications, scholarships, visa timing, and enrollment confirmation for July and February 2027 intakes."
 ---
 
