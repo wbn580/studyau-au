@@ -11,7 +11,7 @@ tags:
   - Tuition Fees
   - Living Costs
   - International Students
-  - 2026
+  - "2026"
 description: "A complete 2026 cost guide for international students studying in Australia: tuition fees by institution and field, living expenses by city, visa costs, OSHC, and total budget planning."
 ---
 
