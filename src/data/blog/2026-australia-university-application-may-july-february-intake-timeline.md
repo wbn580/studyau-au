@@ -1,5 +1,5 @@
 ---
-title: Australia University Applications May 2026: What You Should Be Doing Right Now for July and February Intakes
+title: "Australia University Applications May 2026: What You Should Be Doing Right Now for July and February Intakes"
 description: A practical timeline for international students applying to Australian universities in May 2026 — covering July 2026 semester two and February 2027 semester one deadlines, required documents, and key decision points.
 pubDatetime: 2026-05-01T11:53:37Z
 modDatetime: 2026-05-01T12:01:44Z
