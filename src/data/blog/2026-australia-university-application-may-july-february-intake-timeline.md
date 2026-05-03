@@ -13,7 +13,7 @@ tags:
   - july intake
   - february intake
   - international students
-  - 2026
+  - '2026'
 ---
 
 May is a critical month if you're planning to study in Australia. Whether you're targeting **July 2026 (Semester 2)** or **February 2027 (Semester 1)**, the decisions you make right now will determine whether your application succeeds — or whether you end up scrambling to rebook flights and reapply.
