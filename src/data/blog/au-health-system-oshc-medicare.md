@@ -9,7 +9,34 @@ tags:
   - Living
   - Health
 description: "OSHC is mandatory (A$650–$750/year). GP visits are bulk-billed (free). PBS prescriptions cost A$36–$42. After-hours calls: 13 SICK. Reciprocal agreements with UK, NZ, Sweden, etc."
+ogImage: "https://img.ulec.com.cn/edu/st-pauls-cathedral-london-dome-2026-2667x3553.jpg"
 ---
+
+<!-- R2_IMAGE: st-pauls-cathedral-london-dome -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/st-pauls-cathedral-london-dome-2026-2667x3553.jpg"
+    alt="圣保罗大教堂 - 城市地标风光"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/st-pauls-cathedral-london-dome-2026-2667x3553.jpg",
+  "name": "圣保罗大教堂 - 城市地标风光",
+  "description": "圣保罗大教堂 - 城市地标风光 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia's healthcare system is excellent but unfamiliar to international students. Here's how to access GPs, manage costs, use OSHC, and understand your rights.
 

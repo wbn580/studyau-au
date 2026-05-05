@@ -10,7 +10,34 @@ tags:
   - Cost of Living
   - Sydney
 description: "Sydney costs A$2,400–$2,800/month for a single student. Rent (A$300–$500/week) is the biggest expense; food, transport, and health insurance add another A$800–$1,200."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875437.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875437.webp"
+    alt="新南威尔士州888B签证详解 – 悉尼投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875437.webp",
+  "name": "新南威尔士州888B签证详解 – 悉尼投资移民",
+  "description": "新南威尔士州888B签证详解 – 悉尼投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Sydney is Australia's most expensive city for international students, but with careful budgeting you can live within or near the official evidence-of-funds threshold of A$29,710 per year (roughly A$2,476/month). Reality: most students in Sydney spend A$2,400–$2,800 monthly. Here's where your money actually goes.
 

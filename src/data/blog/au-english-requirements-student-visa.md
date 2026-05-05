@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - English Test
 description: "Master English language requirements for Subclass 500. IELTS, TOEFL, PTE, OET, Cambridge scores by course level. Exemptions and alternatives."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 English-language proficiency is a core requirement for the Australian student visa (Subclass 500). Depending on your course level and country of origin, you must demonstrate English-language ability through an approved test. This guide covers accepted tests, required score bands by course level, and exemptions.
 

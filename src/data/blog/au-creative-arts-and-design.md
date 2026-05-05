@@ -9,7 +9,34 @@ tags:
   - Courses
   - Creative Arts
 description: "Design, Fine Arts, Animation in Australia: AUD 40k–50k/year. Top schools: RMIT, UTS, Monash, UNSW Art & Design, VCA, NIDA. Portfolio-based entry."
+ogImage: "https://img.ulec.com.cn/edu/-1777883193.webp"
 ---
+
+<!-- R2_IMAGE:  -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/-1777883193.webp"
+    alt="成人行业如何申请贷款？澳大利亚性工作者房贷详解"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/-1777883193.webp",
+  "name": "成人行业如何申请贷款？澳大利亚性工作者房贷详解",
+  "description": "成人行业如何申请贷款？澳大利亚性工作者房贷详解 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia is home to world-class creative arts and design schools producing graduates for film, animation, visual arts, design, fashion, and entertainment industries. This guide covers leading institutions, program types, portfolio requirements, and career pathways.
 

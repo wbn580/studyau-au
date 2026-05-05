@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - Financial Capacity
 description: "Prove your financial capacity for Subclass 500. 2026 living costs: A$29,710/year. Bank statements, loans, sponsor letters. Document checklist included."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Financial capacity is a core requirement for the Australian Subclass 500 student visa. You must demonstrate that you can afford tuition fees and living expenses without relying on illegal or undisclosed work. This guide walks through the 2026 financial thresholds, acceptable evidence, and how to present your strongest case.
 

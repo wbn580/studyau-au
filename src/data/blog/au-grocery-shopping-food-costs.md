@@ -9,7 +9,34 @@ tags:
   - Living
   - Food
 description: "Australian groceries cost A$60–$80/week (cook at home). Big supermarkets: Coles, Woolworths, ALDI. Markets are 20–30% cheaper. Budget meal ideas: pasta, rice, frozen veg."
+ogImage: "https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg"
 ---
+
+<!-- R2_IMAGE: 十二门徒 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg"
+    alt="大洋路-十二门徒 - 澳大利亚大洋路"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg",
+  "name": "大洋路-十二门徒 - 澳大利亚大洋路",
+  "description": "大洋路-十二门徒 - 澳大利亚大洋路 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Food is your second-largest expense after rent. Here's how to shop smart, find affordable supermarkets, use markets, and meal prep on a student budget.
 

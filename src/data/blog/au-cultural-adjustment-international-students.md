@@ -9,7 +9,34 @@ tags:
   - Living
   - Culture
 description: "Aussies use casual slang ('mate,' 'heaps,' 'no worries'). University classrooms emphasize participation. Mental health support: Beyond Blue, Lifeline 13 11 14, Headspace, university counselling."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Moving to Australia means adapting to a new culture, educational system, and social norms. Here's what to expect, common cultural differences, and how to maintain mental health during adjustment.
 

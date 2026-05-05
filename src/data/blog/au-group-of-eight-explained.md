@@ -10,7 +10,34 @@ tags:
   - Go8
   - Rankings
 description: "The Group of Eight (Go8) comprises Australia's eight leading research universities. Learn who qualifies, their QS rankings, and what Go8 membership means for international students."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **Group of Eight** (Go8) is a collective of Australia's oldest and most research-intensive universities. If you've heard Australian universities described as "the Ivy League of Australia," Go8 members are almost certainly being referenced. Understanding Go8 is essential for international students comparing options, because these institutions dominate Australia's research output, command premium fees, and attract the most competitive applicant pools.
 
