@@ -11,7 +11,34 @@ tags:
   - Regional
   - Visa
 description: "RUN comprises eight regional universities (CQU, Federation, JCU, SCU, USQ, UNE) that qualify graduates for extended 485 work visas. Learn the visa advantage and regional lifestyle trade-offs."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **Regional Universities Network (RUN)** comprises eight universities located outside Australia's major metropolitan centers. While they may rank lower globally than Go8 or ATN, RUN universities offer a **crucial visa advantage**: graduates who secure skilled employment in their region can extend their Temporary Graduate Visa (485) from 2 years to 3 years (or longer). For international students seeking a pathway to Australian residency, this extension is invaluable.
 

@@ -11,7 +11,34 @@ tags:
   - Job Market
   - Professional Development
 description: "Australian CV and resume format: 2 pages, achievements not duties, no photo, keywords, ATS-friendly. Stand out to Australian employers."
+ogImage: "https://img.ulec.com.cn/edu/-1777883193.webp"
 ---
+
+<!-- R2_IMAGE:  -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/-1777883193.webp"
+    alt="成人行业如何申请贷款？澳大利亚性工作者房贷详解"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/-1777883193.webp",
+  "name": "成人行业如何申请贷款？澳大利亚性工作者房贷详解",
+  "description": "成人行业如何申请贷款？澳大利亚性工作者房贷详解 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Your resume is your first impression on Australian employers. The format, content, and tone expected in Australia differ from many other countries. Understanding these differences is critical to getting past the initial screening and landing interviews. This article explains how to craft an Australian-style resume that resonates with Australian employers and recruiters.
 

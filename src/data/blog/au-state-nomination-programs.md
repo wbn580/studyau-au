@@ -11,7 +11,34 @@ tags:
   - Regional
   - PR
 description: "Australian state sponsorship programs: NSW, VIC, QLD, WA, SA, TAS, ACT, NT. Each state's occupation priorities, points, and regional focus explained."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Every Australian state and territory operates its own **State Sponsorship Program**, nominating skilled workers to live and work in their jurisdiction. While skilled migration visa categories (189, 190, 491) are federal, state nomination is what makes the 190 and 491 visas achievable for most applicants. Understanding what each state prioritises — its occupation list, points requirements, regional focus, and specific eligibility criteria — is essential to choosing the right pathway to permanent residency.
 

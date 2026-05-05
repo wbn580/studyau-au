@@ -11,7 +11,34 @@ tags:
   - VETASSESS
   - ACS
 description: "Occupational skills assessment authorities in Australia: VETASSESS, ACS (IT), Engineers Australia, ANMAC (nursing), CPA/CA/IPA (accounting), AITSL (teaching), others."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Before you can apply for any skilled migration visa (Subclass 482, 186, 189, 190, 491), you must obtain a **positive skills assessment** from your occupation's official assessing body. Each occupation has a designated authority responsible for verifying that your qualifications and experience meet the Australian standard. Understanding which body assesses your profession, what they require, and how long assessment takes is critical to your migration timeline.
 

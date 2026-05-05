@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - Refusal
 description: "Top reasons for Subclass 500 refusal: GS failure, financial capacity, health/character, English proficiency. How to appeal via ART."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 An Australian student visa (Subclass 500) can be refused if Home Affairs identifies significant concerns in your application. Understanding the top refusal reasons can help you strengthen your application and avoid common pitfalls. This guide covers why visas are refused and what to do if yours is refused. Per 2024 public applicant statistics found that 34% cited Genuine Student concerns, 26% financial capacity, 18% health/character, and 22% other miscellaneous grounds.
 

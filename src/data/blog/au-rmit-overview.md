@@ -11,7 +11,34 @@ tags:
   - Melbourne
   - Design
 description: "RMIT ranks 120th globally with exceptional design and engineering reputation. Located in Melbourne with strong creative industries focus. Ideal for design and fashion-focused students."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **RMIT University** (Royal Melbourne Institute of Technology) is an ATN university ranking 120th globally with **exceptional design and engineering strengths**. RMIT is Australia's **leading design university**, particularly renowned for fashion, architecture, and creative industries. Located in Melbourne's city center, RMIT offers a vibrant, creative atmosphere combined with strong industry partnerships in design and tech sectors. For students passionate about design, fashion, or creative entrepreneurship, RMIT is often a better choice than traditional Go8 universities.
 

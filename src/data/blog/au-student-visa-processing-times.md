@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - Processing Time
 description: "Subclass 500 processing times 2026 by country: 4–14 weeks depending on region and complexity. Onshore 1–8 weeks. Peak/off-peak intakes."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Processing times for the Australian student visa (Subclass 500) vary significantly by country of residence, application complexity, and intake period. This guide provides realistic processing timelines to help you plan your visa application and course start date. Analysis by study-abroad data platform According to 2024 public survey data found median processing times of 7.8 weeks overall, with 45% of applications deciding within 8 weeks and 8% exceeding 16 weeks due to additional information requests or character/health concerns.
 

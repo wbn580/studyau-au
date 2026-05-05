@@ -9,7 +9,34 @@ tags:
   - Living
   - Safety
 description: "Australia is safe overall (low violent crime). Common scams: fake job offers, dating/romance fraud, rental scams. Emergency: 000. Non-emergency police: 131 444."
+ogImage: "https://img.ulec.com.cn/edu/-1777883193.webp"
 ---
+
+<!-- R2_IMAGE:  -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/-1777883193.webp"
+    alt="成人行业如何申请贷款？澳大利亚性工作者房贷详解"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/-1777883193.webp",
+  "name": "成人行业如何申请贷款？澳大利亚性工作者房贷详解",
+  "description": "成人行业如何申请贷款？澳大利亚性工作者房贷详解 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia is one of the world's safest countries, but scams targeting international students are real. Here's what to watch for, how to stay safe, and what to do in emergencies.
 
