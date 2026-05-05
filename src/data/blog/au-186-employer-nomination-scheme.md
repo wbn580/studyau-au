@@ -11,7 +11,34 @@ tags:
   - PR
   - Sponsorship
 description: "Subclass 186 Employer Nomination Scheme grants permanent residency via employer sponsorship. Direct Entry after 2 years on 482, or temporary-to-PR transition."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 186 Employer Nomination Scheme (ENS) is the direct pathway to **permanent residency** for skilled workers sponsored by Australian employers. For international graduates on a Subclass 485 visa, the 186 represents the end goal: a permanent visa that allows you to stay in Australia indefinitely, work in any occupation, and eventually apply for Australian citizenship. The 186 is most commonly accessed via the **Direct Entry** pathway after 2 years on a Subclass 482 visa, but there are other entry routes as well.
 

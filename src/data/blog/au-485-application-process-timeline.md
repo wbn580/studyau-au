@@ -11,7 +11,34 @@ tags:
   - PHEW
   - PVEW
 description: "Step-by-step guide to applying for Subclass 485: graduation, document prep, lodging, and processing timelines (4–8+ weeks)."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 485 application process begins at graduation and can take anywhere from 4 weeks to several months from lodging to decision. Understanding each step — from finalising your studies to submitting your application online — helps you plan your stay and minimise delays. This article walks through the process chronologically and explains what to expect at each stage. According to 2024 public survey data found average processing time of 6.3 weeks from lodging to decision, with 76% decided within 8 weeks and 12% requiring additional information requests.
 

@@ -11,7 +11,34 @@ tags:
   - SkillSelect
   - PR
 description: "Subclass 189 Skilled Independent Visa: points-tested PR visa, no sponsor required, 65-point minimum, practical score 85–95+, occupation on CSOL, 4-year processing."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 189 Skilled Independent Visa is a **points-tested pathway to permanent residency** that does not require employer sponsorship or state nomination. For international graduates with relevant skills, work experience, and strong English, the 189 is an attractive route to PR — it offers complete independence from employer or government support. However, competition is fierce, and the points required to be invited vary by occupation and processing year.
 

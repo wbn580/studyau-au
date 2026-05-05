@@ -13,7 +13,34 @@ tags:
   - visa fees
   - IELTS
 description: "Subclass 485 changes from March 2026: fee doubled to AUD 4,600, IELTS minimum 6.5, age cap 35 (most cases), test validity 1 year. What's changed and how to apply under new rules."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Australian Department of Home Affairs implemented sweeping changes to the **Subclass 485 Temporary Graduate visa** that took effect on **1 March 2026**. The headline change is a 100% increase in the visa application fee — from AUD 2,300 to **AUD 4,600** — but the package also includes a new English language minimum of IELTS 6.5, an age cap of 35 for most applicants, and a tightening of English test validity from three years to one. According to the Migration Amendment Regulations 2026 explanatory statement and the Department's official 485 visa page (last updated March 2026), this is the largest single-package change to the post-study work visa since its 2013 introduction. Below is a section-by-section breakdown of what changed, who is affected, and how 2026 applicants should adjust their strategy.
 

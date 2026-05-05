@@ -11,7 +11,34 @@ tags:
   - PHEW
   - PVEW
 description: "Complete guide to Australia's Subclass 485 Temporary Graduate Visa: PHEW (2–4 years) and PVEW (18 months) streams, eligibility, charges, and how it fits the PR pathway."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 After graduating from an Australian university or TAFE college, the Subclass 485 Temporary Graduate Visa is often your first step toward permanent residency — or simply a chance to gain Australian work experience. This visa replaced two older streams with two new ones in July 2024: PHEW (Post-Higher Education Work) for graduates and PVEW (Post-Vocational Education Work) for TAFE students. Both allow you to stay in Australia and work full-time without needing an employer sponsor. Understanding these streams, their lengths, charges, and eligibility rules is essential to plan your post-study path.
 

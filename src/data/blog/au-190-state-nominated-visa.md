@@ -11,7 +11,34 @@ tags:
   - State Nomination
   - PR
 description: "Subclass 190 State Nominated Visa grants permanent residency via points and state nomination. Lower points required than 189; each state sets occupations and priorities."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 190 State Nominated Visa is a **points-tested pathway to permanent residency** that combines SkillSelect points with nomination by an Australian state or territory. Unlike the Subclass 189 (which requires high points and no sponsor), the 190 typically requires lower points — and states often have occupational priorities and incentives that make you more competitive. For international graduates, the 190 is often more achievable than the 189, particularly if you have state connections (studied or worked there) or your occupation aligns with state priorities.
 

@@ -11,7 +11,34 @@ tags:
   - PHEW
   - PVEW
 description: "Learn which Australian qualifications are eligible for Subclass 485: CRICOS registration, PHEW (degree), PVEW (vocational), and the Australian Study Requirement explained."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 485 Temporary Graduate Visa opens a post-study pathway in Australia, but not every Australian qualification makes you eligible. Your education must be CRICOS-registered, recognised through the Australian Study Requirement (ASR), or meet specific vocational criteria. Understanding which qualifications count, and which do not, is the first gate-keeper step to planning your post-study stay. Based on 2024 publicly available cohort data found that 8% were initially deemed ineligible due to CRICOS registration gaps or ASR non-compliance, highlighting the importance of prior verification.
 

@@ -13,7 +13,34 @@ tags:
   - International Students
   - "2026"
 description: "A complete 2026 cost guide for international students studying in Australia: tuition fees by institution and field, living expenses by city, visa costs, OSHC, and total budget planning."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport-university-campus-education-studen -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
+    alt="澳洲留学申请攻略：录取要求、签证、学费 2021"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp",
+  "name": "澳洲留学申请攻略：录取要求、签证、学费 2021",
+  "description": "澳洲留学申请攻略：录取要求、签证、学费 2021 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia remains one of the world's most popular study destinations, attracting over 750,000 international students annually. But understanding the full cost picture — tuition, living expenses, health insurance, and visa fees — is essential before committing. This guide provides a current breakdown based on 2026/27 figures.
 
