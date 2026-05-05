@@ -9,7 +9,34 @@ tags:
   - Living
   - Housing
 description: "Rental bonds are typically 4 weeks' rent, held in state-managed accounts (RTBA, RTA, etc.). Tenancy laws vary by state; know your rights before signing a lease."
+ogImage: "https://img.ulec.com.cn/edu/rental-bond-tenancy-basics-1777967823.webp"
 ---
+
+<!-- R2_IMAGE: rental-bond-tenancy-basics -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/rental-bond-tenancy-basics-1777967823.webp"
+    alt="Rental Bond and Tenancy Basics — Laws, Protections, and Your Rights"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/rental-bond-tenancy-basics-1777967823.webp",
+  "name": "Rental Bond and Tenancy Basics — Laws, Protections, and Your Rights",
+  "description": "Rental Bond and Tenancy Basics — Laws, Protections, and Your Rights — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Renting a sharehouse room means signing a tenancy agreement and paying a rental bond. This guide covers bond amounts, state-by-state tenancy laws, dispute resolution, and your rights as an international student renting in Australia. Based on 2024 publicly available cohort data found that 34% experienced bond disputes, with an average recovery time of 8–12 weeks when involving state bond authorities.
 
