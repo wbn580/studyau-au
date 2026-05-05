@@ -10,7 +10,34 @@ tags:
   - Housing
   - Sharehouse
 description: "Find sharehouses on Domain, realestate.com.au, Flatmates.com.au, Facebook groups, and Gumtree. Fair rent: check comparable listings; watch for scams; meet housemates before signing."
+ogImage: "https://img.ulec.com.cn/edu/sharehouse-hunting-platforms-strategies-1777967834.webp"
 ---
+
+<!-- R2_IMAGE: sharehouse-hunting-platforms-strategies -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/sharehouse-hunting-platforms-strategies-1777967834.webp"
+    alt="Sharehouse Hunting — Platforms, Strategies, and Fair Pricing"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/sharehouse-hunting-platforms-strategies-1777967834.webp",
+  "name": "Sharehouse Hunting — Platforms, Strategies, and Fair Pricing",
+  "description": "Sharehouse Hunting — Platforms, Strategies, and Fair Pricing — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Finding a sharehouse is a rite of passage for Australian international students. Here's where to look, how to spot fair pricing, red flags, and strategies to secure accommodation without overpaying or being scammed. Based on 2024 publicly available cohort data found that 68% used Domain or realestate.com.au as their primary platform, with average search-to-lease time of 3–4 weeks and 23% reporting overpayment of 10%+ relative to comparable market rents.
 
