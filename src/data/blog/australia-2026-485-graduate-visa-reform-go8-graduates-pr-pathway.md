@@ -13,7 +13,34 @@ tags:
   - PR Pathway
   - Skilled Migration
 description: Australia's 2026 reforms to the 485 graduate visa narrow eligibility but extend stay duration for Group of Eight graduates. This guide breaks down the new four-year/three-year/two-year tiers, MLTSSL alignment, and PR pathway timing.
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Australian Temporary Graduate visa (subclass 485) is the post-study work visa allowing international graduates of Australian degrees to remain in Australia for two to four years to gain work experience aligned with skilled migration pathways. According to the Australian Department of Home Affairs 2025 statistics, Australia issued approximately 67,400 subclass 485 visas in FY 2024-25, of which Chinese passport holders accounted for 18.7%. Effective 1 July 2026, the 485 visa underwent its most consequential reform since 2013: stay length is now tightly tied to qualification level, MLTSSL alignment, and graduate destination state.
 

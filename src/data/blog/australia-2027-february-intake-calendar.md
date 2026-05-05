@@ -12,7 +12,34 @@ tags:
   - University Applications
   - February Intake
 description: "Critical deadlines for 2027 February intake at Australian Group of Eight universities. Covers application closure dates, Conditional Offer periods, CoE issuance timing, and visa processing windows for international postgraduate students."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport-university-campus-education-studen -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
+    alt="澳洲留学申请攻略：录取要求、签证、学费 2021"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp",
+  "name": "澳洲留学申请攻略：录取要求、签证、学费 2021",
+  "description": "澳洲留学申请攻略：录取要求、签证、学费 2021 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 ## 2027 Australian February Intake: Strategic Timeline for International Postgraduates
 

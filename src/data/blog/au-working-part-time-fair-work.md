@@ -9,7 +9,34 @@ tags:
   - Living
   - Working
 description: "International students can work 48 hours/fortnight during semester (unlimited during breaks). Minimum wage is A$24.95/hour (2025-26). Casual loading +25%; know your award rate and rights."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Working part-time is a staple of international student life in Australia. Here's everything you need to know about wages, work rights, visa rules, and protections under Fair Work laws.
 

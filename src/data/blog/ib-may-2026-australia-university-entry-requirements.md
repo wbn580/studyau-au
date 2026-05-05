@@ -5,7 +5,34 @@ pubDatetime: 2026-05-03T09:08:37Z
 modDatetime: 2026-05-03T12:31:14Z
 description: "IB May 2026 exam season guide: Australian university entry requirements, direct entry cut-offs, foundation pathways and application timelines for IB students"
 tags: ["IB", "Australia universities", "2026", "study in Australia", "IB results"]
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The IB May 2026 examination session is underway, with written exams concluding in late May and results released in early July. For IB diploma holders, Australian universities offer a direct, merit-based admission pathway that operates independently from the Australian domestic ATAR system.
 
