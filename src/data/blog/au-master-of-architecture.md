@@ -9,7 +9,34 @@ tags:
   - Courses
   - Architecture
 description: "Master of Architecture in Australia: 2–3 years, AUD 50k–60k/year. AACA accreditation, registration pathway, top providers UNSW, Melbourne."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Master of Architecture in Australia is a 2–3-year postgraduate degree leading to professional registration as an architect. This guide covers accreditation standards, licensure pathways, practical experience requirements, and career prospects.
 

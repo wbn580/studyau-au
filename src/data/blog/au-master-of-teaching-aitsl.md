@@ -10,7 +10,34 @@ tags:
   - Education
   - Teaching
 description: "Master of Teaching (Primary/Secondary) in Australia: 1.5–2 years, AUD 45k–55k/year. AITSL accreditation, practicum placements, teacher registration pathway."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Master of Teaching in Australia is a postgraduate pathway for graduates seeking to become qualified, registered teachers. Programs are accredited by AITSL (Australian Institute for Teaching and School Leadership) and lead directly to teacher registration and employment in Australian schools. This guide covers program structures, specialisations, registration requirements, and career pathways. According to 2024 public survey data found that 96% achieved state teacher registration within 6 months of completion, with 89% securing employment contracts at Australian schools by the end of their first registration year.
 

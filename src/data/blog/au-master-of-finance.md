@@ -10,7 +10,34 @@ tags:
   - Business
   - Finance
 description: "Master of Finance degrees in Australia align with CFA exam prep. Top providers include UNSW, Melbourne, Monash. Costs: AUD 50k–60k annually."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Master of Finance in Australia combines practical investment knowledge, corporate finance, and financial markets theory with direct pathways toward Chartered Financial Analyst (CFA) certification. This guide outlines the leading programs, CFA alignment, and career outcomes for international students.
 

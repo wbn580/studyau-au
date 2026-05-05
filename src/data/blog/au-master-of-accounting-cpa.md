@@ -10,7 +10,34 @@ tags:
   - Business
   - Accounting
 description: "Master of Accounting enables CPA Australia, Chartered Accountants ANZ (CA ANZ), and IPA pathways. AUD 50k–58k/year; top providers: UNSW, Melbourne, Monash."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia's accounting masters programs are designed expressly to qualify graduates for professional accounting designations—CPA Australia, Chartered Accountants Australia and New Zealand (CA ANZ), or the Institute of Public Accountants (IPA). This guide explains the professional pathways, accreditation, and how international students can build an accounting career in Australia or beyond.
 

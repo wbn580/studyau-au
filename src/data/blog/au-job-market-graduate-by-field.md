@@ -11,7 +11,34 @@ tags:
   - Employment
   - Networking
 description: "Job market outlook for international graduates by field: IT, engineering, accounting, nursing, business analytics. Salary, demand, visa pathways."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Australian job market is diverse, but opportunities vary significantly by field. International graduates in some occupations (nursing, skilled trades, IT) find abundant opportunities and clear pathways to permanent residency, while others face stiffer competition. Understanding which fields are in high demand, what salaries to expect, and how each field aligns with skilled migration visas is essential to planning your post-study career.
 

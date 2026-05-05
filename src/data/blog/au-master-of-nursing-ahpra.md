@@ -10,7 +10,34 @@ tags:
   - Health
   - Nursing
 description: "Master of Nursing in Australia: 1.5–2 years, AUD 45k–55k/year. AHPRA registration, clinical placements, strong visa pathways for international students."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Master of Nursing in Australia combines advanced clinical knowledge, leadership, and research with a direct pathway to Registered Nurse (RN) status and AHPRA (Australian Health Practitioner Regulation Agency) registration. This guide covers accreditation, entry requirements, clinical placements, and visa eligibility for international nursing graduates.
 

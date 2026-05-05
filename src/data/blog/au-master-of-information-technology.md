@@ -10,7 +10,34 @@ tags:
   - STEM
   - IT
 description: "Master of Information Technology in Australia: ideal for non-CS backgrounds. 1.5–2 years, AUD 45k–55k/year. Build a tech career from non-technical backgrounds."
+ogImage: "https://img.ulec.com.cn/edu/-1777883193.webp"
 ---
+
+<!-- R2_IMAGE:  -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/-1777883193.webp"
+    alt="成人行业如何申请贷款？澳大利亚性工作者房贷详解"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/-1777883193.webp",
+  "name": "成人行业如何申请贷款？澳大利亚性工作者房贷详解",
+  "description": "成人行业如何申请贷款？澳大利亚性工作者房贷详解 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Master of Information Technology (MIT) in Australia is designed specifically for professionals without computer science backgrounds who want to transition into technology careers. This guide covers program structures, leading universities, and how to navigate the shift from non-tech fields into Australian technology industries.
 

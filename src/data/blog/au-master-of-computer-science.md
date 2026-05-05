@@ -10,7 +10,34 @@ tags:
   - STEM
   - Computer Science
 description: "Master of Computer Science in Australia: 1.5–2 years, AUD 45k–55k/year. UNSW, Melbourne, ANU lead. Strong IT visa pathways and tech career outcomes."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia's Master of Computer Science (MCS) programs are designed for students with strong computing backgrounds seeking advanced expertise in algorithms, software engineering, cybersecurity, artificial intelligence, and systems design. This guide covers leading universities, prerequisites, program structures, and pathways to tech careers in Australia and globally.
 

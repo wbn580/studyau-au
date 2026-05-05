@@ -10,7 +10,34 @@ tags:
   - STEM
   - Data Science
 description: "Master of Data Science in Australia: 1.5–2 years, AUD 48k–55k/year. UNSW, Melbourne, Monash lead. Strong job prospects in tech, finance, healthcare."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Master of Data Science programs in Australia combine statistics, machine learning, programming, and domain expertise to prepare professionals for the rapidly expanding data analytics and AI sectors. This guide covers curriculum design, leading universities, employment outcomes, and visa pathways.
 

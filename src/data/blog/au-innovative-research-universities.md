@@ -10,7 +10,34 @@ tags:
   - IRU
   - Research
 description: "IRU comprises seven universities (Charles Darwin, Flinders, Griffith, JCU, La Trobe, Murdoch, Western Sydney) known for specialized research strengths and supportive teaching environments."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **Innovative Research Universities (IRU)** is an association of seven universities established to highlight research excellence beyond the Go8. IRU members are often overlooked by international students, but they offer distinctive research strengths, competitive fees, and supportive learning environments. If you're seeking a smaller, more intimate university experience with strong specialization, IRU universities deserve serious consideration.
 

@@ -11,7 +11,34 @@ tags:
   - Sydney
   - Specialty
 description: "Macquarie offers exceptional strengths in actuarial science, linguistics, and business. Not Go8, but highly specialized and well-regarded. Ideal for niche discipline students."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **Macquarie University** is a prominent Sydney-based university that, while not Go8, is **exceptionally specialized** in several fields. Macquarie is best known for **actuarial science, linguistics, and business**—disciplines where it often ranks among Australia's best and competes with Go8 institutions. For students with clear disciplinary focus in these areas, Macquarie offers excellence, affordability, and practical industry connections.
 
