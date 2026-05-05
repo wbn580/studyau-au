@@ -11,7 +11,34 @@ tags:
   - Perth
   - Regional
 description: "UWA ranks 70th globally with strengths in engineering and geology. Located in Perth with regional 485 extension potential. Explore admissions, costs, and Western Australian lifestyle."
+ogImage: "https://img.ulec.com.cn/edu/kings-park-perth-skyline-2026-4000x6000.jpg"
 ---
+
+<!-- R2_IMAGE: kings-park-perth-skyline -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/kings-park-perth-skyline-2026-4000x6000.jpg"
+    alt="国王公园珀斯 - 澳大利亚珀斯地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/kings-park-perth-skyline-2026-4000x6000.jpg",
+  "name": "国王公园珀斯 - 澳大利亚珀斯地标",
+  "description": "国王公园珀斯 - 澳大利亚珀斯地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **University of Western Australia (UWA)** is a Go8 university ranking 70th globally with particular strengths in **engineering, geology, and mining**. Located in Perth, Western Australia's capital, UWA offers excellent academics combined with unique lifestyle advantages—beautiful beaches, lower living costs, and outdoor recreation. However, international students should understand an important **regional visa nuance**: while Perth is classified as regional for 485 visa purposes, this comes with trade-offs for career and employment options.
 

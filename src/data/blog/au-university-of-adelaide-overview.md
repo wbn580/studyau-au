@@ -11,7 +11,34 @@ tags:
   - Adelaide
   - Regional
 description: "Adelaide ranks 70th globally with strong engineering and health sciences. Classified as regional for 485 visa extension. Explore admissions, low costs, and South Australian opportunities."
+ogImage: "https://img.ulec.com.cn/edu/adelaide-botanic-garden-glasshouse-2026-3007x4510.jpg"
 ---
+
+<!-- R2_IMAGE: adelaide-botanic-garden-glasshouse -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/adelaide-botanic-garden-glasshouse-2026-3007x4510.jpg"
+    alt="阿德莱德植物园 - 澳大利亚阿德莱德地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/adelaide-botanic-garden-glasshouse-2026-3007x4510.jpg",
+  "name": "阿德莱德植物园 - 澳大利亚阿德莱德地标",
+  "description": "阿德莱德植物园 - 澳大利亚阿德莱德地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **University of Adelaide** is a Go8 university ranking 70th globally with particular strengths in **engineering, health sciences, and agriculture**. Located in Adelaide, South Australia's capital, it offers an excellent combination of academic quality, affordability, and unique visa advantages. Adelaide is classified as a **regional city for 485 visa purposes**, meaning graduates can extend their work visa by one year if they secure employment locally. For international students prioritizing affordability and willing to build their careers in South Australia, Adelaide is an outstanding value proposition.
 

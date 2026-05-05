@@ -11,7 +11,34 @@ tags:
   - Melbourne
   - Comparison
 description: "Direct comparison of Sydney vs. Melbourne for international students. Covers living costs, weather, job markets, universities, and lifestyle. Help you choose the right Australian city."
+ogImage: "https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp"
 ---
+
+<!-- R2_IMAGE: melbourne-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp"
+    alt="随着复苏步伐加快，悉尼房价今年将上涨 10%"
+    width="940"
+    height="548"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp",
+  "name": "随着复苏步伐加快，悉尼房价今年将上涨 10%",
+  "description": "随着复苏步伐加快，悉尼房价今年将上涨 10% — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "548",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **Sydney and Melbourne** are Australia's two largest cities and home to most of the country's leading universities. For international students, choosing between them is often the first decision before selecting a specific university. Both are world-class cities with excellent universities, but they differ significantly in cost, lifestyle, weather, and job markets. This guide compares them directly to help you decide which suits you best.
 

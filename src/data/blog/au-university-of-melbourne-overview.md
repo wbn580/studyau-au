@@ -10,7 +10,34 @@ tags:
   - Go8
   - Melbourne
 description: "Melbourne is Australia's highest-ranked university (QS 37). Learn about admissions, the distinctive Melbourne Model, graduate entry, and why it suits ambitious international students."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **University of Melbourne** is Australia's highest-ranked university and consistently ranks in the top 50 globally (QS 37). For international students, Melbourne offers world-class teaching, a prestigious degree, and the distinctive **Melbourne Model**—a flexible degree structure that allows you to combine a bachelor's with a master's qualification. Understanding Melbourne's unique offerings is crucial if you're considering Australia's top institution.
 

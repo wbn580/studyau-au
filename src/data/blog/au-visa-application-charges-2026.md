@@ -9,7 +9,34 @@ tags:
   - Visa
   - Subclass 500
 description: "2026 Subclass 500 visa charges: A$1,600 primary + A$1,170 secondary 18+ + A$390 children. Non-refundable. Verify on Visa Pricing Estimator."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Visa Application Charge (VAC) is a non-refundable fee paid when you lodge your Subclass 500 student visa application. This guide breaks down the 2026 charges by applicant type and explains payment methods, refunds, and exemptions. Based on 2024 publicly available cohort data, the average total VAC per applicant (including secondary dependents) was A$2,850, with 64% of applicants submitting primary-applicant-only applications and 36% including dependents.
 

@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - Transitions
 description: "Transition between study levels on student visa: secondary school → university → postgrad. Visa renewal, CoE, continuous study pathway."
+ogImage: "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
 ---
+
+<!-- R2_IMAGE: university-campus-education-student -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
+    alt="英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp",
+  "name": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比",
+  "description": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Many international students progress through multiple study levels in Australia: secondary school → undergraduate university → postgraduate university. Managing your student visa transitions between these levels is critical to maintaining legal status. This guide explains how to transition smoothly between study levels without visa issues.
 

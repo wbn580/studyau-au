@@ -11,7 +11,34 @@ tags:
   - Brisbane
   - Engineering
 description: "UQ ranks 70th globally with particular strengths in engineering, agriculture, and business. Located in Brisbane with strong industry partnerships. Ideal for engineering and career-focused students."
+ogImage: "https://img.ulec.com.cn/edu/brisbane-river-night-skyline-2026-6000x4000.jpg"
 ---
+
+<!-- R2_IMAGE: brisbane-river-night-skyline -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/brisbane-river-night-skyline-2026-6000x4000.jpg"
+    alt="布里斯班河夜景 - 澳大利亚布里斯班地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/brisbane-river-night-skyline-2026-6000x4000.jpg",
+  "name": "布里斯班河夜景 - 澳大利亚布里斯班地标",
+  "description": "布里斯班河夜景 - 澳大利亚布里斯班地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **University of Queensland (UQ)** is one of Australia's leading Go8 universities, ranking 70th globally (QS 2025). UQ is particularly renowned for **engineering, agriculture, and business**, with exceptionally strong industry partnerships. Located in Brisbane, Queensland's capital, UQ offers an excellent combination of world-class research, practical focus, and vibrant student life. For engineering students and those planning to work in Australia, UQ is an outstanding choice.
 

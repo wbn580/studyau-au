@@ -10,7 +10,34 @@ tags:
   - Superannuation
   - Tax
 description: "Employers contribute 11.5–12% of your pay to superannuation. When you leave Australia, apply for Departing Australia Superannuation Payment (DASP) to access it. Tax: 37% withholding."
+ogImage: "https://img.ulec.com.cn/realestate/finance-money-business-1777880046.webp"
 ---
+
+<!-- R2_IMAGE: finance-money-business -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/realestate/finance-money-business-1777880046.webp"
+    alt="作为澳洲房产投资者，如何最大限度地提高你的税收回报？"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/realestate/finance-money-business-1777880046.webp",
+  "name": "作为澳洲房产投资者，如何最大限度地提高你的税收回报？",
+  "description": "作为澳洲房产投资者，如何最大限度地提高你的税收回报？ — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Superannuation (super) is Australia's mandatory retirement savings system. As an international student working part-time, you'll build a super account. Here's how it works, what happens when you leave, and how to access your money via DASP.
 

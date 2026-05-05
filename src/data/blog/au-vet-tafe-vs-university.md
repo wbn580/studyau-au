@@ -10,7 +10,34 @@ tags:
   - VET
   - Pathway
 description: "TAFE and VET in Australia: 1–3 years, AUD 15k–25k/year. Skilled trades, practical focus. Compare university pathway, 485 PVEW visa stream."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport-university-campus-education-studen -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp"
+    alt="澳洲留学申请攻略：录取要求、签证、学费 2021"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-university-campus-education-studen-1777883554.webp",
+  "name": "澳洲留学申请攻略：录取要求、签证、学费 2021",
+  "description": "澳洲留学申请攻略：录取要求、签证、学费 2021 — 配图来源：R2自有图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Vocational Education and Training (VET) through TAFE (Technical and Further Education) and private providers offers an alternative to university, with faster entry to trades and practical careers. This guide compares VET/TAFE with university, explains when each makes sense, and covers the 485 Provisional Visa – Eligible Worker (PVEW) stream for skilled migration.
 

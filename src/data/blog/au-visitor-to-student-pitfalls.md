@@ -11,7 +11,34 @@ tags:
   - Visitor Visa
   - Condition 8503
 description: "Switch from visitor (600/651) to student visa. Pitfall: condition 8503 ('no further stay'). Must depart first. How to avoid common mistakes."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Many international students arrive in Australia on a **visitor visa** (Subclass 600 or Subclass 651 eVisitor) and then decide to enrol in a course. However, switching from a visitor visa to a student visa is fraught with pitfalls, especially the **condition 8503 ("no further stay")** restriction. This guide explains the risks and how to avoid them.
 

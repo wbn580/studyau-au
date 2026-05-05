@@ -9,7 +9,34 @@ tags:
   - Living
   - Tax
 description: "Apply for a Tax File Number (TFN) online at ATO within 28 days of arrival. It's free, essential for work, and required by employers for payroll tax withholding."
+ogImage: "https://img.ulec.com.cn/realestate/finance-money-business-1777875600.webp"
 ---
+
+<!-- R2_IMAGE: finance-money-business -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/realestate/finance-money-business-1777875600.webp"
+    alt="了解企业预算和现金流预测"
+    width="1200"
+    height="1063"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/realestate/finance-money-business-1777875600.webp",
+  "name": "了解企业预算和现金流预测",
+  "description": "了解企业预算和现金流预测 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "1063",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Tax File Number (TFN) is a unique 9-digit identifier assigned by the Australian Taxation Office (ATO). You'll need it for employment, tax returns, and financial transactions in Australia. Here's how to apply, timelines, and common questions.
 

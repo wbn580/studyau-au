@@ -11,7 +11,34 @@ tags:
   - Sydney
   - Engineering
 description: "UNSW ranks 84th globally with exceptional strengths in engineering and business. Unique trimester system allows faster degree completion. Ideal for ambitious engineering and business students."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **UNSW Sydney** (University of New South Wales) is a Go8 university ranking 84th globally with exceptional strengths in **engineering and business**. UNSW is particularly renowned for its **unique trimester system** (three academic terms per year instead of the standard two), which allows students to complete degrees faster while intensifying the academic pace. For ambitious engineering and business students, UNSW offers world-class education combined with industry partnerships and a highly competitive, achievement-focused culture.
 
