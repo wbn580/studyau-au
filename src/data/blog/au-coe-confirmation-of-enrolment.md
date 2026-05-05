@@ -10,7 +10,34 @@ tags:
   - Subclass 500
   - CoE
 description: "Understand the CoE (Confirmation of Enrolment). What it contains, when you get it, what happens if your course changes. Essential for Subclass 500."
+ogImage: "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
 ---
+
+<!-- R2_IMAGE: university-campus-education-student -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
+    alt="英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp",
+  "name": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比",
+  "description": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 A Confirmation of Enrolment (CoE) is a mandatory document for the Australian student visa (Subclass 500). It is issued by your education provider (university, vocational college, or secondary school) and certifies that you have been enrolled in an approved CRICOS course. Without a valid CoE, you cannot lodge a Subclass 500 application. This guide explains what a CoE is, how to obtain it, and what happens if your course changes.
 

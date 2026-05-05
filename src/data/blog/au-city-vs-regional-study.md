@@ -11,7 +11,34 @@ tags:
   - Visa
   - Lifestyle
 description: "Compare studying in Australian cities (Sydney, Melbourne, Brisbane) vs. regional areas. Explore cost savings, lifestyle trade-offs, and the 485 visa extension benefit for regional graduates."
+ogImage: "https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp"
 ---
+
+<!-- R2_IMAGE: sydney-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp"
+    alt="悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp",
+  "name": "悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲",
+  "description": "悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 One of the most important decisions for international students is whether to study in Australia's major cities (Sydney, Melbourne, Brisbane) or regional areas (Perth, Adelaide, Canberra, regional universities). This choice affects your cost of living, lifestyle quality, job opportunities, and crucially, your post-study work visa eligibility. Understanding the trade-offs is essential for making an informed decision aligned with your goals.
 

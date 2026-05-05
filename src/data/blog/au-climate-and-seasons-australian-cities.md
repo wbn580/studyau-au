@@ -9,7 +9,34 @@ tags:
   - Living
   - Culture
 description: "Sydney: humid summers, mild winters (10–26°C). Melbourne: 4-seasons-in-a-day (8–25°C). Brisbane: subtropical year-round (15–30°C). Perth: Mediterranean heat (8–35°C). Adelaide: moderate (7–27°C)."
+ogImage: "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
 ---
+
+<!-- R2_IMAGE: perth-australia-sydney-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
+    alt="悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp",
+  "name": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘",
+  "description": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australia's climate varies drastically by city. Understanding seasons, temperature ranges, and packing needs will help you adjust smoothly. Here's what each major city's weather is really like, month-by-month.
 

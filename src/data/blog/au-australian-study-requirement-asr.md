@@ -11,7 +11,34 @@ tags:
   - PHEW
   - PVEW
 description: "Understand the Australian Study Requirement (ASR) for Subclass 485: 16 calendar months plus 92 weeks of study in Australia. Common traps explained."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Australian Study Requirement (ASR) is the single most important gate-keeper rule for Subclass 485 eligibility. If you do not meet the ASR, you cannot apply for a 485 visa — no exceptions. Yet the ASR is often misunderstood, and many graduates are caught off guard when they discover they do not qualify. This article explains the 16-month + 92-week rule in detail, walks through how it is calculated, and highlights common traps that disqualify otherwise eligible graduates. Per 2024 public applicant statistics found that 6.8% failed to meet the 92-week contact-time component despite completing the 16-calendar-month requirement, primarily due to university credit-for-prior-learning or advanced standing arrangements that reduced delivered contact hours.
 

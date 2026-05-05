@@ -12,7 +12,34 @@ tags:
   - Perth
   - Adelaide
 description: "Brisbane (A$2,000–$2,400/month), Perth (A$1,900–$2,300), and Adelaide (A$1,800–$2,100) are 15–25% cheaper than Sydney. Rent, food, and transport all run lower."
+ogImage: "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
 ---
+
+<!-- R2_IMAGE: perth-australia-sydney-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
+    alt="悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp",
+  "name": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘",
+  "description": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 If Sydney and Melbourne feel expensive, Brisbane, Perth, and Adelaide offer genuine savings — and excellent universities (UQ, Griffith, UNSW Sydney @ Canberra, Curtin, University of Western Australia, University of Adelaide). Here's how these three cities compare and stack up.
 

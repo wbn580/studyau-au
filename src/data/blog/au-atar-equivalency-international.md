@@ -11,7 +11,34 @@ tags:
   - Admissions
   - International
 description: "ATAR is Australia's main admissions metric. Learn how A-Level, IB, Indian (NEET/12th), Chinese (Gaokao), Vietnamese, and other systems convert. Understand equivalent entry thresholds."
+ogImage: "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
 ---
+
+<!-- R2_IMAGE: australia-go8-sydney-university-quadrangle -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg"
+    alt="悉尼大学方庭，澳洲八大代表性校园建筑"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/australia-go8-sydney-university-quadrangle-2026-1200x800.jpg",
+  "name": "悉尼大学方庭，澳洲八大代表性校园建筑",
+  "description": "悉尼大学方庭，澳洲八大代表性校园建筑 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **ATAR** (Australian Tertiary Admission Rank) is the primary metric Australian universities use for undergraduate admissions. However, international students have qualifications from different systems (A-Level, IB, NEET, Gaokao, etc.). Universities convert these to **ATAR equivalency** for admissions purposes. Understanding how your qualification translates is essential for realistic application planning.
 

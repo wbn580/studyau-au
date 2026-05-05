@@ -11,7 +11,34 @@ tags:
   - Regional
   - PR
 description: "Subclass 491 Skilled Work Regional grants a 5-year provisional visa via regional work. Transition to 191 permanent residency after 5 years. Lower points than 189/190."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The Subclass 491 Skilled Work Regional Visa is a **provisional pathway to permanent residency** designed to incentivise skilled workers to live and work in regional Australia. Instead of gaining permanent residency immediately (like 189 or 190), you hold a 5-year provisional visa while working in a regional area. After 5 years of regional employment and residency, you transition to the **Subclass 191 Permanent Residence** visa, becoming a permanent resident. For international graduates willing to pursue regional opportunities, the 491 is often the most accessible visa pathway.
 

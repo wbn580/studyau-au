@@ -14,7 +14,34 @@ tags:
   - Subclass 482
   - TSS Visa
   - Post-study Pathway
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The 485 Temporary Graduate Visa lets Australian higher-education graduates stay and work in Australia after their course for 2 to 4 years depending on qualification level and region (Department of Home Affairs, 2025). For international students the question is rarely "will I get 485" — the grant rate has stayed above 90% across 2023–24 and 2024–25 (DHA reporting). The real question is what happens in months 12 to 24 of that 485 term, when most graduates either convert to an employer-sponsored visa (Subclass 482 TSS, or its renamed variants) or start rotating toward independent skilled pathways. For the 2026 cohort, the conversion math has shifted again after the December 2023 Migration Strategy changes and the 2024 reshuffle of occupation lists.
 

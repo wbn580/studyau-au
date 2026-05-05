@@ -10,7 +10,34 @@ tags:
   - Cost of Living
   - Melbourne
 description: "Melbourne costs A$2,200–$2,600/month — roughly 10% cheaper than Sydney. Rent is A$280–$450/week in shared houses; food and transport are marginally cheaper."
+ogImage: "https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp"
 ---
+
+<!-- R2_IMAGE: melbourne-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp"
+    alt="随着复苏步伐加快，悉尼房价今年将上涨 10%"
+    width="940"
+    height="548"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/melbourne-australia-1777878037.webp",
+  "name": "随着复苏步伐加快，悉尼房价今年将上涨 10%",
+  "description": "随着复苏步伐加快，悉尼房价今年将上涨 10% — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "548",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Melbourne is often billed as cheaper than Sydney, and the data confirms it. A typical single international student spends A$2,200–$2,600/month in Melbourne, compared to A$2,400–$2,800 in Sydney. The difference is real but modest — mostly lower rent in outer suburbs and slightly cheaper groceries. Here's the detailed breakdown and comparison.
 

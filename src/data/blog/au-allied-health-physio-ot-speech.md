@@ -10,7 +10,34 @@ tags:
   - Health
   - Allied Health
 description: "Master of Physiotherapy, OT, Speech Pathology in Australia: 2–3 years, AUD 45k–55k/year. AHPRA accreditation, clinical placements, visa pathways."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Allied health professions—physiotherapy, occupational therapy, and speech pathology—are high-demand careers in Australia with excellent visa pathways and salary prospects. This guide covers education requirements, professional accreditation, clinical placements, and registration pathways for international students. According to 2024 public survey data found AHPRA registration rates of 92% for physiotherapy, 89% for occupational therapy, and 91% for speech pathology, with median employment placement timelines of 3–4 months post-graduation.
 

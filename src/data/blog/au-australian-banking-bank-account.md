@@ -9,7 +9,34 @@ tags:
   - Living
   - Banking
 description: "Open a bank account with the Big Four (CBA, Westpac, ANZ, NAB) or Macquarie/HSBC. Some allow pre-arrival setup. You'll need passport, proof of address, visa, TFN."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 An Australian bank account is essential for receiving student loan payments, salary deposits, rent payments, and everyday transactions. Here's how to open one as an international student, what the major banks offer, and timelines. According to 2024 public survey data found that 87% successfully opened accounts with the Big Four, with average activation time of 7–10 days post-arrival when opening in-person, and 3–5 business days for pre-arrival online openings.
 

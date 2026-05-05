@@ -11,7 +11,34 @@ tags:
   - Canberra
   - Research
 description: "ANU ranks 84th globally with exceptional strength in policy, research, and humanities. Located in Canberra with unique ANU College pathway. Ideal for research-focused students."
+ogImage: "https://img.ulec.com.cn/edu/parliament-house-canberra-2026-3808x5712.jpg"
 ---
+
+<!-- R2_IMAGE: parliament-house-canberra -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/parliament-house-canberra-2026-3808x5712.jpg"
+    alt="澳大利亚国会大厦 - 城市地标风光"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/parliament-house-canberra-2026-3808x5712.jpg",
+  "name": "澳大利亚国会大厦 - 城市地标风光",
+  "description": "澳大利亚国会大厦 - 城市地标风光 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 The **Australian National University (ANU)** is Australia's national research university and a top 100 global institution. While it ranks 84th (slightly below Melbourne and Sydney), ANU is **unmatched in Australia for research intensity**, particularly in **policy, social sciences, and humanities**. Located in Canberra (Australia's capital), ANU offers a unique **ANU College pathway** that provides flexibility for international students who don't meet direct-entry requirements. For research-focused students, policy-interested learners, and those seeking a collegiate academic community, ANU is exceptional.
 
