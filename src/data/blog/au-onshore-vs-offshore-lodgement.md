@@ -11,7 +11,34 @@ tags:
   - Onshore
   - Offshore
 description: "Onshore vs offshore Subclass 500 lodgement. Pros, cons, bridging visa, processing times. Choose the right option for your situation."
+ogImage: "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
 ---
+
+<!-- R2_IMAGE: visa-immigration-passport -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp"
+    alt="维多利亚州888A – 墨尔本投资移民"
+    width="1200"
+    height="799"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/visa-immigration-passport-1777875332.webp",
+  "name": "维多利亚州888A – 墨尔本投资移民",
+  "description": "维多利亚州888A – 墨尔本投资移民 — 配图来源：免费商用图库",
+  "width": "1200",
+  "height": "799",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 When you lodge your Australian student visa (Subclass 500) application, you have two main options: **onshore** (from within Australia) or **offshore** (from outside Australia). Each has distinct advantages and disadvantages. This guide helps you decide which lodgement option suits your situation.
 

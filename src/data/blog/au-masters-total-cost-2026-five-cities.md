@@ -14,7 +14,34 @@ tags:
   - Melbourne
   - Australia masters
 description: "Complete 2026 Australian master's cost breakdown: tuition + OSHC + rent + groceries + transport across Sydney, Melbourne, Brisbane, Perth, Adelaide. Includes 1-year and 1.5-2-year programme totals."
+ogImage: "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
 ---
+
+<!-- R2_IMAGE: perth-australia-sydney-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp"
+    alt="悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/perth-australia-sydney-australia-1777878642.webp",
+  "name": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘",
+  "description": "悉尼、珀斯和阿德莱德的房地产市场有望跑赢大盘 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 International students considering an Australian master's degree need three numbers in hand before applying: tuition, mandatory OSHC, and city-specific living costs. After the **Subclass 485 fee doubled to AUD 4,600** in March 2026 and university tuition continued its 3-5% annual rise, the total bill for a 1.5-year master's at a Group of Eight university in Sydney has crossed **AUD 100,000** for the first time. This guide pulls together the latest 2026 numbers — straight from university tuition pages, OSHC provider quotes, and city-specific rental data — for the five largest international student destinations in Australia.
 

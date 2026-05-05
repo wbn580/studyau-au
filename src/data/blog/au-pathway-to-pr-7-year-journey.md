@@ -12,7 +12,34 @@ tags:
   - Subclass 485
   - Skilled Migration
 description: "Australian PR pathway: 485 temporary visa (2–4 years) → 482 sponsorship (2 years) → 186 PR, or 189/190/491. 5–7 year total journey. Plan your migration timeline."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 For most international graduates, the journey from completing your degree to holding permanent residency in Australia spans **5–7 years**. This is not a shortcut — it is a deliberate, staged progression through multiple visa classes, each requiring specific criteria and milestones. Understanding the typical pathway, the time each stage takes, and the parallel strategies available will help you plan realistically and make informed decisions about your future.
 

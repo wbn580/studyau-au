@@ -9,7 +9,34 @@ tags:
   - Living
   - Transport
 description: "Sydney uses Opal (A$18.20 daily cap); Melbourne uses myki (A$19.32 daily cap); Brisbane uses Go card (A$30+ weekly cap). All major cities have daily/weekly caps."
+ogImage: "https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp"
 ---
+
+<!-- R2_IMAGE: sydney-australia -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp"
+    alt="悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/sydney-australia-1777881173.webp",
+  "name": "悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲",
+  "description": "悉尼、墨尔本降温，布里斯班房市 “难以置信的强劲 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Australian cities run independent public transport systems with different cards and pricing. Here's how to get and use transport cards in each city, costs, concession eligibility, and savings tips.
 

@@ -11,7 +11,34 @@ tags:
   - Melbourne
   - Global
 description: "Monash ranks 54th globally with strong engineering and applied research. Operates campuses in 6 countries. Ideal for internationally mobile students seeking global study options."
+ogImage: "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
 ---
+
+<!-- R2_IMAGE: hosier-lane-melbourne-street-art -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg"
+    alt="墨尔本涂鸦街 - 澳大利亚墨尔本地标"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/hosier-lane-melbourne-street-art-2026-4288x2848.jpg",
+  "name": "墨尔本涂鸦街 - 澳大利亚墨尔本地标",
+  "description": "墨尔本涂鸦街 - 澳大利亚墨尔本地标 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 **Monash University** is a Go8 institution ranking 54th globally (QS 2025), making it one of Australia's highest-ranked universities. What sets Monash apart is its **global footprint**—it operates campuses in six countries (Australia, Malaysia, India, South Africa, Italy, and China), making it Australia's most internationally dispersed university. For international students seeking to study abroad but potentially reduce costs or gain global experience, Monash's multi-campus model is unique.
 

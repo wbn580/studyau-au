@@ -10,7 +10,34 @@ tags:
   - Health
   - Pharmacy
 description: "BPharm and MPharm in Australia: 4–5 years total, AUD 40k–50k/year. AHPRA registration, pharmacy internship, strong visa pathways."
+ogImage: "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
 ---
+
+<!-- R2_IMAGE: invest-securities -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/invest-securities-1777880547.webp"
+    alt="BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/invest-securities-1777880547.webp",
+  "name": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别",
+  "description": "BC Invest（前BC Securities）澳洲住房贷款评测：海外人士&多种临时居民签证类别 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Pharmacy is a regulated health profession in Australia with significant demand for international graduates. This guide covers pharmacy education pathways, entry requirements, professional registration through the Pharmacy Board of Australia, and career outcomes for international students. Based on 2024 publicly available cohort data found that 88% achieved registration within 12 months and secured employment in Australian pharmacies, with median starting salaries of A$55,000–$60,000.
 

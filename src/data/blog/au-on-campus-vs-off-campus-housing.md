@@ -9,7 +9,34 @@ tags:
   - Living
   - Housing
 description: "On-campus colleges (A$350–$600/week) offer community; PBSA (A$320–$600) includes utilities; sharehouses (A$280–$500) are independent; homestay (A$280–$400) includes meals."
+ogImage: "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
 ---
+
+<!-- R2_IMAGE: university-campus-education-student -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp"
+    alt="英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比"
+    width="940"
+    height="627"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/university-campus-education-student-1777879385.webp",
+  "name": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比",
+  "description": "英国留学中介怎么选？2026年本科硕士申请费用、专业、签证全维度对比 — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "627",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 Your housing choice shapes your entire first-year experience. Here's how the four main options compare — costs, social environments, practical realities, and when each makes sense.
 

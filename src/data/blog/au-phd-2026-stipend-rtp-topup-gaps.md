@@ -13,7 +13,34 @@ tags:
   - Scholarship
   - Funding
 description: "Australian PhD stipends cover living costs but leave research equipment, conference travel, and relocation unfunded. Group of Eight institutions now offering top-up scholarships to close gaps."
+ogImage: "https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg"
 ---
+
+<!-- R2_IMAGE: 十二门徒 -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg"
+    alt="大洋路-十二门徒 - 澳大利亚大洋路"
+    width="1200"
+    height="800"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/十二门徒-2026-2592x3872.jpg",
+  "name": "大洋路-十二门徒 - 澳大利亚大洋路",
+  "description": "大洋路-十二门徒 - 澳大利亚大洋路 — 配图来源：R2自有图库",
+  "width": "1200",
+  "height": "800",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 ## Direct answer
 
