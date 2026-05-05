@@ -10,7 +10,34 @@ tags:
   - Pathway
   - Admissions
 description: "International students have three pathways to bachelor's degrees: direct entry, foundation programs (1 year), and diplomas (1-2 years). Understand when each is appropriate."
+ogImage: "https://img.ulec.com.cn/edu/foundation-programs-diplomas-direct-1777967807.webp"
 ---
+
+<!-- R2_IMAGE: foundation-programs-diplomas-direct -->
+<figure class="article-image">
+  <img
+    src="https://img.ulec.com.cn/edu/foundation-programs-diplomas-direct-1777967807.webp"
+    alt="Foundation Programs, Diplomas, and Direct Entry: Who Needs Which Pathway"
+    width="940"
+    height="628"
+    loading="lazy"
+    decoding="async"
+    sizes="(max-width: 768px) 100vw, 750px"
+  />
+</figure>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ImageObject",
+  "contentUrl": "https://img.ulec.com.cn/edu/foundation-programs-diplomas-direct-1777967807.webp",
+  "name": "Foundation Programs, Diplomas, and Direct Entry: Who Needs Which Pathway",
+  "description": "Foundation Programs, Diplomas, and Direct Entry: Who Needs Which Pathway — 配图来源：免费商用图库",
+  "width": "940",
+  "height": "628",
+  "license": "https://creativecommons.org/licenses/publicdomain/",
+  "acquireLicensePage": "https://img.ulec.com.cn/about"
+}
+</script>
 
 International students often have multiple pathways to enter Australian universities. Rather than applying directly to a bachelor's degree, many students pursue **foundation programs** (1 year) or **diplomas** (1–2 years) before entering bachelor's year 1 or 2. Understanding these pathways and when to use them is essential for realistic education planning and cost management.
 
